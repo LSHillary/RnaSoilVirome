@@ -7,4 +7,4 @@ This contains the R script used to analyse the read-mapping and HMMer results fr
 * RdRP_hits.txt - contigs identified as containing RdRP containing genes
 * diamond_hits.txt - contigs identified as viral using Diamond (this analysis was not taken further due to using the RdRP hallmark gene to identify RNA viral contigs)
 * RdRp-wolf-search-results.txt - HMMer search results
-* wolf.svg - phylogenetic data from reference viruses used in Wolf et al. 2018
+* wolf.csv - phylogenetic data from reference viruses used in Wolf et al. 2018

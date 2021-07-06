@@ -1,0 +1,3591 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+BORDER_WIDTH	1
+COLOR	#bebada
+DATASET_LABEL	study
+LEGEND_COLORS	#ffffff	#7f7f7f	#000000
+LEGEND_LABELS	This study	Starr et al. 2019	Wolf et al. 2018
+LEGEND_SHAPES	1	1	1
+LEGEND_TITLE	study
+MARGIN	5
+STRIP_WIDTH	150
+DATA
+ALD89131.1	#000000	Wolf et al. 2018
+ALD89132.1	#000000	Wolf et al. 2018
+ALD89138.1	#000000	Wolf et al. 2018
+ALD89139.1	#000000	Wolf et al. 2018
+ALM62238.1	#000000	Wolf et al. 2018
+ALM62250.1	#000000	Wolf et al. 2018
+SBQ28480.1	#000000	Wolf et al. 2018
+YP_002019754.1	#000000	Wolf et al. 2018
+YP_002019757.1	#000000	Wolf et al. 2018
+YP_003104770.1	#000000	Wolf et al. 2018
+YP_009182165.1	#000000	Wolf et al. 2018
+AAC06252.1	#000000	Wolf et al. 2018
+ACN90651.1	#000000	Wolf et al. 2018
+ACT66724.1	#000000	Wolf et al. 2018
+ACT66728.1	#000000	Wolf et al. 2018
+ACT66752.1	#000000	Wolf et al. 2018
+ACY07245.1	#000000	Wolf et al. 2018
+AEQ25571.1	#000000	Wolf et al. 2018
+AFN39796.1	#000000	Wolf et al. 2018
+NP_042307.1	#000000	Wolf et al. 2018
+NP_046752.1	#000000	Wolf et al. 2018
+NP_085473.1	#000000	Wolf et al. 2018
+SLL96484.1	#000000	Wolf et al. 2018
+YP_007002852.1	#000000	Wolf et al. 2018
+YP_007111575.1	#000000	Wolf et al. 2018
+YP_007237129.1	#000000	Wolf et al. 2018
+YP_007237175.1	#000000	Wolf et al. 2018
+YP_009208148.1	#000000	Wolf et al. 2018
+YP_717671.1	#000000	Wolf et al. 2018
+AAO21337.1	#000000	Wolf et al. 2018
+AAR01970.1	#000000	Wolf et al. 2018
+AAR01973.1	#000000	Wolf et al. 2018
+AEP83726.1	#000000	Wolf et al. 2018
+AEX91878.1	#000000	Wolf et al. 2018
+AEY76153.1	#000000	Wolf et al. 2018
+AGC24233.1	#000000	Wolf et al. 2018
+AGT55876.1	#000000	Wolf et al. 2018
+AGT55877.1	#000000	Wolf et al. 2018
+AGW51760.1	#000000	Wolf et al. 2018
+AHE13866.1	#000000	Wolf et al. 2018
+AHF48622.1	#000000	Wolf et al. 2018
+AHF48623.1	#000000	Wolf et al. 2018
+AHF48625.1	#000000	Wolf et al. 2018
+AHF48627.1	#000000	Wolf et al. 2018
+AHF48628.1	#000000	Wolf et al. 2018
+AHF48631.1	#000000	Wolf et al. 2018
+AHF48632.1	#000000	Wolf et al. 2018
+AHI43533.1	#000000	Wolf et al. 2018
+AHI43534.1	#000000	Wolf et al. 2018
+AHI43535.1	#000000	Wolf et al. 2018
+AHL25281.1	#000000	Wolf et al. 2018
+AHX84129.1	#000000	Wolf et al. 2018
+AHX84132.1	#000000	Wolf et al. 2018
+AHX84134.1	#000000	Wolf et al. 2018
+AHX84135.1	#000000	Wolf et al. 2018
+AHY03257.1	#000000	Wolf et al. 2018
+AIF33766.2	#000000	Wolf et al. 2018
+AIS37555.1	#000000	Wolf et al. 2018
+AIS39016.1	#000000	Wolf et al. 2018
+AIT71973.1	#000000	Wolf et al. 2018
+AJT39597.1	#000000	Wolf et al. 2018
+AKN79252.1	#000000	Wolf et al. 2018
+ALD89101.1	#000000	Wolf et al. 2018
+ALD89102.1	#000000	Wolf et al. 2018
+ALD89116.1	#000000	Wolf et al. 2018
+ALD89117.1	#000000	Wolf et al. 2018
+ALD89118.1	#000000	Wolf et al. 2018
+ALD89119.1	#000000	Wolf et al. 2018
+ALD89120.1	#000000	Wolf et al. 2018
+ALD89121.1	#000000	Wolf et al. 2018
+ALD89122.1	#000000	Wolf et al. 2018
+ALD89125.1	#000000	Wolf et al. 2018
+ALD89126.1	#000000	Wolf et al. 2018
+ALD89127.1	#000000	Wolf et al. 2018
+ALD89128.1	#000000	Wolf et al. 2018
+ALD89135.1	#000000	Wolf et al. 2018
+ALD89136.1	#000000	Wolf et al. 2018
+ALM62240.1	#000000	Wolf et al. 2018
+ALM62241.1	#000000	Wolf et al. 2018
+ALM62242.1	#000000	Wolf et al. 2018
+ALM62243.1	#000000	Wolf et al. 2018
+ALM62249.1	#000000	Wolf et al. 2018
+AMM45292.1	#000000	Wolf et al. 2018
+AMS38556.1	#000000	Wolf et al. 2018
+ANJ77669.1	#000000	Wolf et al. 2018
+ANJ77670.1	#000000	Wolf et al. 2018
+AQM32767.1	#000000	Wolf et al. 2018
+BAD72871.1	#000000	Wolf et al. 2018
+BAJ23143.2	#000000	Wolf et al. 2018
+BAN85985.1	#000000	Wolf et al. 2018
+CAJ32466.1	#000000	Wolf et al. 2018
+CAJ32467.1	#000000	Wolf et al. 2018
+CEZ26304.1	#000000	Wolf et al. 2018
+NP_660174.1	#000000	Wolf et al. 2018
+NP_660177.1	#000000	Wolf et al. 2018
+NP_660178.1	#000000	Wolf et al. 2018
+NP_660179.1	#000000	Wolf et al. 2018
+NP_660180.1	#000000	Wolf et al. 2018
+NP_660181.1	#000000	Wolf et al. 2018
+YP_002822229.1	#000000	Wolf et al. 2018
+YP_004564622.1	#000000	Wolf et al. 2018
+YP_005352912.1	#000000	Wolf et al. 2018
+YP_009009144.1	#000000	Wolf et al. 2018
+YP_009121785.1	#000000	Wolf et al. 2018
+YP_009126872.1	#000000	Wolf et al. 2018
+YP_009126873.1	#000000	Wolf et al. 2018
+YP_009165597.1	#000000	Wolf et al. 2018
+YP_009182160.1	#000000	Wolf et al. 2018
+YP_009182161.1	#000000	Wolf et al. 2018
+YP_009241365.1	#000000	Wolf et al. 2018
+YP_009249807.1	#000000	Wolf et al. 2018
+YP_009256557.1	#000000	Wolf et al. 2018
+YP_009259369.1	#000000	Wolf et al. 2018
+YP_009259481.1	#000000	Wolf et al. 2018
+YP_009259482.1	#000000	Wolf et al. 2018
+YP_009259483.1	#000000	Wolf et al. 2018
+YP_009259487.1	#000000	Wolf et al. 2018
+YP_009272898.1	#000000	Wolf et al. 2018
+YP_009272899.1	#000000	Wolf et al. 2018
+YP_009272900.1	#000000	Wolf et al. 2018
+YP_009272901.1	#000000	Wolf et al. 2018
+YP_009272902.1	#000000	Wolf et al. 2018
+ANI86034.1	#000000	Wolf et al. 2018
+APG76981.1	#000000	Wolf et al. 2018
+APG77011.1	#000000	Wolf et al. 2018
+APG77081.1	#000000	Wolf et al. 2018
+APG77159.1	#000000	Wolf et al. 2018
+APG77163.1	#000000	Wolf et al. 2018
+APG77202.1	#000000	Wolf et al. 2018
+APG77208.1	#000000	Wolf et al. 2018
+APG77214.1	#000000	Wolf et al. 2018
+APG77221.1	#000000	Wolf et al. 2018
+APG77272.1	#000000	Wolf et al. 2018
+APG77281.1	#000000	Wolf et al. 2018
+APG77283.1	#000000	Wolf et al. 2018
+APG77303.1	#000000	Wolf et al. 2018
+AQM49944.1	#000000	Wolf et al. 2018
+AQM49945.1	#000000	Wolf et al. 2018
+BAU79521.1	#000000	Wolf et al. 2018
+k127_1009861_2	#ffffff	This study
+k127_1012996_1	#ffffff	This study
+k127_1018136_1	#ffffff	This study
+k127_1019342_1	#ffffff	This study
+k127_1022921_1	#ffffff	This study
+k127_1025678_1	#ffffff	This study
+k127_1039273_1	#ffffff	This study
+k127_1046826_1	#ffffff	This study
+k127_1048080_1	#ffffff	This study
+k127_1052511_1	#ffffff	This study
+k127_1061354_1	#ffffff	This study
+k127_106480_1	#ffffff	This study
+k127_1069380_1	#ffffff	This study
+k127_107211_1	#ffffff	This study
+k127_1081575_2	#ffffff	This study
+k127_108201_2	#ffffff	This study
+k127_1089689_1	#ffffff	This study
+k127_1093130_1	#ffffff	This study
+k127_1101092_1	#ffffff	This study
+k127_1102809_1	#ffffff	This study
+k127_110705_1	#ffffff	This study
+k127_1136183_1	#ffffff	This study
+k127_1142933_1	#ffffff	This study
+k127_1148112_1	#ffffff	This study
+k127_1153695_1	#ffffff	This study
+k127_1154404_1	#ffffff	This study
+k127_1154865_1	#ffffff	This study
+k127_1166658_2	#ffffff	This study
+k127_1167552_1	#ffffff	This study
+k127_1175180_1	#ffffff	This study
+k127_1176121_1	#ffffff	This study
+k127_1183711_1	#ffffff	This study
+k127_1194392_1	#ffffff	This study
+k127_1221613_1	#ffffff	This study
+k127_1225847_1	#ffffff	This study
+k127_1240148_1	#ffffff	This study
+k127_1245706_1	#ffffff	This study
+k127_1248802_1	#ffffff	This study
+k127_1254716_1	#ffffff	This study
+k127_1264365_1	#ffffff	This study
+k127_1267730_1	#ffffff	This study
+k127_1268060_1	#ffffff	This study
+k127_1274841_1	#ffffff	This study
+k127_1287468_1	#ffffff	This study
+k127_1287927_1	#ffffff	This study
+k127_1288098_1	#ffffff	This study
+k127_1311239_1	#ffffff	This study
+k127_1315913_1	#ffffff	This study
+k127_1316287_1	#ffffff	This study
+k127_1318090_1	#ffffff	This study
+k127_1318424_2	#ffffff	This study
+k127_1319414_1	#ffffff	This study
+k127_1327216_1	#ffffff	This study
+k127_1328235_1	#ffffff	This study
+k127_1334122_1	#ffffff	This study
+k127_1338231_1	#ffffff	This study
+k127_1339233_1	#ffffff	This study
+k127_1345460_1	#ffffff	This study
+k127_1353957_1	#ffffff	This study
+k127_136126_2	#ffffff	This study
+k127_1362005_1	#ffffff	This study
+k127_1371628_1	#ffffff	This study
+k127_1383005_1	#ffffff	This study
+k127_1388640_1	#ffffff	This study
+k127_1397841_1	#ffffff	This study
+k127_1403207_1	#ffffff	This study
+k127_1405100_1	#ffffff	This study
+k127_141286_1	#ffffff	This study
+k127_1421215_1	#ffffff	This study
+k127_1432787_1	#ffffff	This study
+k127_1434227_1	#ffffff	This study
+k127_144684_1	#ffffff	This study
+k127_145428_1	#ffffff	This study
+k127_1454851_1	#ffffff	This study
+k127_1471514_1	#ffffff	This study
+k127_1482403_1	#ffffff	This study
+k127_1490283_2	#ffffff	This study
+k127_1504071_1	#ffffff	This study
+k127_1506723_1	#ffffff	This study
+k127_1508236_1	#ffffff	This study
+k127_1511361_1	#ffffff	This study
+k127_1521478_1	#ffffff	This study
+k127_1525280_1	#ffffff	This study
+k127_1536657_1	#ffffff	This study
+k127_1538132_1	#ffffff	This study
+k127_1557994_1	#ffffff	This study
+k127_1561185_1	#ffffff	This study
+k127_1565675_1	#ffffff	This study
+k127_1571074_1	#ffffff	This study
+k127_1574115_1	#ffffff	This study
+k127_1574540_1	#ffffff	This study
+k127_1593906_1	#ffffff	This study
+k127_1600292_1	#ffffff	This study
+k127_1609528_1	#ffffff	This study
+k127_1615883_1	#ffffff	This study
+k127_1630464_1	#ffffff	This study
+k127_1636494_1	#ffffff	This study
+k127_1649676_1	#ffffff	This study
+k127_1671789_1	#ffffff	This study
+k127_1685151_1	#ffffff	This study
+k127_1697192_1	#ffffff	This study
+k127_1712556_1	#ffffff	This study
+k127_1726090_1	#ffffff	This study
+k127_174068_1	#ffffff	This study
+k127_175820_1	#ffffff	This study
+k127_1759363_1	#ffffff	This study
+k127_177202_2	#ffffff	This study
+k127_1773106_1	#ffffff	This study
+k127_1775314_2	#ffffff	This study
+k127_1776731_1	#ffffff	This study
+k127_1796495_2	#ffffff	This study
+k127_1821115_1	#ffffff	This study
+k127_1827347_1	#ffffff	This study
+k127_1838914_1	#ffffff	This study
+k127_1846092_1	#ffffff	This study
+k127_1851233_1	#ffffff	This study
+k127_1863714_1	#ffffff	This study
+k127_1870741_1	#ffffff	This study
+k127_1871406_1	#ffffff	This study
+k127_1891106_1	#ffffff	This study
+k127_1894708_1	#ffffff	This study
+k127_1914283_1	#ffffff	This study
+k127_192960_2	#ffffff	This study
+k127_1941519_1	#ffffff	This study
+k127_1943500_1	#ffffff	This study
+k127_1956002_1	#ffffff	This study
+k127_1965221_1	#ffffff	This study
+k127_1970851_1	#ffffff	This study
+k127_1971616_1	#ffffff	This study
+k127_1983372_1	#ffffff	This study
+k127_1983638_1	#ffffff	This study
+k127_1987232_1	#ffffff	This study
+k127_198953_1	#ffffff	This study
+k127_1990703_1	#ffffff	This study
+k127_2001771_1	#ffffff	This study
+k127_2014985_1	#ffffff	This study
+k127_2018633_1	#ffffff	This study
+k127_2019030_1	#ffffff	This study
+k127_2025231_1	#ffffff	This study
+k127_2045113_1	#ffffff	This study
+k127_2049803_1	#ffffff	This study
+k127_2055102_1	#ffffff	This study
+k127_2088536_2	#ffffff	This study
+k127_2101232_1	#ffffff	This study
+k127_2101663_1	#ffffff	This study
+k127_2106272_1	#ffffff	This study
+k127_2107352_1	#ffffff	This study
+k127_2108021_1	#ffffff	This study
+k127_2118037_1	#ffffff	This study
+k127_2147052_1	#ffffff	This study
+k127_2159755_1	#ffffff	This study
+k127_217988_1	#ffffff	This study
+k127_2190659_1	#ffffff	This study
+k127_2192798_1	#ffffff	This study
+k127_221320_1	#ffffff	This study
+k127_2215195_1	#ffffff	This study
+k127_2216409_1	#ffffff	This study
+k127_2223362_1	#ffffff	This study
+k127_222896_1	#ffffff	This study
+k127_2237954_1	#ffffff	This study
+k127_22468_1	#ffffff	This study
+k127_2263547_1	#ffffff	This study
+k127_2269498_1	#ffffff	This study
+k127_2284891_1	#ffffff	This study
+k127_2287470_1	#ffffff	This study
+k127_229615_1	#ffffff	This study
+k127_2310349_1	#ffffff	This study
+k127_2325836_1	#ffffff	This study
+k127_2332653_1	#ffffff	This study
+k127_2347522_1	#ffffff	This study
+k127_2351233_1	#ffffff	This study
+k127_2351979_1	#ffffff	This study
+k127_2355864_1	#ffffff	This study
+k127_2366134_1	#ffffff	This study
+k127_2383002_1	#ffffff	This study
+k127_2385481_1	#ffffff	This study
+k127_2389672_1	#ffffff	This study
+k127_2406980_3	#ffffff	This study
+k127_2415742_1	#ffffff	This study
+k127_2416792_1	#ffffff	This study
+k127_2421099_1	#ffffff	This study
+k127_242113_1	#ffffff	This study
+k127_2423556_1	#ffffff	This study
+k127_2426312_1	#ffffff	This study
+k127_243321_1	#ffffff	This study
+k127_2440825_1	#ffffff	This study
+k127_244413_1	#ffffff	This study
+k127_244809_1	#ffffff	This study
+k127_2455352_1	#ffffff	This study
+k127_2463002_1	#ffffff	This study
+k127_2471197_1	#ffffff	This study
+k127_2475356_1	#ffffff	This study
+k127_2493997_1	#ffffff	This study
+k127_250211_1	#ffffff	This study
+k127_2502898_1	#ffffff	This study
+k127_2509060_1	#ffffff	This study
+k127_2522462_1	#ffffff	This study
+k127_2530342_2	#ffffff	This study
+k127_2532507_1	#ffffff	This study
+k127_2579270_1	#ffffff	This study
+k127_2598155_1	#ffffff	This study
+k127_2599704_1	#ffffff	This study
+k127_2605533_1	#ffffff	This study
+k127_261640_1	#ffffff	This study
+k127_2617381_1	#ffffff	This study
+k127_2629275_1	#ffffff	This study
+k127_2636076_1	#ffffff	This study
+k127_2646490_1	#ffffff	This study
+k127_2646733_1	#ffffff	This study
+k127_2658197_1	#ffffff	This study
+k127_266171_1	#ffffff	This study
+k127_2665799_1	#ffffff	This study
+k127_2672287_1	#ffffff	This study
+k127_2674988_1	#ffffff	This study
+k127_2677889_1	#ffffff	This study
+k127_2682635_1	#ffffff	This study
+k127_2693202_1	#ffffff	This study
+k127_2704198_1	#ffffff	This study
+k127_2707796_1	#ffffff	This study
+k127_2708972_1	#ffffff	This study
+k127_2709607_1	#ffffff	This study
+k127_2714762_1	#ffffff	This study
+k127_2750862_1	#ffffff	This study
+k127_2772832_1	#ffffff	This study
+k127_2773116_1	#ffffff	This study
+k127_2777682_1	#ffffff	This study
+k127_279148_1	#ffffff	This study
+k127_2799077_1	#ffffff	This study
+k127_2801647_1	#ffffff	This study
+k127_2813838_1	#ffffff	This study
+k127_281457_1	#ffffff	This study
+k127_2866350_1	#ffffff	This study
+k127_2869480_1	#ffffff	This study
+k127_2875814_1	#ffffff	This study
+k127_290406_1	#ffffff	This study
+k127_2908238_1	#ffffff	This study
+k127_2923281_1	#ffffff	This study
+k127_2923777_1	#ffffff	This study
+k127_2931955_1	#ffffff	This study
+k127_293247_1	#ffffff	This study
+k127_2940363_1	#ffffff	This study
+k127_2954335_1	#ffffff	This study
+k127_2956423_1	#ffffff	This study
+k127_2983403_1	#ffffff	This study
+k127_2992459_1	#ffffff	This study
+k127_2992660_1	#ffffff	This study
+k127_2993652_1	#ffffff	This study
+k127_300026_2	#ffffff	This study
+k127_3001290_1	#ffffff	This study
+k127_3013668_1	#ffffff	This study
+k127_3025175_1	#ffffff	This study
+k127_3032042_1	#ffffff	This study
+k127_3047067_1	#ffffff	This study
+k127_3075934_1	#ffffff	This study
+k127_3079447_1	#ffffff	This study
+k127_3082719_1	#ffffff	This study
+k127_3091244_1	#ffffff	This study
+k127_3154012_1	#ffffff	This study
+k127_3173364_1	#ffffff	This study
+k127_3181482_1	#ffffff	This study
+k127_3183412_1	#ffffff	This study
+k127_3185922_1	#ffffff	This study
+k127_3193870_1	#ffffff	This study
+k127_3194429_1	#ffffff	This study
+k127_3201956_1	#ffffff	This study
+k127_3202379_1	#ffffff	This study
+k127_3220297_1	#ffffff	This study
+k127_3222436_1	#ffffff	This study
+k127_322458_1	#ffffff	This study
+k127_3237547_1	#ffffff	This study
+k127_3245168_1	#ffffff	This study
+k127_3251057_1	#ffffff	This study
+k127_3254898_1	#ffffff	This study
+k127_3287197_1	#ffffff	This study
+k127_3288249_1	#ffffff	This study
+k127_3291076_2	#ffffff	This study
+k127_329130_1	#ffffff	This study
+k127_329238_1	#ffffff	This study
+k127_3297438_1	#ffffff	This study
+k127_3314748_1	#ffffff	This study
+k127_3321989_1	#ffffff	This study
+k127_3341112_1	#ffffff	This study
+k127_334326_1	#ffffff	This study
+k127_3346667_1	#ffffff	This study
+k127_3366900_1	#ffffff	This study
+k127_3397118_2	#ffffff	This study
+k127_3410896_1	#ffffff	This study
+k127_3414272_1	#ffffff	This study
+k127_3414977_1	#ffffff	This study
+k127_3432425_1	#ffffff	This study
+k127_348790_1	#ffffff	This study
+k127_352467_1	#ffffff	This study
+k127_357701_1	#ffffff	This study
+k127_360260_1	#ffffff	This study
+k127_367278_1	#ffffff	This study
+k127_372208_1	#ffffff	This study
+k127_382684_1	#ffffff	This study
+k127_390991_1	#ffffff	This study
+k127_405477_1	#ffffff	This study
+k127_407502_1	#ffffff	This study
+k127_40924_1	#ffffff	This study
+k127_429414_1	#ffffff	This study
+k127_44196_1	#ffffff	This study
+k127_446742_1	#ffffff	This study
+k127_453011_1	#ffffff	This study
+k127_461776_1	#ffffff	This study
+k127_463965_1	#ffffff	This study
+k127_46872_1	#ffffff	This study
+k127_475243_1	#ffffff	This study
+k127_477352_1	#ffffff	This study
+k127_484714_1	#ffffff	This study
+k127_491327_1	#ffffff	This study
+k127_501802_1	#ffffff	This study
+k127_522213_1	#ffffff	This study
+k127_523378_2	#ffffff	This study
+k127_526318_1	#ffffff	This study
+k127_532210_1	#ffffff	This study
+k127_536380_1	#ffffff	This study
+k127_54190_1	#ffffff	This study
+k127_587717_1	#ffffff	This study
+k127_592663_2	#ffffff	This study
+k127_592664_1	#ffffff	This study
+k127_59664_1	#ffffff	This study
+k127_596665_1	#ffffff	This study
+k127_619124_1	#ffffff	This study
+k127_622891_1	#ffffff	This study
+k127_634708_1	#ffffff	This study
+k127_642613_1	#ffffff	This study
+k127_660046_1	#ffffff	This study
+k127_661677_1	#ffffff	This study
+k127_664739_1	#ffffff	This study
+k127_671854_2	#ffffff	This study
+k127_677079_1	#ffffff	This study
+k127_682449_1	#ffffff	This study
+k127_684332_1	#ffffff	This study
+k127_71265_1	#ffffff	This study
+k127_720248_1	#ffffff	This study
+k127_726674_1	#ffffff	This study
+k127_735946_1	#ffffff	This study
+k127_764833_1	#ffffff	This study
+k127_765272_1	#ffffff	This study
+k127_773468_1	#ffffff	This study
+k127_808890_1	#ffffff	This study
+k127_810834_1	#ffffff	This study
+k127_813912_1	#ffffff	This study
+k127_817993_1	#ffffff	This study
+k127_822415_1	#ffffff	This study
+k127_828617_2	#ffffff	This study
+k127_839100_1	#ffffff	This study
+k127_848316_1	#ffffff	This study
+k127_849987_1	#ffffff	This study
+k127_856036_1	#ffffff	This study
+k127_861233_1	#ffffff	This study
+k127_861238_1	#ffffff	This study
+k127_874099_1	#ffffff	This study
+k127_875404_1	#ffffff	This study
+k127_878435_1	#ffffff	This study
+k127_884969_1	#ffffff	This study
+k127_89111_1	#ffffff	This study
+k127_90051_1	#ffffff	This study
+k127_907048_1	#ffffff	This study
+k127_908185_1	#ffffff	This study
+k127_917993_1	#ffffff	This study
+k127_920797_1	#ffffff	This study
+k127_921512_1	#ffffff	This study
+k127_926184_1	#ffffff	This study
+k127_933870_1	#ffffff	This study
+k127_948342_1	#ffffff	This study
+k127_951234_1	#ffffff	This study
+k127_956653_1	#ffffff	This study
+k127_958234_1	#ffffff	This study
+k127_960600_1	#ffffff	This study
+k127_972645_1	#ffffff	This study
+k127_972833_1	#ffffff	This study
+k127_987901_1	#ffffff	This study
+k127_989136_1	#ffffff	This study
+k127_993190_1	#ffffff	This study
+MN034689.1_1	#7f7f7f	Starr et al. 2019
+MN035119.1_2	#7f7f7f	Starr et al. 2019
+MN035428.1_3	#7f7f7f	Starr et al. 2019
+YP_009330065.1	#000000	Wolf et al. 2018
+YP_009333140.1	#000000	Wolf et al. 2018
+YP_009333144.1	#000000	Wolf et al. 2018
+YP_009333147.1	#000000	Wolf et al. 2018
+YP_009333152.1	#000000	Wolf et al. 2018
+YP_009333153.1	#000000	Wolf et al. 2018
+YP_009333164.1	#000000	Wolf et al. 2018
+YP_009333214.1	#000000	Wolf et al. 2018
+YP_009333241.1	#000000	Wolf et al. 2018
+YP_009333251.1	#000000	Wolf et al. 2018
+YP_009333255.1	#000000	Wolf et al. 2018
+YP_009333266.1	#000000	Wolf et al. 2018
+YP_009333267.1	#000000	Wolf et al. 2018
+YP_009333271.1	#000000	Wolf et al. 2018
+YP_009333277.1	#000000	Wolf et al. 2018
+YP_009333278.1	#000000	Wolf et al. 2018
+YP_009333280.1	#000000	Wolf et al. 2018
+YP_009333283.1	#000000	Wolf et al. 2018
+YP_009333315.1	#000000	Wolf et al. 2018
+YP_009333316.1	#000000	Wolf et al. 2018
+YP_009333318.1	#000000	Wolf et al. 2018
+YP_009333347.1	#000000	Wolf et al. 2018
+YP_009336518.1	#000000	Wolf et al. 2018
+YP_009336520.1	#000000	Wolf et al. 2018
+YP_009336532.1	#000000	Wolf et al. 2018
+YP_009336536.1	#000000	Wolf et al. 2018
+YP_009336615.1	#000000	Wolf et al. 2018
+YP_009336672.1	#000000	Wolf et al. 2018
+YP_009336702.1	#000000	Wolf et al. 2018
+YP_009336759.1	#000000	Wolf et al. 2018
+YP_009336796.1	#000000	Wolf et al. 2018
+YP_009336802.1	#000000	Wolf et al. 2018
+YP_009336843.1	#000000	Wolf et al. 2018
+YP_009336851.1	#000000	Wolf et al. 2018
+YP_009337087.1	#000000	Wolf et al. 2018
+YP_009337133.1	#000000	Wolf et al. 2018
+YP_009337146.1	#000000	Wolf et al. 2018
+YP_009337159.1	#000000	Wolf et al. 2018
+YP_009337193.1	#000000	Wolf et al. 2018
+YP_009337264.1	#000000	Wolf et al. 2018
+YP_009337307.1	#000000	Wolf et al. 2018
+YP_009337311.1	#000000	Wolf et al. 2018
+YP_009337331.1	#000000	Wolf et al. 2018
+YP_009337343.1	#000000	Wolf et al. 2018
+YP_009337385.1	#000000	Wolf et al. 2018
+YP_009337386.1	#000000	Wolf et al. 2018
+YP_009337436.1	#000000	Wolf et al. 2018
+YP_009337619.1	#000000	Wolf et al. 2018
+YP_009337783.1	#000000	Wolf et al. 2018
+YP_009337787.1	#000000	Wolf et al. 2018
+YP_009337789.1	#000000	Wolf et al. 2018
+YP_009337792.1	#000000	Wolf et al. 2018
+YP_009337805.1	#000000	Wolf et al. 2018
+YP_009342297.1	#000000	Wolf et al. 2018
+YP_009344979.1	#000000	Wolf et al. 2018
+YP_009345044.1	#000000	Wolf et al. 2018
+AHA86936.2	#000000	Wolf et al. 2018
+AMQ23516.1	#000000	Wolf et al. 2018
+AMQ23519.1	#000000	Wolf et al. 2018
+AMQ23523.1	#000000	Wolf et al. 2018
+AMQ23527.1	#000000	Wolf et al. 2018
+AMQ23530.1	#000000	Wolf et al. 2018
+AMQ23536.1	#000000	Wolf et al. 2018
+AMQ23539.1	#000000	Wolf et al. 2018
+AMQ23551.1	#000000	Wolf et al. 2018
+AOG30806.1	#000000	Wolf et al. 2018
+APG76985.1	#000000	Wolf et al. 2018
+APG76989.1	#000000	Wolf et al. 2018
+APG76993.1	#000000	Wolf et al. 2018
+APG77003.1	#000000	Wolf et al. 2018
+APG77006.1	#000000	Wolf et al. 2018
+APG77009.1	#000000	Wolf et al. 2018
+APG77015.1	#000000	Wolf et al. 2018
+APG77018.1	#000000	Wolf et al. 2018
+APG77021.1	#000000	Wolf et al. 2018
+APG77025.1	#000000	Wolf et al. 2018
+APG77028.1	#000000	Wolf et al. 2018
+APG77031.1	#000000	Wolf et al. 2018
+APG77034.1	#000000	Wolf et al. 2018
+APG77037.1	#000000	Wolf et al. 2018
+APG77040.1	#000000	Wolf et al. 2018
+APG77043.1	#000000	Wolf et al. 2018
+APG77046.1	#000000	Wolf et al. 2018
+APG77049.1	#000000	Wolf et al. 2018
+APG77052.1	#000000	Wolf et al. 2018
+APG77055.1	#000000	Wolf et al. 2018
+APG77058.1	#000000	Wolf et al. 2018
+APG77061.1	#000000	Wolf et al. 2018
+APG77064.1	#000000	Wolf et al. 2018
+APG77067.1	#000000	Wolf et al. 2018
+APG77071.1	#000000	Wolf et al. 2018
+APG77076.1	#000000	Wolf et al. 2018
+APG77079.1	#000000	Wolf et al. 2018
+APG77085.1	#000000	Wolf et al. 2018
+APG77095.1	#000000	Wolf et al. 2018
+APG77106.1	#000000	Wolf et al. 2018
+APG77115.1	#000000	Wolf et al. 2018
+APG77119.1	#000000	Wolf et al. 2018
+APG77123.1	#000000	Wolf et al. 2018
+APG77127.1	#000000	Wolf et al. 2018
+APG77130.1	#000000	Wolf et al. 2018
+APG77133.1	#000000	Wolf et al. 2018
+APG77136.1	#000000	Wolf et al. 2018
+APG77142.1	#000000	Wolf et al. 2018
+APG77171.1	#000000	Wolf et al. 2018
+APG77174.1	#000000	Wolf et al. 2018
+APG77179.1	#000000	Wolf et al. 2018
+APG77192.1	#000000	Wolf et al. 2018
+APG77195.1	#000000	Wolf et al. 2018
+APG77201.1	#000000	Wolf et al. 2018
+APG77217.1	#000000	Wolf et al. 2018
+APG77220.1	#000000	Wolf et al. 2018
+APG77225.1	#000000	Wolf et al. 2018
+APG77228.1	#000000	Wolf et al. 2018
+APG77231.1	#000000	Wolf et al. 2018
+APG77234.1	#000000	Wolf et al. 2018
+APG77237.1	#000000	Wolf et al. 2018
+APG77239.1	#000000	Wolf et al. 2018
+APG77242.1	#000000	Wolf et al. 2018
+APG77245.1	#000000	Wolf et al. 2018
+APG77248.1	#000000	Wolf et al. 2018
+APG77252.1	#000000	Wolf et al. 2018
+APG77255.1	#000000	Wolf et al. 2018
+APG77267.1	#000000	Wolf et al. 2018
+APG77271.1	#000000	Wolf et al. 2018
+APG77277.1	#000000	Wolf et al. 2018
+APG77280.1	#000000	Wolf et al. 2018
+APG77286.1	#000000	Wolf et al. 2018
+APG77292.1	#000000	Wolf et al. 2018
+APG77295.1	#000000	Wolf et al. 2018
+APG77299.1	#000000	Wolf et al. 2018
+k127_100641_1	#ffffff	This study
+k127_1011586_1	#ffffff	This study
+k127_1015740_3	#ffffff	This study
+k127_1034526_1	#ffffff	This study
+k127_1042901_1	#ffffff	This study
+k127_1086970_1	#ffffff	This study
+k127_1091643_1	#ffffff	This study
+k127_1092036_1	#ffffff	This study
+k127_1094725_1	#ffffff	This study
+k127_1094846_1	#ffffff	This study
+k127_1097899_1	#ffffff	This study
+k127_1098811_1	#ffffff	This study
+k127_1110715_3	#ffffff	This study
+k127_1114760_1	#ffffff	This study
+k127_1118532_3	#ffffff	This study
+k127_1119775_1	#ffffff	This study
+k127_1121156_4	#ffffff	This study
+k127_1122984_1	#ffffff	This study
+k127_1131632_1	#ffffff	This study
+k127_1134092_4	#ffffff	This study
+k127_1145080_1	#ffffff	This study
+k127_114976_1	#ffffff	This study
+k127_1162130_1	#ffffff	This study
+k127_1172766_1	#ffffff	This study
+k127_1175501_1	#ffffff	This study
+k127_118488_1	#ffffff	This study
+k127_1190045_1	#ffffff	This study
+k127_1190607_1	#ffffff	This study
+k127_1198523_1	#ffffff	This study
+k127_1199746_3	#ffffff	This study
+k127_1228164_1	#ffffff	This study
+k127_1245315_1	#ffffff	This study
+k127_125458_1	#ffffff	This study
+k127_1255396_1	#ffffff	This study
+k127_1255719_1	#ffffff	This study
+k127_1258429_1	#ffffff	This study
+k127_1260009_1	#ffffff	This study
+k127_1260995_1	#ffffff	This study
+k127_126401_1	#ffffff	This study
+k127_1266772_1	#ffffff	This study
+k127_1276354_1	#ffffff	This study
+k127_1303256_4	#ffffff	This study
+k127_1306322_1	#ffffff	This study
+k127_1306632_1	#ffffff	This study
+k127_1307233_1	#ffffff	This study
+k127_1313811_1	#ffffff	This study
+k127_1322599_1	#ffffff	This study
+k127_1325730_1	#ffffff	This study
+k127_1330537_1	#ffffff	This study
+k127_1333893_1	#ffffff	This study
+k127_1338222_1	#ffffff	This study
+k127_1340731_2	#ffffff	This study
+k127_134181_1	#ffffff	This study
+k127_1360314_1	#ffffff	This study
+k127_1362469_1	#ffffff	This study
+k127_1364147_1	#ffffff	This study
+k127_1365191_1	#ffffff	This study
+k127_1368168_1	#ffffff	This study
+k127_137523_1	#ffffff	This study
+k127_1379689_1	#ffffff	This study
+k127_1386809_1	#ffffff	This study
+k127_1396079_1	#ffffff	This study
+k127_140753_1	#ffffff	This study
+k127_1413627_1	#ffffff	This study
+k127_1425740_1	#ffffff	This study
+k127_1435417_1	#ffffff	This study
+k127_1443364_3	#ffffff	This study
+k127_1455160_1	#ffffff	This study
+k127_1469610_1	#ffffff	This study
+k127_1472622_1	#ffffff	This study
+k127_1472906_1	#ffffff	This study
+k127_1482187_1	#ffffff	This study
+k127_1492659_1	#ffffff	This study
+k127_1511110_1	#ffffff	This study
+k127_1538508_1	#ffffff	This study
+k127_1546952_1	#ffffff	This study
+k127_1550350_1	#ffffff	This study
+k127_1568718_1	#ffffff	This study
+k127_1570273_1	#ffffff	This study
+k127_1570616_3	#ffffff	This study
+k127_1584458_1	#ffffff	This study
+k127_1600500_1	#ffffff	This study
+k127_1604459_1	#ffffff	This study
+k127_1606173_1	#ffffff	This study
+k127_1613386_1	#ffffff	This study
+k127_1633082_1	#ffffff	This study
+k127_1634858_1	#ffffff	This study
+k127_1638594_1	#ffffff	This study
+k127_1642501_1	#ffffff	This study
+k127_164394_1	#ffffff	This study
+k127_164473_2	#ffffff	This study
+k127_1645966_1	#ffffff	This study
+k127_1652128_1	#ffffff	This study
+k127_1654056_3	#ffffff	This study
+k127_1673085_1	#ffffff	This study
+k127_1677299_1	#ffffff	This study
+k127_1680809_1	#ffffff	This study
+k127_1693128_1	#ffffff	This study
+k127_1696581_3	#ffffff	This study
+k127_1698249_1	#ffffff	This study
+k127_1701084_1	#ffffff	This study
+k127_1701188_1	#ffffff	This study
+k127_1702500_1	#ffffff	This study
+k127_171471_3	#ffffff	This study
+k127_1718624_1	#ffffff	This study
+k127_1720830_3	#ffffff	This study
+k127_1725524_1	#ffffff	This study
+k127_1739165_1	#ffffff	This study
+k127_17424_1	#ffffff	This study
+k127_174466_1	#ffffff	This study
+k127_1747294_3	#ffffff	This study
+k127_1752987_1	#ffffff	This study
+k127_1772329_2	#ffffff	This study
+k127_1774512_1	#ffffff	This study
+k127_1782283_1	#ffffff	This study
+k127_1786089_1	#ffffff	This study
+k127_1786278_1	#ffffff	This study
+k127_1793209_1	#ffffff	This study
+k127_1797020_1	#ffffff	This study
+k127_1798453_1	#ffffff	This study
+k127_1803225_2	#ffffff	This study
+k127_1807055_1	#ffffff	This study
+k127_1814022_1	#ffffff	This study
+k127_1825245_1	#ffffff	This study
+k127_1833720_2	#ffffff	This study
+k127_1836403_1	#ffffff	This study
+k127_1837947_1	#ffffff	This study
+k127_1841614_1	#ffffff	This study
+k127_1851477_1	#ffffff	This study
+k127_1854120_1	#ffffff	This study
+k127_1866331_1	#ffffff	This study
+k127_1875020_1	#ffffff	This study
+k127_187947_1	#ffffff	This study
+k127_1907006_1	#ffffff	This study
+k127_191282_1	#ffffff	This study
+k127_1915145_3	#ffffff	This study
+k127_193874_1	#ffffff	This study
+k127_1940017_1	#ffffff	This study
+k127_1951693_1	#ffffff	This study
+k127_1966300_4	#ffffff	This study
+k127_1973568_1	#ffffff	This study
+k127_1984108_1	#ffffff	This study
+k127_2000961_1	#ffffff	This study
+k127_2008112_2	#ffffff	This study
+k127_2010589_1	#ffffff	This study
+k127_2015618_1	#ffffff	This study
+k127_2023227_1	#ffffff	This study
+k127_2036202_1	#ffffff	This study
+k127_2037953_1	#ffffff	This study
+k127_2060509_1	#ffffff	This study
+k127_206782_1	#ffffff	This study
+k127_2080370_1	#ffffff	This study
+k127_2107208_1	#ffffff	This study
+k127_2110649_1	#ffffff	This study
+k127_2120252_1	#ffffff	This study
+k127_2122398_1	#ffffff	This study
+k127_2122531_1	#ffffff	This study
+k127_2126343_4	#ffffff	This study
+k127_2130203_1	#ffffff	This study
+k127_2136336_1	#ffffff	This study
+k127_215957_1	#ffffff	This study
+k127_2169379_1	#ffffff	This study
+k127_2175301_3	#ffffff	This study
+k127_2178248_1	#ffffff	This study
+k127_2184471_1	#ffffff	This study
+k127_2188124_1	#ffffff	This study
+k127_2207952_1	#ffffff	This study
+k127_2215862_1	#ffffff	This study
+k127_2217377_1	#ffffff	This study
+k127_2220984_1	#ffffff	This study
+k127_2225862_1	#ffffff	This study
+k127_2226347_1	#ffffff	This study
+k127_2227150_2	#ffffff	This study
+k127_2233430_1	#ffffff	This study
+k127_2234183_1	#ffffff	This study
+k127_2234904_1	#ffffff	This study
+k127_2250065_3	#ffffff	This study
+k127_2272537_3	#ffffff	This study
+k127_2278811_1	#ffffff	This study
+k127_2279021_3	#ffffff	This study
+k127_2282756_1	#ffffff	This study
+k127_2283683_2	#ffffff	This study
+k127_2285382_1	#ffffff	This study
+k127_2286037_1	#ffffff	This study
+k127_2303157_1	#ffffff	This study
+k127_2308850_1	#ffffff	This study
+k127_2331132_3	#ffffff	This study
+k127_2344236_1	#ffffff	This study
+k127_2347788_1	#ffffff	This study
+k127_2350407_1	#ffffff	This study
+k127_2358838_1	#ffffff	This study
+k127_2378511_1	#ffffff	This study
+k127_237994_1	#ffffff	This study
+k127_2380377_2	#ffffff	This study
+k127_2381201_1	#ffffff	This study
+k127_2407861_1	#ffffff	This study
+k127_241804_2	#ffffff	This study
+k127_2431232_2	#ffffff	This study
+k127_2435139_1	#ffffff	This study
+k127_2447029_1	#ffffff	This study
+k127_2448018_1	#ffffff	This study
+k127_2451403_1	#ffffff	This study
+k127_2453059_1	#ffffff	This study
+k127_2453135_1	#ffffff	This study
+k127_246028_1	#ffffff	This study
+k127_2460448_1	#ffffff	This study
+k127_247655_1	#ffffff	This study
+k127_2478464_1	#ffffff	This study
+k127_2479202_1	#ffffff	This study
+k127_2495330_1	#ffffff	This study
+k127_2501830_2	#ffffff	This study
+k127_2505298_1	#ffffff	This study
+k127_2513802_1	#ffffff	This study
+k127_2516108_1	#ffffff	This study
+k127_251763_1	#ffffff	This study
+k127_2525174_1	#ffffff	This study
+k127_2529459_1	#ffffff	This study
+k127_2530584_1	#ffffff	This study
+k127_2533923_3	#ffffff	This study
+k127_254240_1	#ffffff	This study
+k127_2542961_1	#ffffff	This study
+k127_2546635_1	#ffffff	This study
+k127_2561608_1	#ffffff	This study
+k127_2564406_1	#ffffff	This study
+k127_2571366_3	#ffffff	This study
+k127_257420_1	#ffffff	This study
+k127_2583246_1	#ffffff	This study
+k127_2589140_1	#ffffff	This study
+k127_2593391_1	#ffffff	This study
+k127_2598075_3	#ffffff	This study
+k127_2601631_1	#ffffff	This study
+k127_2608400_3	#ffffff	This study
+k127_2632097_1	#ffffff	This study
+k127_2636163_1	#ffffff	This study
+k127_2647440_1	#ffffff	This study
+k127_2652354_1	#ffffff	This study
+k127_2654711_1	#ffffff	This study
+k127_265800_1	#ffffff	This study
+k127_2667869_1	#ffffff	This study
+k127_2694955_1	#ffffff	This study
+k127_2701184_1	#ffffff	This study
+k127_2709360_2	#ffffff	This study
+k127_2721782_1	#ffffff	This study
+k127_2724125_1	#ffffff	This study
+k127_2725318_1	#ffffff	This study
+k127_2726499_1	#ffffff	This study
+k127_2730039_4	#ffffff	This study
+k127_2732981_1	#ffffff	This study
+k127_2743707_1	#ffffff	This study
+k127_2756569_1	#ffffff	This study
+k127_2761343_1	#ffffff	This study
+k127_2775729_1	#ffffff	This study
+k127_278417_1	#ffffff	This study
+k127_2784658_1	#ffffff	This study
+k127_2785042_1	#ffffff	This study
+k127_2785643_3	#ffffff	This study
+k127_2797490_3	#ffffff	This study
+k127_2798518_1	#ffffff	This study
+k127_2817176_1	#ffffff	This study
+k127_2825165_1	#ffffff	This study
+k127_2829891_1	#ffffff	This study
+k127_2844137_1	#ffffff	This study
+k127_2850037_1	#ffffff	This study
+k127_2853906_2	#ffffff	This study
+k127_2865613_1	#ffffff	This study
+k127_2894589_1	#ffffff	This study
+k127_2899821_1	#ffffff	This study
+k127_2901129_1	#ffffff	This study
+k127_2906925_4	#ffffff	This study
+k127_2922595_1	#ffffff	This study
+k127_2924228_1	#ffffff	This study
+k127_294636_3	#ffffff	This study
+k127_2952597_1	#ffffff	This study
+k127_2956833_1	#ffffff	This study
+k127_2960190_1	#ffffff	This study
+k127_2963450_1	#ffffff	This study
+k127_2966553_3	#ffffff	This study
+k127_2973034_1	#ffffff	This study
+k127_2981712_1	#ffffff	This study
+k127_2986421_1	#ffffff	This study
+k127_2989051_1	#ffffff	This study
+k127_2994793_1	#ffffff	This study
+k127_3006939_1	#ffffff	This study
+k127_3007822_1	#ffffff	This study
+k127_3020239_1	#ffffff	This study
+k127_3045755_1	#ffffff	This study
+k127_3048808_1	#ffffff	This study
+k127_3055205_1	#ffffff	This study
+k127_3056403_1	#ffffff	This study
+k127_3061141_5	#ffffff	This study
+k127_3066459_1	#ffffff	This study
+k127_3075058_1	#ffffff	This study
+k127_3081646_4	#ffffff	This study
+k127_308549_2	#ffffff	This study
+k127_3086718_1	#ffffff	This study
+k127_3104296_1	#ffffff	This study
+k127_3113770_1	#ffffff	This study
+k127_3129564_1	#ffffff	This study
+k127_3129626_1	#ffffff	This study
+k127_3156297_1	#ffffff	This study
+k127_3161263_1	#ffffff	This study
+k127_3199729_1	#ffffff	This study
+k127_3229208_1	#ffffff	This study
+k127_3245981_1	#ffffff	This study
+k127_3246075_1	#ffffff	This study
+k127_3247497_1	#ffffff	This study
+k127_3264706_1	#ffffff	This study
+k127_3270905_1	#ffffff	This study
+k127_3273671_1	#ffffff	This study
+k127_3283031_1	#ffffff	This study
+k127_3299376_1	#ffffff	This study
+k127_3300559_1	#ffffff	This study
+k127_3304688_2	#ffffff	This study
+k127_3305032_1	#ffffff	This study
+k127_3310600_1	#ffffff	This study
+k127_331068_1	#ffffff	This study
+k127_3321651_1	#ffffff	This study
+k127_332488_1	#ffffff	This study
+k127_3333032_1	#ffffff	This study
+k127_3333068_1	#ffffff	This study
+k127_3345374_1	#ffffff	This study
+k127_3350160_1	#ffffff	This study
+k127_3360536_1	#ffffff	This study
+k127_3378152_1	#ffffff	This study
+k127_3379013_1	#ffffff	This study
+k127_3389941_3	#ffffff	This study
+k127_3391447_1	#ffffff	This study
+k127_3399290_1	#ffffff	This study
+k127_3400408_1	#ffffff	This study
+k127_3401517_1	#ffffff	This study
+k127_3406440_3	#ffffff	This study
+k127_3411282_1	#ffffff	This study
+k127_3415496_1	#ffffff	This study
+k127_3429776_1	#ffffff	This study
+k127_356794_1	#ffffff	This study
+k127_391736_1	#ffffff	This study
+k127_394947_1	#ffffff	This study
+k127_405404_1	#ffffff	This study
+k127_409958_1	#ffffff	This study
+k127_411136_1	#ffffff	This study
+k127_412044_1	#ffffff	This study
+k127_418170_1	#ffffff	This study
+k127_436156_1	#ffffff	This study
+k127_44436_1	#ffffff	This study
+k127_447489_1	#ffffff	This study
+k127_45989_1	#ffffff	This study
+k127_462545_1	#ffffff	This study
+k127_470372_1	#ffffff	This study
+k127_473262_1	#ffffff	This study
+k127_475341_4	#ffffff	This study
+k127_478863_1	#ffffff	This study
+k127_492621_1	#ffffff	This study
+k127_50374_1	#ffffff	This study
+k127_511645_1	#ffffff	This study
+k127_516037_1	#ffffff	This study
+k127_516928_1	#ffffff	This study
+k127_519705_1	#ffffff	This study
+k127_534167_1	#ffffff	This study
+k127_561413_1	#ffffff	This study
+k127_570545_4	#ffffff	This study
+k127_577494_1	#ffffff	This study
+k127_582028_1	#ffffff	This study
+k127_584398_1	#ffffff	This study
+k127_588753_1	#ffffff	This study
+k127_59617_1	#ffffff	This study
+k127_596843_1	#ffffff	This study
+k127_598144_1	#ffffff	This study
+k127_611337_3	#ffffff	This study
+k127_616592_1	#ffffff	This study
+k127_624990_1	#ffffff	This study
+k127_626255_1	#ffffff	This study
+k127_626958_1	#ffffff	This study
+k127_653166_1	#ffffff	This study
+k127_659058_1	#ffffff	This study
+k127_664258_1	#ffffff	This study
+k127_678855_1	#ffffff	This study
+k127_692640_1	#ffffff	This study
+k127_70884_1	#ffffff	This study
+k127_726199_1	#ffffff	This study
+k127_728229_1	#ffffff	This study
+k127_738964_1	#ffffff	This study
+k127_740818_1	#ffffff	This study
+k127_754283_1	#ffffff	This study
+k127_761972_2	#ffffff	This study
+k127_77692_1	#ffffff	This study
+k127_78454_1	#ffffff	This study
+k127_784685_1	#ffffff	This study
+k127_801228_3	#ffffff	This study
+k127_821912_1	#ffffff	This study
+k127_835639_1	#ffffff	This study
+k127_842631_1	#ffffff	This study
+k127_854596_1	#ffffff	This study
+k127_862401_1	#ffffff	This study
+k127_874706_1	#ffffff	This study
+k127_88591_4	#ffffff	This study
+k127_890823_1	#ffffff	This study
+k127_893649_1	#ffffff	This study
+k127_910120_1	#ffffff	This study
+k127_911033_1	#ffffff	This study
+k127_911412_1	#ffffff	This study
+k127_912908_1	#ffffff	This study
+k127_913134_1	#ffffff	This study
+k127_913982_1	#ffffff	This study
+k127_918684_1	#ffffff	This study
+k127_928571_1	#ffffff	This study
+k127_932659_1	#ffffff	This study
+k127_94206_1	#ffffff	This study
+k127_943305_1	#ffffff	This study
+k127_953926_1	#ffffff	This study
+k127_964008_1	#ffffff	This study
+k127_971063_1	#ffffff	This study
+k127_973977_1	#ffffff	This study
+k127_98143_1	#ffffff	This study
+k127_981903_1	#ffffff	This study
+k127_986831_3	#ffffff	This study
+k127_993955_1	#ffffff	This study
+MN032679.1_3	#7f7f7f	Starr et al. 2019
+MN032680.1_1	#7f7f7f	Starr et al. 2019
+MN032681.1_1	#7f7f7f	Starr et al. 2019
+MN032683.1_1	#7f7f7f	Starr et al. 2019
+MN032685.1_5	#7f7f7f	Starr et al. 2019
+MN032686.1_1	#7f7f7f	Starr et al. 2019
+MN032687.1_3	#7f7f7f	Starr et al. 2019
+MN032689.1_1	#7f7f7f	Starr et al. 2019
+MN032690.1_1	#7f7f7f	Starr et al. 2019
+MN032691.1_1	#7f7f7f	Starr et al. 2019
+MN032696.1_1	#7f7f7f	Starr et al. 2019
+MN032698.1_1	#7f7f7f	Starr et al. 2019
+MN032704.1_3	#7f7f7f	Starr et al. 2019
+MN032708.1_1	#7f7f7f	Starr et al. 2019
+MN032712.1_1	#7f7f7f	Starr et al. 2019
+MN032713.1_1	#7f7f7f	Starr et al. 2019
+MN032719.1_5	#7f7f7f	Starr et al. 2019
+MN032721.1_1	#7f7f7f	Starr et al. 2019
+MN032722.1_1	#7f7f7f	Starr et al. 2019
+MN032725.1_1	#7f7f7f	Starr et al. 2019
+MN032727.1_4	#7f7f7f	Starr et al. 2019
+MN032731.1_1	#7f7f7f	Starr et al. 2019
+MN032735.1_1	#7f7f7f	Starr et al. 2019
+MN032740.1_3	#7f7f7f	Starr et al. 2019
+MN032748.1_1	#7f7f7f	Starr et al. 2019
+MN032751.1_1	#7f7f7f	Starr et al. 2019
+MN032754.1_1	#7f7f7f	Starr et al. 2019
+MN032755.1_2	#7f7f7f	Starr et al. 2019
+MN032756.1_4	#7f7f7f	Starr et al. 2019
+MN032757.1_4	#7f7f7f	Starr et al. 2019
+MN032758.1_3	#7f7f7f	Starr et al. 2019
+MN032762.1_4	#7f7f7f	Starr et al. 2019
+MN032764.1_4	#7f7f7f	Starr et al. 2019
+MN032765.1_1	#7f7f7f	Starr et al. 2019
+MN032766.1_1	#7f7f7f	Starr et al. 2019
+MN032770.1_1	#7f7f7f	Starr et al. 2019
+MN032773.1_1	#7f7f7f	Starr et al. 2019
+MN032775.1_1	#7f7f7f	Starr et al. 2019
+MN032778.1_1	#7f7f7f	Starr et al. 2019
+MN032780.1_1	#7f7f7f	Starr et al. 2019
+MN032782.1_1	#7f7f7f	Starr et al. 2019
+MN032786.1_1	#7f7f7f	Starr et al. 2019
+MN032790.1_1	#7f7f7f	Starr et al. 2019
+MN032792.1_1	#7f7f7f	Starr et al. 2019
+MN032793.1_2	#7f7f7f	Starr et al. 2019
+MN032795.1_1	#7f7f7f	Starr et al. 2019
+MN032797.1_3	#7f7f7f	Starr et al. 2019
+MN032799.1_1	#7f7f7f	Starr et al. 2019
+MN032803.1_3	#7f7f7f	Starr et al. 2019
+MN032804.1_1	#7f7f7f	Starr et al. 2019
+MN032805.1_1	#7f7f7f	Starr et al. 2019
+MN032807.1_5	#7f7f7f	Starr et al. 2019
+MN032809.1_4	#7f7f7f	Starr et al. 2019
+MN032811.1_1	#7f7f7f	Starr et al. 2019
+MN032814.1_3	#7f7f7f	Starr et al. 2019
+MN032814.1_4	#7f7f7f	Starr et al. 2019
+MN032821.1_4	#7f7f7f	Starr et al. 2019
+MN032823.1_1	#7f7f7f	Starr et al. 2019
+MN032828.1_1	#7f7f7f	Starr et al. 2019
+MN032829.1_1	#7f7f7f	Starr et al. 2019
+MN032835.1_1	#7f7f7f	Starr et al. 2019
+MN032837.1_1	#7f7f7f	Starr et al. 2019
+MN032841.1_1	#7f7f7f	Starr et al. 2019
+MN032842.1_1	#7f7f7f	Starr et al. 2019
+MN032848.1_4	#7f7f7f	Starr et al. 2019
+MN032849.1_1	#7f7f7f	Starr et al. 2019
+MN032850.1_1	#7f7f7f	Starr et al. 2019
+MN032853.1_1	#7f7f7f	Starr et al. 2019
+MN032862.1_1	#7f7f7f	Starr et al. 2019
+MN032866.1_1	#7f7f7f	Starr et al. 2019
+MN032868.1_1	#7f7f7f	Starr et al. 2019
+MN032869.1_1	#7f7f7f	Starr et al. 2019
+MN032874.1_3	#7f7f7f	Starr et al. 2019
+MN032879.1_1	#7f7f7f	Starr et al. 2019
+MN032879.1_2	#7f7f7f	Starr et al. 2019
+MN032880.1_1	#7f7f7f	Starr et al. 2019
+MN032883.1_3	#7f7f7f	Starr et al. 2019
+MN032884.1_2	#7f7f7f	Starr et al. 2019
+MN032885.1_1	#7f7f7f	Starr et al. 2019
+MN032886.1_1	#7f7f7f	Starr et al. 2019
+MN032887.1_1	#7f7f7f	Starr et al. 2019
+MN032892.1_1	#7f7f7f	Starr et al. 2019
+MN032898.1_1	#7f7f7f	Starr et al. 2019
+MN032905.1_4	#7f7f7f	Starr et al. 2019
+MN032914.1_1	#7f7f7f	Starr et al. 2019
+MN032917.1_1	#7f7f7f	Starr et al. 2019
+MN032918.1_1	#7f7f7f	Starr et al. 2019
+MN032921.1_1	#7f7f7f	Starr et al. 2019
+MN032923.1_2	#7f7f7f	Starr et al. 2019
+MN032924.1_1	#7f7f7f	Starr et al. 2019
+MN032925.1_3	#7f7f7f	Starr et al. 2019
+MN032931.1_1	#7f7f7f	Starr et al. 2019
+MN032934.1_3	#7f7f7f	Starr et al. 2019
+MN032936.1_6	#7f7f7f	Starr et al. 2019
+MN032938.1_1	#7f7f7f	Starr et al. 2019
+MN032939.1_2	#7f7f7f	Starr et al. 2019
+MN032943.1_1	#7f7f7f	Starr et al. 2019
+MN032944.1_1	#7f7f7f	Starr et al. 2019
+MN032946.1_1	#7f7f7f	Starr et al. 2019
+MN032950.1_1	#7f7f7f	Starr et al. 2019
+MN032951.1_3	#7f7f7f	Starr et al. 2019
+MN032962.1_1	#7f7f7f	Starr et al. 2019
+MN032972.1_1	#7f7f7f	Starr et al. 2019
+MN032973.1_1	#7f7f7f	Starr et al. 2019
+MN032975.1_1	#7f7f7f	Starr et al. 2019
+MN032978.1_2	#7f7f7f	Starr et al. 2019
+MN032979.1_1	#7f7f7f	Starr et al. 2019
+MN032980.1_3	#7f7f7f	Starr et al. 2019
+MN032981.1_2	#7f7f7f	Starr et al. 2019
+MN032983.1_1	#7f7f7f	Starr et al. 2019
+MN032984.1_3	#7f7f7f	Starr et al. 2019
+MN032987.1_1	#7f7f7f	Starr et al. 2019
+MN032992.1_5	#7f7f7f	Starr et al. 2019
+MN032994.1_1	#7f7f7f	Starr et al. 2019
+MN032996.1_1	#7f7f7f	Starr et al. 2019
+MN032998.1_1	#7f7f7f	Starr et al. 2019
+MN033014.1_1	#7f7f7f	Starr et al. 2019
+MN033015.1_3	#7f7f7f	Starr et al. 2019
+MN033016.1_4	#7f7f7f	Starr et al. 2019
+MN033017.1_4	#7f7f7f	Starr et al. 2019
+MN033019.1_3	#7f7f7f	Starr et al. 2019
+MN033022.1_1	#7f7f7f	Starr et al. 2019
+MN033026.1_1	#7f7f7f	Starr et al. 2019
+MN033035.1_1	#7f7f7f	Starr et al. 2019
+MN033036.1_1	#7f7f7f	Starr et al. 2019
+MN033037.1_1	#7f7f7f	Starr et al. 2019
+MN033046.1_1	#7f7f7f	Starr et al. 2019
+MN033049.1_1	#7f7f7f	Starr et al. 2019
+MN033052.1_4	#7f7f7f	Starr et al. 2019
+MN033055.1_3	#7f7f7f	Starr et al. 2019
+MN033059.1_1	#7f7f7f	Starr et al. 2019
+MN033061.1_3	#7f7f7f	Starr et al. 2019
+MN033069.1_4	#7f7f7f	Starr et al. 2019
+MN033078.1_1	#7f7f7f	Starr et al. 2019
+MN033079.1_1	#7f7f7f	Starr et al. 2019
+MN033084.1_6	#7f7f7f	Starr et al. 2019
+MN033085.1_1	#7f7f7f	Starr et al. 2019
+MN033090.1_1	#7f7f7f	Starr et al. 2019
+MN033091.1_4	#7f7f7f	Starr et al. 2019
+MN033092.1_2	#7f7f7f	Starr et al. 2019
+MN033093.1_1	#7f7f7f	Starr et al. 2019
+MN033094.1_1	#7f7f7f	Starr et al. 2019
+MN033097.1_3	#7f7f7f	Starr et al. 2019
+MN033098.1_1	#7f7f7f	Starr et al. 2019
+MN033099.1_1	#7f7f7f	Starr et al. 2019
+MN033100.1_4	#7f7f7f	Starr et al. 2019
+MN033105.1_1	#7f7f7f	Starr et al. 2019
+MN033106.1_1	#7f7f7f	Starr et al. 2019
+MN033114.1_3	#7f7f7f	Starr et al. 2019
+MN033116.1_1	#7f7f7f	Starr et al. 2019
+MN033117.1_3	#7f7f7f	Starr et al. 2019
+MN033119.1_2	#7f7f7f	Starr et al. 2019
+MN033123.1_3	#7f7f7f	Starr et al. 2019
+MN033125.1_2	#7f7f7f	Starr et al. 2019
+MN033130.1_2	#7f7f7f	Starr et al. 2019
+MN033134.1_4	#7f7f7f	Starr et al. 2019
+MN033137.1_1	#7f7f7f	Starr et al. 2019
+MN033143.1_1	#7f7f7f	Starr et al. 2019
+MN033144.1_6	#7f7f7f	Starr et al. 2019
+MN033148.1_1	#7f7f7f	Starr et al. 2019
+MN033154.1_3	#7f7f7f	Starr et al. 2019
+MN033155.1_1	#7f7f7f	Starr et al. 2019
+MN033156.1_6	#7f7f7f	Starr et al. 2019
+MN033157.1_1	#7f7f7f	Starr et al. 2019
+MN033158.1_3	#7f7f7f	Starr et al. 2019
+MN033161.1_1	#7f7f7f	Starr et al. 2019
+MN033164.1_1	#7f7f7f	Starr et al. 2019
+MN033166.1_1	#7f7f7f	Starr et al. 2019
+MN033171.1_1	#7f7f7f	Starr et al. 2019
+MN033172.1_1	#7f7f7f	Starr et al. 2019
+MN033173.1_2	#7f7f7f	Starr et al. 2019
+MN033178.1_1	#7f7f7f	Starr et al. 2019
+MN033178.1_2	#7f7f7f	Starr et al. 2019
+MN033179.1_1	#7f7f7f	Starr et al. 2019
+MN033186.1_1	#7f7f7f	Starr et al. 2019
+MN033187.1_1	#7f7f7f	Starr et al. 2019
+MN033189.1_1	#7f7f7f	Starr et al. 2019
+MN033194.1_1	#7f7f7f	Starr et al. 2019
+MN033195.1_1	#7f7f7f	Starr et al. 2019
+MN033198.1_1	#7f7f7f	Starr et al. 2019
+MN033199.1_1	#7f7f7f	Starr et al. 2019
+MN033201.1_1	#7f7f7f	Starr et al. 2019
+MN033202.1_1	#7f7f7f	Starr et al. 2019
+MN033204.1_1	#7f7f7f	Starr et al. 2019
+MN033209.1_1	#7f7f7f	Starr et al. 2019
+MN033211.1_1	#7f7f7f	Starr et al. 2019
+MN033212.1_5	#7f7f7f	Starr et al. 2019
+MN033213.1_3	#7f7f7f	Starr et al. 2019
+MN033214.1_2	#7f7f7f	Starr et al. 2019
+MN033215.1_3	#7f7f7f	Starr et al. 2019
+MN033222.1_1	#7f7f7f	Starr et al. 2019
+MN033225.1_3	#7f7f7f	Starr et al. 2019
+MN033227.1_1	#7f7f7f	Starr et al. 2019
+MN033229.1_1	#7f7f7f	Starr et al. 2019
+MN033235.1_2	#7f7f7f	Starr et al. 2019
+MN033243.1_1	#7f7f7f	Starr et al. 2019
+MN033245.1_3	#7f7f7f	Starr et al. 2019
+MN033247.1_3	#7f7f7f	Starr et al. 2019
+MN033249.1_1	#7f7f7f	Starr et al. 2019
+MN033260.1_4	#7f7f7f	Starr et al. 2019
+MN033262.1_4	#7f7f7f	Starr et al. 2019
+MN033264.1_1	#7f7f7f	Starr et al. 2019
+MN033268.1_1	#7f7f7f	Starr et al. 2019
+MN033272.1_1	#7f7f7f	Starr et al. 2019
+MN033275.1_1	#7f7f7f	Starr et al. 2019
+MN033276.1_1	#7f7f7f	Starr et al. 2019
+MN033280.1_1	#7f7f7f	Starr et al. 2019
+MN033283.1_1	#7f7f7f	Starr et al. 2019
+MN033284.1_1	#7f7f7f	Starr et al. 2019
+MN033285.1_1	#7f7f7f	Starr et al. 2019
+MN033286.1_1	#7f7f7f	Starr et al. 2019
+MN033286.1_2	#7f7f7f	Starr et al. 2019
+MN033291.1_1	#7f7f7f	Starr et al. 2019
+MN033296.1_1	#7f7f7f	Starr et al. 2019
+MN033297.1_1	#7f7f7f	Starr et al. 2019
+MN033301.1_3	#7f7f7f	Starr et al. 2019
+MN033303.1_1	#7f7f7f	Starr et al. 2019
+MN033306.1_5	#7f7f7f	Starr et al. 2019
+MN033308.1_1	#7f7f7f	Starr et al. 2019
+MN033313.1_1	#7f7f7f	Starr et al. 2019
+MN033314.1_1	#7f7f7f	Starr et al. 2019
+MN033317.1_1	#7f7f7f	Starr et al. 2019
+MN033321.1_1	#7f7f7f	Starr et al. 2019
+MN033323.1_1	#7f7f7f	Starr et al. 2019
+MN033324.1_1	#7f7f7f	Starr et al. 2019
+MN033326.1_4	#7f7f7f	Starr et al. 2019
+MN033332.1_1	#7f7f7f	Starr et al. 2019
+MN033336.1_1	#7f7f7f	Starr et al. 2019
+MN033337.1_1	#7f7f7f	Starr et al. 2019
+MN033342.1_1	#7f7f7f	Starr et al. 2019
+MN033343.1_1	#7f7f7f	Starr et al. 2019
+MN033344.1_2	#7f7f7f	Starr et al. 2019
+MN033346.1_1	#7f7f7f	Starr et al. 2019
+MN033349.1_4	#7f7f7f	Starr et al. 2019
+MN033353.1_1	#7f7f7f	Starr et al. 2019
+MN033354.1_1	#7f7f7f	Starr et al. 2019
+MN033358.1_1	#7f7f7f	Starr et al. 2019
+MN033360.1_4	#7f7f7f	Starr et al. 2019
+MN033361.1_1	#7f7f7f	Starr et al. 2019
+MN033362.1_1	#7f7f7f	Starr et al. 2019
+MN033363.1_3	#7f7f7f	Starr et al. 2019
+MN033364.1_4	#7f7f7f	Starr et al. 2019
+MN033365.1_1	#7f7f7f	Starr et al. 2019
+MN033366.1_3	#7f7f7f	Starr et al. 2019
+MN033368.1_1	#7f7f7f	Starr et al. 2019
+MN033375.1_4	#7f7f7f	Starr et al. 2019
+MN033378.1_3	#7f7f7f	Starr et al. 2019
+MN033381.1_2	#7f7f7f	Starr et al. 2019
+MN033384.1_1	#7f7f7f	Starr et al. 2019
+MN033387.1_1	#7f7f7f	Starr et al. 2019
+MN033388.1_1	#7f7f7f	Starr et al. 2019
+MN033389.1_1	#7f7f7f	Starr et al. 2019
+MN033394.1_4	#7f7f7f	Starr et al. 2019
+MN033395.1_1	#7f7f7f	Starr et al. 2019
+MN033396.1_1	#7f7f7f	Starr et al. 2019
+MN033399.1_4	#7f7f7f	Starr et al. 2019
+MN033399.1_5	#7f7f7f	Starr et al. 2019
+MN033400.1_1	#7f7f7f	Starr et al. 2019
+MN033403.1_4	#7f7f7f	Starr et al. 2019
+MN033408.1_3	#7f7f7f	Starr et al. 2019
+MN033418.1_3	#7f7f7f	Starr et al. 2019
+MN033430.1_1	#7f7f7f	Starr et al. 2019
+MN033432.1_4	#7f7f7f	Starr et al. 2019
+MN033433.1_3	#7f7f7f	Starr et al. 2019
+MN033441.1_3	#7f7f7f	Starr et al. 2019
+MN033445.1_1	#7f7f7f	Starr et al. 2019
+MN033447.1_2	#7f7f7f	Starr et al. 2019
+MN033449.1_2	#7f7f7f	Starr et al. 2019
+MN033451.1_1	#7f7f7f	Starr et al. 2019
+MN033454.1_2	#7f7f7f	Starr et al. 2019
+MN033465.1_1	#7f7f7f	Starr et al. 2019
+MN033467.1_1	#7f7f7f	Starr et al. 2019
+MN033470.1_4	#7f7f7f	Starr et al. 2019
+MN033475.1_2	#7f7f7f	Starr et al. 2019
+MN033480.1_3	#7f7f7f	Starr et al. 2019
+MN033481.1_1	#7f7f7f	Starr et al. 2019
+MN033483.1_1	#7f7f7f	Starr et al. 2019
+MN033488.1_1	#7f7f7f	Starr et al. 2019
+MN033491.1_1	#7f7f7f	Starr et al. 2019
+MN033493.1_3	#7f7f7f	Starr et al. 2019
+MN033495.1_1	#7f7f7f	Starr et al. 2019
+MN033497.1_4	#7f7f7f	Starr et al. 2019
+MN033498.1_1	#7f7f7f	Starr et al. 2019
+MN033501.1_1	#7f7f7f	Starr et al. 2019
+MN033502.1_4	#7f7f7f	Starr et al. 2019
+MN033503.1_1	#7f7f7f	Starr et al. 2019
+MN033504.1_3	#7f7f7f	Starr et al. 2019
+MN033508.1_1	#7f7f7f	Starr et al. 2019
+MN033510.1_1	#7f7f7f	Starr et al. 2019
+MN033513.1_4	#7f7f7f	Starr et al. 2019
+MN033514.1_1	#7f7f7f	Starr et al. 2019
+MN033518.1_1	#7f7f7f	Starr et al. 2019
+MN033522.1_1	#7f7f7f	Starr et al. 2019
+MN033523.1_1	#7f7f7f	Starr et al. 2019
+MN033527.1_1	#7f7f7f	Starr et al. 2019
+MN033529.1_2	#7f7f7f	Starr et al. 2019
+MN033532.1_1	#7f7f7f	Starr et al. 2019
+MN033541.1_3	#7f7f7f	Starr et al. 2019
+MN033543.1_1	#7f7f7f	Starr et al. 2019
+MN033544.1_1	#7f7f7f	Starr et al. 2019
+MN033546.1_1	#7f7f7f	Starr et al. 2019
+MN033547.1_1	#7f7f7f	Starr et al. 2019
+MN033554.1_1	#7f7f7f	Starr et al. 2019
+MN033558.1_5	#7f7f7f	Starr et al. 2019
+MN033559.1_1	#7f7f7f	Starr et al. 2019
+MN033566.1_1	#7f7f7f	Starr et al. 2019
+MN033568.1_1	#7f7f7f	Starr et al. 2019
+MN033571.1_1	#7f7f7f	Starr et al. 2019
+MN033573.1_1	#7f7f7f	Starr et al. 2019
+MN033575.1_1	#7f7f7f	Starr et al. 2019
+MN033576.1_1	#7f7f7f	Starr et al. 2019
+MN033577.1_2	#7f7f7f	Starr et al. 2019
+MN033578.1_1	#7f7f7f	Starr et al. 2019
+MN033580.1_1	#7f7f7f	Starr et al. 2019
+MN033581.1_2	#7f7f7f	Starr et al. 2019
+MN033583.1_1	#7f7f7f	Starr et al. 2019
+MN033584.1_1	#7f7f7f	Starr et al. 2019
+MN033586.1_4	#7f7f7f	Starr et al. 2019
+MN033593.1_5	#7f7f7f	Starr et al. 2019
+MN033594.1_1	#7f7f7f	Starr et al. 2019
+MN033597.1_2	#7f7f7f	Starr et al. 2019
+MN033598.1_1	#7f7f7f	Starr et al. 2019
+MN033599.1_3	#7f7f7f	Starr et al. 2019
+MN033607.1_1	#7f7f7f	Starr et al. 2019
+MN033612.1_1	#7f7f7f	Starr et al. 2019
+MN033615.1_1	#7f7f7f	Starr et al. 2019
+MN033616.1_1	#7f7f7f	Starr et al. 2019
+MN033618.1_3	#7f7f7f	Starr et al. 2019
+MN033619.1_1	#7f7f7f	Starr et al. 2019
+MN033620.1_1	#7f7f7f	Starr et al. 2019
+MN033625.1_1	#7f7f7f	Starr et al. 2019
+MN033630.1_1	#7f7f7f	Starr et al. 2019
+MN033632.1_1	#7f7f7f	Starr et al. 2019
+MN033634.1_1	#7f7f7f	Starr et al. 2019
+MN033635.1_4	#7f7f7f	Starr et al. 2019
+MN033638.1_1	#7f7f7f	Starr et al. 2019
+MN033650.1_1	#7f7f7f	Starr et al. 2019
+MN033656.1_3	#7f7f7f	Starr et al. 2019
+MN033657.1_1	#7f7f7f	Starr et al. 2019
+MN033666.1_1	#7f7f7f	Starr et al. 2019
+MN033668.1_3	#7f7f7f	Starr et al. 2019
+MN033670.1_3	#7f7f7f	Starr et al. 2019
+MN033672.1_1	#7f7f7f	Starr et al. 2019
+MN033674.1_3	#7f7f7f	Starr et al. 2019
+MN033677.1_1	#7f7f7f	Starr et al. 2019
+MN033679.1_3	#7f7f7f	Starr et al. 2019
+MN033680.1_5	#7f7f7f	Starr et al. 2019
+MN033681.1_2	#7f7f7f	Starr et al. 2019
+MN033684.1_1	#7f7f7f	Starr et al. 2019
+MN033685.1_1	#7f7f7f	Starr et al. 2019
+MN033689.1_1	#7f7f7f	Starr et al. 2019
+MN033691.1_2	#7f7f7f	Starr et al. 2019
+MN033692.1_1	#7f7f7f	Starr et al. 2019
+MN033694.1_5	#7f7f7f	Starr et al. 2019
+MN033697.1_3	#7f7f7f	Starr et al. 2019
+MN033700.1_1	#7f7f7f	Starr et al. 2019
+MN033703.1_1	#7f7f7f	Starr et al. 2019
+MN033706.1_1	#7f7f7f	Starr et al. 2019
+MN033709.1_1	#7f7f7f	Starr et al. 2019
+MN033711.1_1	#7f7f7f	Starr et al. 2019
+MN033714.1_1	#7f7f7f	Starr et al. 2019
+MN033715.1_4	#7f7f7f	Starr et al. 2019
+MN033716.1_1	#7f7f7f	Starr et al. 2019
+MN033719.1_1	#7f7f7f	Starr et al. 2019
+MN033721.1_4	#7f7f7f	Starr et al. 2019
+MN033722.1_1	#7f7f7f	Starr et al. 2019
+MN033723.1_2	#7f7f7f	Starr et al. 2019
+MN033729.1_1	#7f7f7f	Starr et al. 2019
+MN033731.1_5	#7f7f7f	Starr et al. 2019
+MN033733.1_1	#7f7f7f	Starr et al. 2019
+MN033734.1_1	#7f7f7f	Starr et al. 2019
+MN033736.1_1	#7f7f7f	Starr et al. 2019
+MN033737.1_1	#7f7f7f	Starr et al. 2019
+MN033738.1_2	#7f7f7f	Starr et al. 2019
+MN033740.1_1	#7f7f7f	Starr et al. 2019
+MN033741.1_1	#7f7f7f	Starr et al. 2019
+MN033749.1_1	#7f7f7f	Starr et al. 2019
+MN033751.1_1	#7f7f7f	Starr et al. 2019
+MN033752.1_1	#7f7f7f	Starr et al. 2019
+MN033753.1_1	#7f7f7f	Starr et al. 2019
+MN033761.1_1	#7f7f7f	Starr et al. 2019
+MN033764.1_3	#7f7f7f	Starr et al. 2019
+MN033766.1_4	#7f7f7f	Starr et al. 2019
+MN033770.1_1	#7f7f7f	Starr et al. 2019
+MN033772.1_1	#7f7f7f	Starr et al. 2019
+MN033776.1_1	#7f7f7f	Starr et al. 2019
+MN033777.1_3	#7f7f7f	Starr et al. 2019
+MN033779.1_3	#7f7f7f	Starr et al. 2019
+MN033780.1_1	#7f7f7f	Starr et al. 2019
+MN033782.1_2	#7f7f7f	Starr et al. 2019
+MN033783.1_1	#7f7f7f	Starr et al. 2019
+MN033784.1_3	#7f7f7f	Starr et al. 2019
+MN033785.1_3	#7f7f7f	Starr et al. 2019
+MN033786.1_1	#7f7f7f	Starr et al. 2019
+MN033792.1_1	#7f7f7f	Starr et al. 2019
+MN033794.1_1	#7f7f7f	Starr et al. 2019
+MN033795.1_3	#7f7f7f	Starr et al. 2019
+MN033796.1_3	#7f7f7f	Starr et al. 2019
+MN033797.1_1	#7f7f7f	Starr et al. 2019
+MN033799.1_3	#7f7f7f	Starr et al. 2019
+MN033802.1_1	#7f7f7f	Starr et al. 2019
+MN033805.1_1	#7f7f7f	Starr et al. 2019
+MN033808.1_1	#7f7f7f	Starr et al. 2019
+MN033809.1_1	#7f7f7f	Starr et al. 2019
+MN033813.1_1	#7f7f7f	Starr et al. 2019
+MN033814.1_3	#7f7f7f	Starr et al. 2019
+MN033815.1_1	#7f7f7f	Starr et al. 2019
+MN033817.1_1	#7f7f7f	Starr et al. 2019
+MN033818.1_4	#7f7f7f	Starr et al. 2019
+MN033819.1_4	#7f7f7f	Starr et al. 2019
+MN033821.1_1	#7f7f7f	Starr et al. 2019
+MN033825.1_3	#7f7f7f	Starr et al. 2019
+MN033826.1_1	#7f7f7f	Starr et al. 2019
+MN033830.1_1	#7f7f7f	Starr et al. 2019
+MN033832.1_3	#7f7f7f	Starr et al. 2019
+MN033833.1_1	#7f7f7f	Starr et al. 2019
+MN033834.1_1	#7f7f7f	Starr et al. 2019
+MN033834.1_2	#7f7f7f	Starr et al. 2019
+MN033836.1_1	#7f7f7f	Starr et al. 2019
+MN033837.1_1	#7f7f7f	Starr et al. 2019
+MN033839.1_3	#7f7f7f	Starr et al. 2019
+MN033843.1_1	#7f7f7f	Starr et al. 2019
+MN033844.1_3	#7f7f7f	Starr et al. 2019
+MN033852.1_1	#7f7f7f	Starr et al. 2019
+MN033858.1_1	#7f7f7f	Starr et al. 2019
+MN033861.1_1	#7f7f7f	Starr et al. 2019
+MN033862.1_4	#7f7f7f	Starr et al. 2019
+MN033863.1_1	#7f7f7f	Starr et al. 2019
+MN033866.1_3	#7f7f7f	Starr et al. 2019
+MN033868.1_1	#7f7f7f	Starr et al. 2019
+MN033873.1_1	#7f7f7f	Starr et al. 2019
+MN033880.1_1	#7f7f7f	Starr et al. 2019
+MN033881.1_1	#7f7f7f	Starr et al. 2019
+MN033883.1_1	#7f7f7f	Starr et al. 2019
+MN033891.1_1	#7f7f7f	Starr et al. 2019
+MN033894.1_1	#7f7f7f	Starr et al. 2019
+MN033899.1_1	#7f7f7f	Starr et al. 2019
+MN033900.1_1	#7f7f7f	Starr et al. 2019
+MN033903.1_1	#7f7f7f	Starr et al. 2019
+MN033904.1_1	#7f7f7f	Starr et al. 2019
+MN033905.1_1	#7f7f7f	Starr et al. 2019
+MN033906.1_3	#7f7f7f	Starr et al. 2019
+MN033912.1_3	#7f7f7f	Starr et al. 2019
+MN033914.1_1	#7f7f7f	Starr et al. 2019
+MN033920.1_4	#7f7f7f	Starr et al. 2019
+MN033922.1_3	#7f7f7f	Starr et al. 2019
+MN033925.1_1	#7f7f7f	Starr et al. 2019
+MN033930.1_1	#7f7f7f	Starr et al. 2019
+MN033938.1_1	#7f7f7f	Starr et al. 2019
+MN033940.1_1	#7f7f7f	Starr et al. 2019
+MN033941.1_1	#7f7f7f	Starr et al. 2019
+MN033942.1_2	#7f7f7f	Starr et al. 2019
+MN033943.1_2	#7f7f7f	Starr et al. 2019
+MN033944.1_1	#7f7f7f	Starr et al. 2019
+MN033947.1_1	#7f7f7f	Starr et al. 2019
+MN033955.1_3	#7f7f7f	Starr et al. 2019
+MN033956.1_3	#7f7f7f	Starr et al. 2019
+MN033962.1_1	#7f7f7f	Starr et al. 2019
+MN033963.1_2	#7f7f7f	Starr et al. 2019
+MN033965.1_1	#7f7f7f	Starr et al. 2019
+MN033969.1_3	#7f7f7f	Starr et al. 2019
+MN033971.1_1	#7f7f7f	Starr et al. 2019
+MN033972.1_1	#7f7f7f	Starr et al. 2019
+MN033978.1_1	#7f7f7f	Starr et al. 2019
+MN033980.1_1	#7f7f7f	Starr et al. 2019
+MN033981.1_1	#7f7f7f	Starr et al. 2019
+MN033991.1_2	#7f7f7f	Starr et al. 2019
+MN033992.1_1	#7f7f7f	Starr et al. 2019
+MN033996.1_1	#7f7f7f	Starr et al. 2019
+MN033997.1_1	#7f7f7f	Starr et al. 2019
+MN034000.1_1	#7f7f7f	Starr et al. 2019
+MN034002.1_1	#7f7f7f	Starr et al. 2019
+MN034003.1_3	#7f7f7f	Starr et al. 2019
+MN034005.1_3	#7f7f7f	Starr et al. 2019
+MN034009.1_1	#7f7f7f	Starr et al. 2019
+MN034010.1_3	#7f7f7f	Starr et al. 2019
+MN034013.1_1	#7f7f7f	Starr et al. 2019
+MN034017.1_1	#7f7f7f	Starr et al. 2019
+MN034018.1_1	#7f7f7f	Starr et al. 2019
+MN034018.1_2	#7f7f7f	Starr et al. 2019
+MN034020.1_1	#7f7f7f	Starr et al. 2019
+MN034022.1_6	#7f7f7f	Starr et al. 2019
+MN034024.1_1	#7f7f7f	Starr et al. 2019
+MN034028.1_4	#7f7f7f	Starr et al. 2019
+MN034030.1_1	#7f7f7f	Starr et al. 2019
+MN034032.1_1	#7f7f7f	Starr et al. 2019
+MN034036.1_1	#7f7f7f	Starr et al. 2019
+MN034037.1_3	#7f7f7f	Starr et al. 2019
+MN034038.1_3	#7f7f7f	Starr et al. 2019
+MN034039.1_2	#7f7f7f	Starr et al. 2019
+MN034040.1_1	#7f7f7f	Starr et al. 2019
+MN034045.1_1	#7f7f7f	Starr et al. 2019
+MN034046.1_1	#7f7f7f	Starr et al. 2019
+MN034053.1_3	#7f7f7f	Starr et al. 2019
+MN034054.1_1	#7f7f7f	Starr et al. 2019
+MN034057.1_1	#7f7f7f	Starr et al. 2019
+MN034060.1_1	#7f7f7f	Starr et al. 2019
+MN034068.1_3	#7f7f7f	Starr et al. 2019
+MN034072.1_3	#7f7f7f	Starr et al. 2019
+MN034074.1_1	#7f7f7f	Starr et al. 2019
+MN034078.1_3	#7f7f7f	Starr et al. 2019
+MN034079.1_3	#7f7f7f	Starr et al. 2019
+MN034081.1_3	#7f7f7f	Starr et al. 2019
+MN034083.1_1	#7f7f7f	Starr et al. 2019
+MN034084.1_2	#7f7f7f	Starr et al. 2019
+MN034085.1_1	#7f7f7f	Starr et al. 2019
+MN034087.1_1	#7f7f7f	Starr et al. 2019
+MN034095.1_1	#7f7f7f	Starr et al. 2019
+MN034098.1_2	#7f7f7f	Starr et al. 2019
+MN034104.1_1	#7f7f7f	Starr et al. 2019
+MN034106.1_1	#7f7f7f	Starr et al. 2019
+MN034107.1_2	#7f7f7f	Starr et al. 2019
+MN034108.1_3	#7f7f7f	Starr et al. 2019
+MN034110.1_1	#7f7f7f	Starr et al. 2019
+MN034112.1_3	#7f7f7f	Starr et al. 2019
+MN034114.1_3	#7f7f7f	Starr et al. 2019
+MN034117.1_1	#7f7f7f	Starr et al. 2019
+MN034119.1_2	#7f7f7f	Starr et al. 2019
+MN034122.1_1	#7f7f7f	Starr et al. 2019
+MN034123.1_1	#7f7f7f	Starr et al. 2019
+MN034131.1_1	#7f7f7f	Starr et al. 2019
+MN034134.1_1	#7f7f7f	Starr et al. 2019
+MN034137.1_1	#7f7f7f	Starr et al. 2019
+MN034143.1_1	#7f7f7f	Starr et al. 2019
+MN034145.1_2	#7f7f7f	Starr et al. 2019
+MN034148.1_1	#7f7f7f	Starr et al. 2019
+MN034152.1_1	#7f7f7f	Starr et al. 2019
+MN034154.1_4	#7f7f7f	Starr et al. 2019
+MN034155.1_1	#7f7f7f	Starr et al. 2019
+MN034163.1_1	#7f7f7f	Starr et al. 2019
+MN034165.1_3	#7f7f7f	Starr et al. 2019
+MN034167.1_1	#7f7f7f	Starr et al. 2019
+MN034169.1_3	#7f7f7f	Starr et al. 2019
+MN034172.1_1	#7f7f7f	Starr et al. 2019
+MN034176.1_1	#7f7f7f	Starr et al. 2019
+MN034177.1_1	#7f7f7f	Starr et al. 2019
+MN034178.1_3	#7f7f7f	Starr et al. 2019
+MN034181.1_1	#7f7f7f	Starr et al. 2019
+MN034185.1_3	#7f7f7f	Starr et al. 2019
+MN034186.1_3	#7f7f7f	Starr et al. 2019
+MN034187.1_2	#7f7f7f	Starr et al. 2019
+MN034189.1_1	#7f7f7f	Starr et al. 2019
+MN034192.1_1	#7f7f7f	Starr et al. 2019
+MN034203.1_1	#7f7f7f	Starr et al. 2019
+MN034207.1_1	#7f7f7f	Starr et al. 2019
+MN034209.1_3	#7f7f7f	Starr et al. 2019
+MN034210.1_1	#7f7f7f	Starr et al. 2019
+MN034212.1_1	#7f7f7f	Starr et al. 2019
+MN034213.1_1	#7f7f7f	Starr et al. 2019
+MN034216.1_4	#7f7f7f	Starr et al. 2019
+MN034218.1_4	#7f7f7f	Starr et al. 2019
+MN034221.1_3	#7f7f7f	Starr et al. 2019
+MN034223.1_1	#7f7f7f	Starr et al. 2019
+MN034224.1_1	#7f7f7f	Starr et al. 2019
+MN034226.1_1	#7f7f7f	Starr et al. 2019
+MN034233.1_5	#7f7f7f	Starr et al. 2019
+MN034239.1_1	#7f7f7f	Starr et al. 2019
+MN034240.1_1	#7f7f7f	Starr et al. 2019
+MN034245.1_1	#7f7f7f	Starr et al. 2019
+MN034246.1_5	#7f7f7f	Starr et al. 2019
+MN034247.1_1	#7f7f7f	Starr et al. 2019
+MN034252.1_3	#7f7f7f	Starr et al. 2019
+MN034256.1_1	#7f7f7f	Starr et al. 2019
+MN034258.1_1	#7f7f7f	Starr et al. 2019
+MN034261.1_1	#7f7f7f	Starr et al. 2019
+MN034264.1_1	#7f7f7f	Starr et al. 2019
+MN034265.1_1	#7f7f7f	Starr et al. 2019
+MN034269.1_3	#7f7f7f	Starr et al. 2019
+MN034275.1_1	#7f7f7f	Starr et al. 2019
+MN034277.1_1	#7f7f7f	Starr et al. 2019
+MN034281.1_3	#7f7f7f	Starr et al. 2019
+MN034284.1_1	#7f7f7f	Starr et al. 2019
+MN034285.1_1	#7f7f7f	Starr et al. 2019
+MN034286.1_4	#7f7f7f	Starr et al. 2019
+MN034288.1_1	#7f7f7f	Starr et al. 2019
+MN034290.1_3	#7f7f7f	Starr et al. 2019
+MN034292.1_1	#7f7f7f	Starr et al. 2019
+MN034296.1_3	#7f7f7f	Starr et al. 2019
+MN034298.1_1	#7f7f7f	Starr et al. 2019
+MN034306.1_1	#7f7f7f	Starr et al. 2019
+MN034310.1_2	#7f7f7f	Starr et al. 2019
+MN034313.1_1	#7f7f7f	Starr et al. 2019
+MN034314.1_3	#7f7f7f	Starr et al. 2019
+MN034315.1_4	#7f7f7f	Starr et al. 2019
+MN034322.1_1	#7f7f7f	Starr et al. 2019
+MN034323.1_2	#7f7f7f	Starr et al. 2019
+MN034326.1_1	#7f7f7f	Starr et al. 2019
+MN034327.1_1	#7f7f7f	Starr et al. 2019
+MN034331.1_4	#7f7f7f	Starr et al. 2019
+MN034336.1_5	#7f7f7f	Starr et al. 2019
+MN034341.1_1	#7f7f7f	Starr et al. 2019
+MN034343.1_1	#7f7f7f	Starr et al. 2019
+MN034354.1_1	#7f7f7f	Starr et al. 2019
+MN034360.1_1	#7f7f7f	Starr et al. 2019
+MN034362.1_1	#7f7f7f	Starr et al. 2019
+MN034365.1_1	#7f7f7f	Starr et al. 2019
+MN034368.1_1	#7f7f7f	Starr et al. 2019
+MN034369.1_3	#7f7f7f	Starr et al. 2019
+MN034373.1_1	#7f7f7f	Starr et al. 2019
+MN034374.1_1	#7f7f7f	Starr et al. 2019
+MN034377.1_2	#7f7f7f	Starr et al. 2019
+MN034385.1_3	#7f7f7f	Starr et al. 2019
+MN034386.1_3	#7f7f7f	Starr et al. 2019
+MN034387.1_2	#7f7f7f	Starr et al. 2019
+MN034389.1_1	#7f7f7f	Starr et al. 2019
+MN034391.1_3	#7f7f7f	Starr et al. 2019
+MN034393.1_4	#7f7f7f	Starr et al. 2019
+MN034401.1_3	#7f7f7f	Starr et al. 2019
+MN034402.1_1	#7f7f7f	Starr et al. 2019
+MN034407.1_1	#7f7f7f	Starr et al. 2019
+MN034414.1_3	#7f7f7f	Starr et al. 2019
+MN034415.1_1	#7f7f7f	Starr et al. 2019
+MN034419.1_2	#7f7f7f	Starr et al. 2019
+MN034431.1_3	#7f7f7f	Starr et al. 2019
+MN034434.1_1	#7f7f7f	Starr et al. 2019
+MN034435.1_1	#7f7f7f	Starr et al. 2019
+MN034436.1_3	#7f7f7f	Starr et al. 2019
+MN034437.1_1	#7f7f7f	Starr et al. 2019
+MN034439.1_2	#7f7f7f	Starr et al. 2019
+MN034444.1_1	#7f7f7f	Starr et al. 2019
+MN034446.1_1	#7f7f7f	Starr et al. 2019
+MN034447.1_1	#7f7f7f	Starr et al. 2019
+MN034448.1_1	#7f7f7f	Starr et al. 2019
+MN034450.1_1	#7f7f7f	Starr et al. 2019
+MN034452.1_1	#7f7f7f	Starr et al. 2019
+MN034453.1_3	#7f7f7f	Starr et al. 2019
+MN034455.1_1	#7f7f7f	Starr et al. 2019
+MN034456.1_3	#7f7f7f	Starr et al. 2019
+MN034459.1_1	#7f7f7f	Starr et al. 2019
+MN034460.1_3	#7f7f7f	Starr et al. 2019
+MN034461.1_1	#7f7f7f	Starr et al. 2019
+MN034462.1_1	#7f7f7f	Starr et al. 2019
+MN034463.1_1	#7f7f7f	Starr et al. 2019
+MN034474.1_2	#7f7f7f	Starr et al. 2019
+MN034475.1_1	#7f7f7f	Starr et al. 2019
+MN034481.1_1	#7f7f7f	Starr et al. 2019
+MN034484.1_1	#7f7f7f	Starr et al. 2019
+MN034485.1_3	#7f7f7f	Starr et al. 2019
+MN034486.1_1	#7f7f7f	Starr et al. 2019
+MN034490.1_1	#7f7f7f	Starr et al. 2019
+MN034491.1_1	#7f7f7f	Starr et al. 2019
+MN034497.1_3	#7f7f7f	Starr et al. 2019
+MN034498.1_1	#7f7f7f	Starr et al. 2019
+MN034500.1_1	#7f7f7f	Starr et al. 2019
+MN034503.1_4	#7f7f7f	Starr et al. 2019
+MN034507.1_1	#7f7f7f	Starr et al. 2019
+MN034510.1_4	#7f7f7f	Starr et al. 2019
+MN034511.1_1	#7f7f7f	Starr et al. 2019
+MN034511.1_2	#7f7f7f	Starr et al. 2019
+MN034517.1_1	#7f7f7f	Starr et al. 2019
+MN034519.1_1	#7f7f7f	Starr et al. 2019
+MN034523.1_1	#7f7f7f	Starr et al. 2019
+MN034531.1_5	#7f7f7f	Starr et al. 2019
+MN034532.1_1	#7f7f7f	Starr et al. 2019
+MN034533.1_1	#7f7f7f	Starr et al. 2019
+MN034534.1_1	#7f7f7f	Starr et al. 2019
+MN034536.1_5	#7f7f7f	Starr et al. 2019
+MN034537.1_1	#7f7f7f	Starr et al. 2019
+MN034540.1_1	#7f7f7f	Starr et al. 2019
+MN034542.1_5	#7f7f7f	Starr et al. 2019
+MN034544.1_1	#7f7f7f	Starr et al. 2019
+MN034546.1_1	#7f7f7f	Starr et al. 2019
+MN034547.1_1	#7f7f7f	Starr et al. 2019
+MN034557.1_3	#7f7f7f	Starr et al. 2019
+MN034564.1_4	#7f7f7f	Starr et al. 2019
+MN034569.1_3	#7f7f7f	Starr et al. 2019
+MN034574.1_3	#7f7f7f	Starr et al. 2019
+MN034575.1_1	#7f7f7f	Starr et al. 2019
+MN034578.1_1	#7f7f7f	Starr et al. 2019
+MN034579.1_3	#7f7f7f	Starr et al. 2019
+MN034580.1_1	#7f7f7f	Starr et al. 2019
+MN034580.1_2	#7f7f7f	Starr et al. 2019
+MN034581.1_1	#7f7f7f	Starr et al. 2019
+MN034582.1_3	#7f7f7f	Starr et al. 2019
+MN034583.1_1	#7f7f7f	Starr et al. 2019
+MN034588.1_1	#7f7f7f	Starr et al. 2019
+MN034590.1_1	#7f7f7f	Starr et al. 2019
+MN034594.1_2	#7f7f7f	Starr et al. 2019
+MN034595.1_1	#7f7f7f	Starr et al. 2019
+MN034597.1_2	#7f7f7f	Starr et al. 2019
+MN034604.1_2	#7f7f7f	Starr et al. 2019
+MN034605.1_4	#7f7f7f	Starr et al. 2019
+MN034608.1_1	#7f7f7f	Starr et al. 2019
+MN034610.1_1	#7f7f7f	Starr et al. 2019
+MN034612.1_2	#7f7f7f	Starr et al. 2019
+MN034618.1_1	#7f7f7f	Starr et al. 2019
+MN034620.1_4	#7f7f7f	Starr et al. 2019
+MN034625.1_1	#7f7f7f	Starr et al. 2019
+MN034628.1_4	#7f7f7f	Starr et al. 2019
+MN034629.1_1	#7f7f7f	Starr et al. 2019
+MN034638.1_3	#7f7f7f	Starr et al. 2019
+MN034640.1_1	#7f7f7f	Starr et al. 2019
+MN034641.1_4	#7f7f7f	Starr et al. 2019
+MN034641.1_5	#7f7f7f	Starr et al. 2019
+MN034642.1_2	#7f7f7f	Starr et al. 2019
+MN034646.1_2	#7f7f7f	Starr et al. 2019
+MN034650.1_1	#7f7f7f	Starr et al. 2019
+MN034653.1_1	#7f7f7f	Starr et al. 2019
+MN034654.1_2	#7f7f7f	Starr et al. 2019
+MN034655.1_1	#7f7f7f	Starr et al. 2019
+MN034656.1_1	#7f7f7f	Starr et al. 2019
+MN034662.1_1	#7f7f7f	Starr et al. 2019
+MN034664.1_1	#7f7f7f	Starr et al. 2019
+MN034665.1_4	#7f7f7f	Starr et al. 2019
+MN034667.1_1	#7f7f7f	Starr et al. 2019
+MN034668.1_3	#7f7f7f	Starr et al. 2019
+MN034673.1_1	#7f7f7f	Starr et al. 2019
+MN034674.1_1	#7f7f7f	Starr et al. 2019
+MN034675.1_2	#7f7f7f	Starr et al. 2019
+MN034677.1_1	#7f7f7f	Starr et al. 2019
+MN034683.1_1	#7f7f7f	Starr et al. 2019
+MN034684.1_1	#7f7f7f	Starr et al. 2019
+MN034691.1_1	#7f7f7f	Starr et al. 2019
+MN034698.1_1	#7f7f7f	Starr et al. 2019
+MN034699.1_2	#7f7f7f	Starr et al. 2019
+MN034702.1_1	#7f7f7f	Starr et al. 2019
+MN034703.1_4	#7f7f7f	Starr et al. 2019
+MN034708.1_1	#7f7f7f	Starr et al. 2019
+MN034710.1_1	#7f7f7f	Starr et al. 2019
+MN034712.1_1	#7f7f7f	Starr et al. 2019
+MN034713.1_3	#7f7f7f	Starr et al. 2019
+MN034717.1_1	#7f7f7f	Starr et al. 2019
+MN034719.1_1	#7f7f7f	Starr et al. 2019
+MN034720.1_1	#7f7f7f	Starr et al. 2019
+MN034722.1_1	#7f7f7f	Starr et al. 2019
+MN034725.1_3	#7f7f7f	Starr et al. 2019
+MN034728.1_4	#7f7f7f	Starr et al. 2019
+MN034731.1_3	#7f7f7f	Starr et al. 2019
+MN034732.1_3	#7f7f7f	Starr et al. 2019
+MN034733.1_1	#7f7f7f	Starr et al. 2019
+MN034734.1_1	#7f7f7f	Starr et al. 2019
+MN034735.1_1	#7f7f7f	Starr et al. 2019
+MN034736.1_1	#7f7f7f	Starr et al. 2019
+MN034738.1_1	#7f7f7f	Starr et al. 2019
+MN034740.1_1	#7f7f7f	Starr et al. 2019
+MN034742.1_5	#7f7f7f	Starr et al. 2019
+MN034744.1_4	#7f7f7f	Starr et al. 2019
+MN034746.1_1	#7f7f7f	Starr et al. 2019
+MN034753.1_1	#7f7f7f	Starr et al. 2019
+MN034756.1_2	#7f7f7f	Starr et al. 2019
+MN034759.1_1	#7f7f7f	Starr et al. 2019
+MN034761.1_4	#7f7f7f	Starr et al. 2019
+MN034762.1_1	#7f7f7f	Starr et al. 2019
+MN034763.1_2	#7f7f7f	Starr et al. 2019
+MN034764.1_1	#7f7f7f	Starr et al. 2019
+MN034766.1_3	#7f7f7f	Starr et al. 2019
+MN034767.1_1	#7f7f7f	Starr et al. 2019
+MN034768.1_1	#7f7f7f	Starr et al. 2019
+MN034770.1_1	#7f7f7f	Starr et al. 2019
+MN034771.1_1	#7f7f7f	Starr et al. 2019
+MN034772.1_2	#7f7f7f	Starr et al. 2019
+MN034773.1_1	#7f7f7f	Starr et al. 2019
+MN034774.1_1	#7f7f7f	Starr et al. 2019
+MN034778.1_1	#7f7f7f	Starr et al. 2019
+MN034778.1_2	#7f7f7f	Starr et al. 2019
+MN034782.1_1	#7f7f7f	Starr et al. 2019
+MN034784.1_3	#7f7f7f	Starr et al. 2019
+MN034787.1_1	#7f7f7f	Starr et al. 2019
+MN034789.1_1	#7f7f7f	Starr et al. 2019
+MN034791.1_1	#7f7f7f	Starr et al. 2019
+MN034792.1_1	#7f7f7f	Starr et al. 2019
+MN034796.1_1	#7f7f7f	Starr et al. 2019
+MN034800.1_1	#7f7f7f	Starr et al. 2019
+MN034801.1_1	#7f7f7f	Starr et al. 2019
+MN034802.1_1	#7f7f7f	Starr et al. 2019
+MN034803.1_1	#7f7f7f	Starr et al. 2019
+MN034812.1_1	#7f7f7f	Starr et al. 2019
+MN034813.1_1	#7f7f7f	Starr et al. 2019
+MN034815.1_1	#7f7f7f	Starr et al. 2019
+MN034818.1_3	#7f7f7f	Starr et al. 2019
+MN034822.1_1	#7f7f7f	Starr et al. 2019
+MN034824.1_3	#7f7f7f	Starr et al. 2019
+MN034826.1_1	#7f7f7f	Starr et al. 2019
+MN034827.1_1	#7f7f7f	Starr et al. 2019
+MN034829.1_1	#7f7f7f	Starr et al. 2019
+MN034832.1_1	#7f7f7f	Starr et al. 2019
+MN034834.1_4	#7f7f7f	Starr et al. 2019
+MN034837.1_1	#7f7f7f	Starr et al. 2019
+MN034840.1_1	#7f7f7f	Starr et al. 2019
+MN034842.1_2	#7f7f7f	Starr et al. 2019
+MN034846.1_3	#7f7f7f	Starr et al. 2019
+MN034847.1_5	#7f7f7f	Starr et al. 2019
+MN034848.1_1	#7f7f7f	Starr et al. 2019
+MN034850.1_3	#7f7f7f	Starr et al. 2019
+MN034853.1_1	#7f7f7f	Starr et al. 2019
+MN034855.1_1	#7f7f7f	Starr et al. 2019
+MN034857.1_1	#7f7f7f	Starr et al. 2019
+MN034858.1_1	#7f7f7f	Starr et al. 2019
+MN034861.1_1	#7f7f7f	Starr et al. 2019
+MN034866.1_2	#7f7f7f	Starr et al. 2019
+MN034867.1_1	#7f7f7f	Starr et al. 2019
+MN034871.1_1	#7f7f7f	Starr et al. 2019
+MN034872.1_1	#7f7f7f	Starr et al. 2019
+MN034875.1_1	#7f7f7f	Starr et al. 2019
+MN034876.1_1	#7f7f7f	Starr et al. 2019
+MN034879.1_1	#7f7f7f	Starr et al. 2019
+MN034881.1_1	#7f7f7f	Starr et al. 2019
+MN034883.1_2	#7f7f7f	Starr et al. 2019
+MN034883.1_3	#7f7f7f	Starr et al. 2019
+MN034890.1_1	#7f7f7f	Starr et al. 2019
+MN034891.1_1	#7f7f7f	Starr et al. 2019
+MN034892.1_1	#7f7f7f	Starr et al. 2019
+MN034893.1_3	#7f7f7f	Starr et al. 2019
+MN034896.1_1	#7f7f7f	Starr et al. 2019
+MN034900.1_1	#7f7f7f	Starr et al. 2019
+MN034902.1_1	#7f7f7f	Starr et al. 2019
+MN034904.1_4	#7f7f7f	Starr et al. 2019
+MN034907.1_3	#7f7f7f	Starr et al. 2019
+MN034910.1_5	#7f7f7f	Starr et al. 2019
+MN034918.1_1	#7f7f7f	Starr et al. 2019
+MN034919.1_1	#7f7f7f	Starr et al. 2019
+MN034921.1_3	#7f7f7f	Starr et al. 2019
+MN034924.1_1	#7f7f7f	Starr et al. 2019
+MN034925.1_4	#7f7f7f	Starr et al. 2019
+MN034929.1_1	#7f7f7f	Starr et al. 2019
+MN034932.1_1	#7f7f7f	Starr et al. 2019
+MN034933.1_4	#7f7f7f	Starr et al. 2019
+MN034935.1_1	#7f7f7f	Starr et al. 2019
+MN034936.1_1	#7f7f7f	Starr et al. 2019
+MN034938.1_3	#7f7f7f	Starr et al. 2019
+MN034940.1_1	#7f7f7f	Starr et al. 2019
+MN034944.1_1	#7f7f7f	Starr et al. 2019
+MN034947.1_1	#7f7f7f	Starr et al. 2019
+MN034948.1_1	#7f7f7f	Starr et al. 2019
+MN034950.1_1	#7f7f7f	Starr et al. 2019
+MN034951.1_1	#7f7f7f	Starr et al. 2019
+MN034955.1_1	#7f7f7f	Starr et al. 2019
+MN034959.1_1	#7f7f7f	Starr et al. 2019
+MN034962.1_1	#7f7f7f	Starr et al. 2019
+MN034964.1_1	#7f7f7f	Starr et al. 2019
+MN034967.1_1	#7f7f7f	Starr et al. 2019
+MN034969.1_3	#7f7f7f	Starr et al. 2019
+MN034973.1_1	#7f7f7f	Starr et al. 2019
+MN034976.1_2	#7f7f7f	Starr et al. 2019
+MN034977.1_1	#7f7f7f	Starr et al. 2019
+MN034978.1_1	#7f7f7f	Starr et al. 2019
+MN034979.1_2	#7f7f7f	Starr et al. 2019
+MN034980.1_1	#7f7f7f	Starr et al. 2019
+MN034981.1_1	#7f7f7f	Starr et al. 2019
+MN034984.1_1	#7f7f7f	Starr et al. 2019
+MN034994.1_1	#7f7f7f	Starr et al. 2019
+MN035002.1_1	#7f7f7f	Starr et al. 2019
+MN035004.1_1	#7f7f7f	Starr et al. 2019
+MN035013.1_1	#7f7f7f	Starr et al. 2019
+MN035014.1_1	#7f7f7f	Starr et al. 2019
+MN035015.1_1	#7f7f7f	Starr et al. 2019
+MN035020.1_1	#7f7f7f	Starr et al. 2019
+MN035024.1_1	#7f7f7f	Starr et al. 2019
+MN035026.1_1	#7f7f7f	Starr et al. 2019
+MN035027.1_1	#7f7f7f	Starr et al. 2019
+MN035028.1_1	#7f7f7f	Starr et al. 2019
+MN035029.1_1	#7f7f7f	Starr et al. 2019
+MN035036.1_2	#7f7f7f	Starr et al. 2019
+MN035037.1_1	#7f7f7f	Starr et al. 2019
+MN035043.1_1	#7f7f7f	Starr et al. 2019
+MN035048.1_1	#7f7f7f	Starr et al. 2019
+MN035049.1_2	#7f7f7f	Starr et al. 2019
+MN035051.1_1	#7f7f7f	Starr et al. 2019
+MN035054.1_1	#7f7f7f	Starr et al. 2019
+MN035059.1_1	#7f7f7f	Starr et al. 2019
+MN035071.1_1	#7f7f7f	Starr et al. 2019
+MN035076.1_1	#7f7f7f	Starr et al. 2019
+MN035078.1_1	#7f7f7f	Starr et al. 2019
+MN035083.1_3	#7f7f7f	Starr et al. 2019
+MN035091.1_1	#7f7f7f	Starr et al. 2019
+MN035093.1_1	#7f7f7f	Starr et al. 2019
+MN035097.1_1	#7f7f7f	Starr et al. 2019
+MN035103.1_3	#7f7f7f	Starr et al. 2019
+MN035104.1_1	#7f7f7f	Starr et al. 2019
+MN035107.1_1	#7f7f7f	Starr et al. 2019
+MN035112.1_1	#7f7f7f	Starr et al. 2019
+MN035113.1_1	#7f7f7f	Starr et al. 2019
+MN035114.1_1	#7f7f7f	Starr et al. 2019
+MN035116.1_2	#7f7f7f	Starr et al. 2019
+MN035117.1_1	#7f7f7f	Starr et al. 2019
+MN035118.1_1	#7f7f7f	Starr et al. 2019
+MN035122.1_1	#7f7f7f	Starr et al. 2019
+MN035124.1_1	#7f7f7f	Starr et al. 2019
+MN035126.1_1	#7f7f7f	Starr et al. 2019
+MN035127.1_1	#7f7f7f	Starr et al. 2019
+MN035128.1_1	#7f7f7f	Starr et al. 2019
+MN035133.1_1	#7f7f7f	Starr et al. 2019
+MN035138.1_1	#7f7f7f	Starr et al. 2019
+MN035143.1_3	#7f7f7f	Starr et al. 2019
+MN035145.1_1	#7f7f7f	Starr et al. 2019
+MN035149.1_3	#7f7f7f	Starr et al. 2019
+MN035150.1_1	#7f7f7f	Starr et al. 2019
+MN035151.1_2	#7f7f7f	Starr et al. 2019
+MN035152.1_1	#7f7f7f	Starr et al. 2019
+MN035153.1_3	#7f7f7f	Starr et al. 2019
+MN035154.1_1	#7f7f7f	Starr et al. 2019
+MN035156.1_1	#7f7f7f	Starr et al. 2019
+MN035158.1_1	#7f7f7f	Starr et al. 2019
+MN035159.1_2	#7f7f7f	Starr et al. 2019
+MN035168.1_1	#7f7f7f	Starr et al. 2019
+MN035170.1_1	#7f7f7f	Starr et al. 2019
+MN035179.1_1	#7f7f7f	Starr et al. 2019
+MN035181.1_1	#7f7f7f	Starr et al. 2019
+MN035184.1_1	#7f7f7f	Starr et al. 2019
+MN035191.1_1	#7f7f7f	Starr et al. 2019
+MN035196.1_1	#7f7f7f	Starr et al. 2019
+MN035197.1_1	#7f7f7f	Starr et al. 2019
+MN035198.1_1	#7f7f7f	Starr et al. 2019
+MN035200.1_1	#7f7f7f	Starr et al. 2019
+MN035202.1_1	#7f7f7f	Starr et al. 2019
+MN035202.1_2	#7f7f7f	Starr et al. 2019
+MN035204.1_1	#7f7f7f	Starr et al. 2019
+MN035206.1_1	#7f7f7f	Starr et al. 2019
+MN035207.1_1	#7f7f7f	Starr et al. 2019
+MN035209.1_4	#7f7f7f	Starr et al. 2019
+MN035211.1_1	#7f7f7f	Starr et al. 2019
+MN035220.1_1	#7f7f7f	Starr et al. 2019
+MN035229.1_1	#7f7f7f	Starr et al. 2019
+MN035236.1_3	#7f7f7f	Starr et al. 2019
+MN035238.1_1	#7f7f7f	Starr et al. 2019
+MN035239.1_1	#7f7f7f	Starr et al. 2019
+MN035240.1_1	#7f7f7f	Starr et al. 2019
+MN035242.1_1	#7f7f7f	Starr et al. 2019
+MN035243.1_4	#7f7f7f	Starr et al. 2019
+MN035245.1_1	#7f7f7f	Starr et al. 2019
+MN035246.1_1	#7f7f7f	Starr et al. 2019
+MN035249.1_1	#7f7f7f	Starr et al. 2019
+MN035250.1_1	#7f7f7f	Starr et al. 2019
+MN035254.1_1	#7f7f7f	Starr et al. 2019
+MN035256.1_1	#7f7f7f	Starr et al. 2019
+MN035257.1_1	#7f7f7f	Starr et al. 2019
+MN035258.1_1	#7f7f7f	Starr et al. 2019
+MN035268.1_3	#7f7f7f	Starr et al. 2019
+MN035272.1_1	#7f7f7f	Starr et al. 2019
+MN035273.1_1	#7f7f7f	Starr et al. 2019
+MN035275.1_1	#7f7f7f	Starr et al. 2019
+MN035277.1_1	#7f7f7f	Starr et al. 2019
+MN035279.1_1	#7f7f7f	Starr et al. 2019
+MN035280.1_2	#7f7f7f	Starr et al. 2019
+MN035288.1_3	#7f7f7f	Starr et al. 2019
+MN035292.1_1	#7f7f7f	Starr et al. 2019
+MN035296.1_3	#7f7f7f	Starr et al. 2019
+MN035301.1_1	#7f7f7f	Starr et al. 2019
+MN035302.1_1	#7f7f7f	Starr et al. 2019
+MN035313.1_1	#7f7f7f	Starr et al. 2019
+MN035315.1_1	#7f7f7f	Starr et al. 2019
+MN035316.1_1	#7f7f7f	Starr et al. 2019
+MN035324.1_3	#7f7f7f	Starr et al. 2019
+MN035327.1_1	#7f7f7f	Starr et al. 2019
+MN035329.1_3	#7f7f7f	Starr et al. 2019
+MN035330.1_1	#7f7f7f	Starr et al. 2019
+MN035331.1_1	#7f7f7f	Starr et al. 2019
+MN035332.1_1	#7f7f7f	Starr et al. 2019
+MN035335.1_4	#7f7f7f	Starr et al. 2019
+MN035336.1_4	#7f7f7f	Starr et al. 2019
+MN035337.1_1	#7f7f7f	Starr et al. 2019
+MN035339.1_1	#7f7f7f	Starr et al. 2019
+MN035340.1_1	#7f7f7f	Starr et al. 2019
+MN035344.1_1	#7f7f7f	Starr et al. 2019
+MN035346.1_1	#7f7f7f	Starr et al. 2019
+MN035350.1_1	#7f7f7f	Starr et al. 2019
+MN035353.1_1	#7f7f7f	Starr et al. 2019
+MN035353.1_2	#7f7f7f	Starr et al. 2019
+MN035357.1_3	#7f7f7f	Starr et al. 2019
+MN035358.1_1	#7f7f7f	Starr et al. 2019
+MN035361.1_2	#7f7f7f	Starr et al. 2019
+MN035362.1_1	#7f7f7f	Starr et al. 2019
+MN035364.1_1	#7f7f7f	Starr et al. 2019
+MN035366.1_1	#7f7f7f	Starr et al. 2019
+MN035370.1_1	#7f7f7f	Starr et al. 2019
+MN035379.1_1	#7f7f7f	Starr et al. 2019
+MN035387.1_1	#7f7f7f	Starr et al. 2019
+MN035393.1_1	#7f7f7f	Starr et al. 2019
+MN035396.1_1	#7f7f7f	Starr et al. 2019
+MN035400.1_1	#7f7f7f	Starr et al. 2019
+MN035401.1_1	#7f7f7f	Starr et al. 2019
+MN035403.1_1	#7f7f7f	Starr et al. 2019
+MN035404.1_1	#7f7f7f	Starr et al. 2019
+MN035405.1_1	#7f7f7f	Starr et al. 2019
+MN035406.1_4	#7f7f7f	Starr et al. 2019
+MN035408.1_3	#7f7f7f	Starr et al. 2019
+MN035409.1_1	#7f7f7f	Starr et al. 2019
+MN035414.1_1	#7f7f7f	Starr et al. 2019
+MN035418.1_1	#7f7f7f	Starr et al. 2019
+MN035419.1_3	#7f7f7f	Starr et al. 2019
+MN035423.1_3	#7f7f7f	Starr et al. 2019
+MN035425.1_1	#7f7f7f	Starr et al. 2019
+MN035431.1_3	#7f7f7f	Starr et al. 2019
+MN035432.1_1	#7f7f7f	Starr et al. 2019
+MN035433.1_3	#7f7f7f	Starr et al. 2019
+MN035436.1_2	#7f7f7f	Starr et al. 2019
+MN035438.1_2	#7f7f7f	Starr et al. 2019
+MN035442.1_1	#7f7f7f	Starr et al. 2019
+MN035444.1_1	#7f7f7f	Starr et al. 2019
+MN035445.1_4	#7f7f7f	Starr et al. 2019
+MN035447.1_1	#7f7f7f	Starr et al. 2019
+MN035452.1_1	#7f7f7f	Starr et al. 2019
+MN035463.1_2	#7f7f7f	Starr et al. 2019
+MN035466.1_1	#7f7f7f	Starr et al. 2019
+MN035471.1_1	#7f7f7f	Starr et al. 2019
+MN035473.1_1	#7f7f7f	Starr et al. 2019
+MN035480.1_3	#7f7f7f	Starr et al. 2019
+MN035487.1_4	#7f7f7f	Starr et al. 2019
+MN035489.1_4	#7f7f7f	Starr et al. 2019
+MN035501.1_1	#7f7f7f	Starr et al. 2019
+MN035502.1_1	#7f7f7f	Starr et al. 2019
+MN035504.1_1	#7f7f7f	Starr et al. 2019
+MN035505.1_1	#7f7f7f	Starr et al. 2019
+MN035507.1_1	#7f7f7f	Starr et al. 2019
+MN035515.1_4	#7f7f7f	Starr et al. 2019
+MN035518.1_5	#7f7f7f	Starr et al. 2019
+MN035520.1_3	#7f7f7f	Starr et al. 2019
+MN035531.1_2	#7f7f7f	Starr et al. 2019
+MN035533.1_1	#7f7f7f	Starr et al. 2019
+MN035536.1_4	#7f7f7f	Starr et al. 2019
+MN035537.1_3	#7f7f7f	Starr et al. 2019
+MN035539.1_3	#7f7f7f	Starr et al. 2019
+MN035541.1_5	#7f7f7f	Starr et al. 2019
+MN035547.1_1	#7f7f7f	Starr et al. 2019
+MN035550.1_1	#7f7f7f	Starr et al. 2019
+MN035551.1_3	#7f7f7f	Starr et al. 2019
+MN035556.1_1	#7f7f7f	Starr et al. 2019
+MN035559.1_1	#7f7f7f	Starr et al. 2019
+MN035561.1_1	#7f7f7f	Starr et al. 2019
+MN035563.1_1	#7f7f7f	Starr et al. 2019
+MN035565.1_3	#7f7f7f	Starr et al. 2019
+MN035572.1_1	#7f7f7f	Starr et al. 2019
+MN035581.1_1	#7f7f7f	Starr et al. 2019
+MN035582.1_1	#7f7f7f	Starr et al. 2019
+MN035585.1_1	#7f7f7f	Starr et al. 2019
+MN035588.1_1	#7f7f7f	Starr et al. 2019
+MN035589.1_1	#7f7f7f	Starr et al. 2019
+MN035592.1_1	#7f7f7f	Starr et al. 2019
+MN035594.1_1	#7f7f7f	Starr et al. 2019
+MN035597.1_1	#7f7f7f	Starr et al. 2019
+MN035598.1_1	#7f7f7f	Starr et al. 2019
+MN035599.1_1	#7f7f7f	Starr et al. 2019
+MN035601.1_1	#7f7f7f	Starr et al. 2019
+MN035602.1_1	#7f7f7f	Starr et al. 2019
+MN035603.1_1	#7f7f7f	Starr et al. 2019
+MN035604.1_1	#7f7f7f	Starr et al. 2019
+MN035605.1_3	#7f7f7f	Starr et al. 2019
+MN035606.1_1	#7f7f7f	Starr et al. 2019
+MN035607.1_1	#7f7f7f	Starr et al. 2019
+MN035618.1_2	#7f7f7f	Starr et al. 2019
+MN035619.1_1	#7f7f7f	Starr et al. 2019
+MN035624.1_1	#7f7f7f	Starr et al. 2019
+MN035628.1_3	#7f7f7f	Starr et al. 2019
+MN035629.1_1	#7f7f7f	Starr et al. 2019
+MN035630.1_1	#7f7f7f	Starr et al. 2019
+MN035640.1_4	#7f7f7f	Starr et al. 2019
+MN035641.1_1	#7f7f7f	Starr et al. 2019
+MN035642.1_1	#7f7f7f	Starr et al. 2019
+MN035645.1_1	#7f7f7f	Starr et al. 2019
+MN035649.1_1	#7f7f7f	Starr et al. 2019
+MN035653.1_1	#7f7f7f	Starr et al. 2019
+MN035656.1_1	#7f7f7f	Starr et al. 2019
+MN035658.1_1	#7f7f7f	Starr et al. 2019
+MN035669.1_1	#7f7f7f	Starr et al. 2019
+MN035674.1_1	#7f7f7f	Starr et al. 2019
+MN035675.1_3	#7f7f7f	Starr et al. 2019
+MN035680.1_4	#7f7f7f	Starr et al. 2019
+MN035683.1_1	#7f7f7f	Starr et al. 2019
+MN035684.1_1	#7f7f7f	Starr et al. 2019
+MN035689.1_1	#7f7f7f	Starr et al. 2019
+MN035691.1_1	#7f7f7f	Starr et al. 2019
+MN035693.1_4	#7f7f7f	Starr et al. 2019
+MN035694.1_5	#7f7f7f	Starr et al. 2019
+MN035695.1_1	#7f7f7f	Starr et al. 2019
+MN035700.1_1	#7f7f7f	Starr et al. 2019
+MN035706.1_1	#7f7f7f	Starr et al. 2019
+MN035708.1_1	#7f7f7f	Starr et al. 2019
+MN035711.1_2	#7f7f7f	Starr et al. 2019
+MN035712.1_1	#7f7f7f	Starr et al. 2019
+MN035714.1_1	#7f7f7f	Starr et al. 2019
+MN035718.1_1	#7f7f7f	Starr et al. 2019
+MN035721.1_1	#7f7f7f	Starr et al. 2019
+MN035722.1_5	#7f7f7f	Starr et al. 2019
+MN035727.1_1	#7f7f7f	Starr et al. 2019
+MN035730.1_3	#7f7f7f	Starr et al. 2019
+MN035731.1_1	#7f7f7f	Starr et al. 2019
+MN035732.1_4	#7f7f7f	Starr et al. 2019
+MN035736.1_1	#7f7f7f	Starr et al. 2019
+MN035738.1_1	#7f7f7f	Starr et al. 2019
+MN035739.1_4	#7f7f7f	Starr et al. 2019
+MN035740.1_1	#7f7f7f	Starr et al. 2019
+MN035741.1_1	#7f7f7f	Starr et al. 2019
+MN035743.1_2	#7f7f7f	Starr et al. 2019
+MN035744.1_1	#7f7f7f	Starr et al. 2019
+MN035747.1_3	#7f7f7f	Starr et al. 2019
+MN035750.1_1	#7f7f7f	Starr et al. 2019
+MN035766.1_1	#7f7f7f	Starr et al. 2019
+MN035767.1_1	#7f7f7f	Starr et al. 2019
+MN035769.1_1	#7f7f7f	Starr et al. 2019
+MN035771.1_1	#7f7f7f	Starr et al. 2019
+MN035773.1_2	#7f7f7f	Starr et al. 2019
+MN035774.1_1	#7f7f7f	Starr et al. 2019
+MN035777.1_2	#7f7f7f	Starr et al. 2019
+MN035786.1_1	#7f7f7f	Starr et al. 2019
+MN035789.1_4	#7f7f7f	Starr et al. 2019
+MN035791.1_1	#7f7f7f	Starr et al. 2019
+MN035792.1_1	#7f7f7f	Starr et al. 2019
+MN035802.1_2	#7f7f7f	Starr et al. 2019
+MN035803.1_2	#7f7f7f	Starr et al. 2019
+MN035811.1_1	#7f7f7f	Starr et al. 2019
+MN035813.1_1	#7f7f7f	Starr et al. 2019
+MN035818.1_1	#7f7f7f	Starr et al. 2019
+MN035824.1_1	#7f7f7f	Starr et al. 2019
+MN035825.1_1	#7f7f7f	Starr et al. 2019
+MN035826.1_5	#7f7f7f	Starr et al. 2019
+MN035828.1_1	#7f7f7f	Starr et al. 2019
+MN035830.1_1	#7f7f7f	Starr et al. 2019
+MN035832.1_1	#7f7f7f	Starr et al. 2019
+MN035834.1_1	#7f7f7f	Starr et al. 2019
+MN035840.1_4	#7f7f7f	Starr et al. 2019
+MN035845.1_1	#7f7f7f	Starr et al. 2019
+MN035846.1_1	#7f7f7f	Starr et al. 2019
+MN035847.1_3	#7f7f7f	Starr et al. 2019
+MN035848.1_3	#7f7f7f	Starr et al. 2019
+MN035857.1_3	#7f7f7f	Starr et al. 2019
+MN035865.1_1	#7f7f7f	Starr et al. 2019
+MN035873.1_1	#7f7f7f	Starr et al. 2019
+MN035874.1_1	#7f7f7f	Starr et al. 2019
+MN035876.1_1	#7f7f7f	Starr et al. 2019
+MN035877.1_1	#7f7f7f	Starr et al. 2019
+MN035878.1_1	#7f7f7f	Starr et al. 2019
+MN035881.1_3	#7f7f7f	Starr et al. 2019
+MN035882.1_1	#7f7f7f	Starr et al. 2019
+MN035885.1_3	#7f7f7f	Starr et al. 2019
+MN035886.1_1	#7f7f7f	Starr et al. 2019
+MN035890.1_1	#7f7f7f	Starr et al. 2019
+MN035901.1_3	#7f7f7f	Starr et al. 2019
+MN035905.1_2	#7f7f7f	Starr et al. 2019
+MN035910.1_1	#7f7f7f	Starr et al. 2019
+MN035911.1_2	#7f7f7f	Starr et al. 2019
+MN035914.1_1	#7f7f7f	Starr et al. 2019
+MN035920.1_1	#7f7f7f	Starr et al. 2019
+MN035921.1_3	#7f7f7f	Starr et al. 2019
+MN035922.1_1	#7f7f7f	Starr et al. 2019
+MN035925.1_1	#7f7f7f	Starr et al. 2019
+MN035932.1_1	#7f7f7f	Starr et al. 2019
+MN035937.1_3	#7f7f7f	Starr et al. 2019
+MN035939.1_2	#7f7f7f	Starr et al. 2019
+MN035942.1_1	#7f7f7f	Starr et al. 2019
+MN035944.1_1	#7f7f7f	Starr et al. 2019
+MN035945.1_4	#7f7f7f	Starr et al. 2019
+MN035946.1_4	#7f7f7f	Starr et al. 2019
+MN035948.1_1	#7f7f7f	Starr et al. 2019
+MN035949.1_4	#7f7f7f	Starr et al. 2019
+MN035950.1_1	#7f7f7f	Starr et al. 2019
+MN035952.1_1	#7f7f7f	Starr et al. 2019
+MN035954.1_2	#7f7f7f	Starr et al. 2019
+MN035956.1_3	#7f7f7f	Starr et al. 2019
+MN035957.1_1	#7f7f7f	Starr et al. 2019
+MN035959.1_3	#7f7f7f	Starr et al. 2019
+MN035966.1_1	#7f7f7f	Starr et al. 2019
+MN035972.1_3	#7f7f7f	Starr et al. 2019
+MN035979.1_1	#7f7f7f	Starr et al. 2019
+MN035981.1_1	#7f7f7f	Starr et al. 2019
+MN035984.1_1	#7f7f7f	Starr et al. 2019
+MN035986.1_1	#7f7f7f	Starr et al. 2019
+MN035989.1_1	#7f7f7f	Starr et al. 2019
+MN035994.1_1	#7f7f7f	Starr et al. 2019
+MN035995.1_1	#7f7f7f	Starr et al. 2019
+MN036007.1_1	#7f7f7f	Starr et al. 2019
+MN036008.1_1	#7f7f7f	Starr et al. 2019
+MN036010.1_1	#7f7f7f	Starr et al. 2019
+MN036012.1_1	#7f7f7f	Starr et al. 2019
+MN036013.1_1	#7f7f7f	Starr et al. 2019
+MN036015.1_1	#7f7f7f	Starr et al. 2019
+MN036016.1_1	#7f7f7f	Starr et al. 2019
+MN036028.1_2	#7f7f7f	Starr et al. 2019
+MN036029.1_2	#7f7f7f	Starr et al. 2019
+MN036030.1_2	#7f7f7f	Starr et al. 2019
+MN036035.1_1	#7f7f7f	Starr et al. 2019
+MN036037.1_4	#7f7f7f	Starr et al. 2019
+MN036039.1_1	#7f7f7f	Starr et al. 2019
+MN036042.1_1	#7f7f7f	Starr et al. 2019
+MN036043.1_2	#7f7f7f	Starr et al. 2019
+MN036044.1_1	#7f7f7f	Starr et al. 2019
+MN036046.1_1	#7f7f7f	Starr et al. 2019
+MN036051.1_3	#7f7f7f	Starr et al. 2019
+MN036053.1_1	#7f7f7f	Starr et al. 2019
+MN036062.1_1	#7f7f7f	Starr et al. 2019
+MN036066.1_2	#7f7f7f	Starr et al. 2019
+MN036070.1_4	#7f7f7f	Starr et al. 2019
+MN036072.1_1	#7f7f7f	Starr et al. 2019
+MN036073.1_1	#7f7f7f	Starr et al. 2019
+MN036075.1_4	#7f7f7f	Starr et al. 2019
+MN036081.1_1	#7f7f7f	Starr et al. 2019
+MN036084.1_1	#7f7f7f	Starr et al. 2019
+MN036088.1_1	#7f7f7f	Starr et al. 2019
+MN036090.1_3	#7f7f7f	Starr et al. 2019
+MN036093.1_1	#7f7f7f	Starr et al. 2019
+MN036094.1_1	#7f7f7f	Starr et al. 2019
+MN036096.1_3	#7f7f7f	Starr et al. 2019
+MN036097.1_4	#7f7f7f	Starr et al. 2019
+MN036098.1_1	#7f7f7f	Starr et al. 2019
+MN036099.1_1	#7f7f7f	Starr et al. 2019
+MN036109.1_1	#7f7f7f	Starr et al. 2019
+MN036113.1_3	#7f7f7f	Starr et al. 2019
+MN036120.1_5	#7f7f7f	Starr et al. 2019
+MN036121.1_1	#7f7f7f	Starr et al. 2019
+MN036123.1_1	#7f7f7f	Starr et al. 2019
+MN036125.1_3	#7f7f7f	Starr et al. 2019
+MN036126.1_1	#7f7f7f	Starr et al. 2019
+MN036128.1_1	#7f7f7f	Starr et al. 2019
+MN036130.1_4	#7f7f7f	Starr et al. 2019
+MN036132.1_1	#7f7f7f	Starr et al. 2019
+MN036133.1_1	#7f7f7f	Starr et al. 2019
+MN036135.1_1	#7f7f7f	Starr et al. 2019
+MN036140.1_1	#7f7f7f	Starr et al. 2019
+MN036144.1_3	#7f7f7f	Starr et al. 2019
+MN036150.1_1	#7f7f7f	Starr et al. 2019
+MN036151.1_1	#7f7f7f	Starr et al. 2019
+MN036152.1_1	#7f7f7f	Starr et al. 2019
+MN036153.1_3	#7f7f7f	Starr et al. 2019
+MN036156.1_2	#7f7f7f	Starr et al. 2019
+MN036160.1_1	#7f7f7f	Starr et al. 2019
+MN036162.1_4	#7f7f7f	Starr et al. 2019
+MN036164.1_1	#7f7f7f	Starr et al. 2019
+MN036166.1_1	#7f7f7f	Starr et al. 2019
+MN036167.1_3	#7f7f7f	Starr et al. 2019
+MN036170.1_1	#7f7f7f	Starr et al. 2019
+MN036171.1_1	#7f7f7f	Starr et al. 2019
+MN036173.1_2	#7f7f7f	Starr et al. 2019
+MN036182.1_1	#7f7f7f	Starr et al. 2019
+MN036183.1_1	#7f7f7f	Starr et al. 2019
+MN036184.1_4	#7f7f7f	Starr et al. 2019
+MN036185.1_1	#7f7f7f	Starr et al. 2019
+MN036187.1_1	#7f7f7f	Starr et al. 2019
+MN036188.1_1	#7f7f7f	Starr et al. 2019
+MN036188.1_2	#7f7f7f	Starr et al. 2019
+MN036189.1_1	#7f7f7f	Starr et al. 2019
+MN036190.1_1	#7f7f7f	Starr et al. 2019
+MN036191.1_1	#7f7f7f	Starr et al. 2019
+MN036194.1_1	#7f7f7f	Starr et al. 2019
+MN036200.1_1	#7f7f7f	Starr et al. 2019
+MN036205.1_1	#7f7f7f	Starr et al. 2019
+MN036206.1_2	#7f7f7f	Starr et al. 2019
+MN036207.1_1	#7f7f7f	Starr et al. 2019
+MN036210.1_3	#7f7f7f	Starr et al. 2019
+MN036211.1_2	#7f7f7f	Starr et al. 2019
+MN036213.1_1	#7f7f7f	Starr et al. 2019
+MN036216.1_3	#7f7f7f	Starr et al. 2019
+MN036217.1_2	#7f7f7f	Starr et al. 2019
+MN036219.1_1	#7f7f7f	Starr et al. 2019
+MN036221.1_2	#7f7f7f	Starr et al. 2019
+MN036225.1_1	#7f7f7f	Starr et al. 2019
+MN036226.1_1	#7f7f7f	Starr et al. 2019
+MN036228.1_1	#7f7f7f	Starr et al. 2019
+MN036230.1_1	#7f7f7f	Starr et al. 2019
+MN036233.1_4	#7f7f7f	Starr et al. 2019
+MN036236.1_1	#7f7f7f	Starr et al. 2019
+MN036237.1_1	#7f7f7f	Starr et al. 2019
+MN036240.1_1	#7f7f7f	Starr et al. 2019
+MN036244.1_1	#7f7f7f	Starr et al. 2019
+MN036248.1_4	#7f7f7f	Starr et al. 2019
+MN036251.1_1	#7f7f7f	Starr et al. 2019
+MN036257.1_1	#7f7f7f	Starr et al. 2019
+MN036258.1_1	#7f7f7f	Starr et al. 2019
+MN036259.1_4	#7f7f7f	Starr et al. 2019
+MN036261.1_1	#7f7f7f	Starr et al. 2019
+MN036262.1_1	#7f7f7f	Starr et al. 2019
+MN036265.1_1	#7f7f7f	Starr et al. 2019
+MN036269.1_1	#7f7f7f	Starr et al. 2019
+MN036270.1_3	#7f7f7f	Starr et al. 2019
+MN036277.1_4	#7f7f7f	Starr et al. 2019
+MN036280.1_4	#7f7f7f	Starr et al. 2019
+MN036281.1_1	#7f7f7f	Starr et al. 2019
+MN036288.1_1	#7f7f7f	Starr et al. 2019
+MN036289.1_2	#7f7f7f	Starr et al. 2019
+MN036290.1_1	#7f7f7f	Starr et al. 2019
+MN036291.1_1	#7f7f7f	Starr et al. 2019
+MN036292.1_3	#7f7f7f	Starr et al. 2019
+MN036294.1_2	#7f7f7f	Starr et al. 2019
+MN036299.1_1	#7f7f7f	Starr et al. 2019
+MN036301.1_1	#7f7f7f	Starr et al. 2019
+MN036303.1_1	#7f7f7f	Starr et al. 2019
+MN036308.1_1	#7f7f7f	Starr et al. 2019
+MN036313.1_2	#7f7f7f	Starr et al. 2019
+MN036314.1_1	#7f7f7f	Starr et al. 2019
+MN036318.1_2	#7f7f7f	Starr et al. 2019
+MN036320.1_5	#7f7f7f	Starr et al. 2019
+MN036321.1_3	#7f7f7f	Starr et al. 2019
+MN036324.1_1	#7f7f7f	Starr et al. 2019
+MN036326.1_1	#7f7f7f	Starr et al. 2019
+MN036328.1_1	#7f7f7f	Starr et al. 2019
+MN036331.1_1	#7f7f7f	Starr et al. 2019
+MN036332.1_1	#7f7f7f	Starr et al. 2019
+MN036333.1_1	#7f7f7f	Starr et al. 2019
+pdb|4R71|B	#000000	Wolf et al. 2018
+sp|P15965.2|RDRP_BPFR	#000000	Wolf et al. 2018
+APG76998.1	#000000	Wolf et al. 2018
+APG77107.1	#000000	Wolf et al. 2018
+APG77120.1	#000000	Wolf et al. 2018
+APG77166.1	#000000	Wolf et al. 2018
+APG77168.1	#000000	Wolf et al. 2018
+APG77263.1	#000000	Wolf et al. 2018
+k127_1061625_1	#ffffff	This study
+k127_1087863_1	#ffffff	This study
+k127_1299795_1	#ffffff	This study
+k127_1424510_1	#ffffff	This study
+k127_1498551_1	#ffffff	This study
+k127_1879958_1	#ffffff	This study
+k127_2069591_1	#ffffff	This study
+k127_2102555_1	#ffffff	This study
+k127_2130968_1	#ffffff	This study
+k127_2319679_2	#ffffff	This study
+k127_2333593_1	#ffffff	This study
+k127_2500792_1	#ffffff	This study
+k127_2720845_1	#ffffff	This study
+k127_2869288_1	#ffffff	This study
+k127_301144_1	#ffffff	This study
+k127_3129002_1	#ffffff	This study
+k127_3340079_1	#ffffff	This study
+k127_464855_1	#ffffff	This study
+k127_550563_1	#ffffff	This study
+k127_719341_1	#ffffff	This study
+k127_95512_1	#ffffff	This study
+MN032676.1_1	#7f7f7f	Starr et al. 2019
+MN032682.1_1	#7f7f7f	Starr et al. 2019
+MN032693.1_1	#7f7f7f	Starr et al. 2019
+MN032697.1_1	#7f7f7f	Starr et al. 2019
+MN032697.1_2	#7f7f7f	Starr et al. 2019
+MN032699.1_2	#7f7f7f	Starr et al. 2019
+MN032700.1_5	#7f7f7f	Starr et al. 2019
+MN032702.1_1	#7f7f7f	Starr et al. 2019
+MN032703.1_1	#7f7f7f	Starr et al. 2019
+MN032705.1_2	#7f7f7f	Starr et al. 2019
+MN032707.1_1	#7f7f7f	Starr et al. 2019
+MN032709.1_1	#7f7f7f	Starr et al. 2019
+MN032714.1_1	#7f7f7f	Starr et al. 2019
+MN032715.1_1	#7f7f7f	Starr et al. 2019
+MN032716.1_1	#7f7f7f	Starr et al. 2019
+MN032720.1_1	#7f7f7f	Starr et al. 2019
+MN032726.1_2	#7f7f7f	Starr et al. 2019
+MN032732.1_1	#7f7f7f	Starr et al. 2019
+MN032733.1_2	#7f7f7f	Starr et al. 2019
+MN032734.1_1	#7f7f7f	Starr et al. 2019
+MN032736.1_2	#7f7f7f	Starr et al. 2019
+MN032738.1_1	#7f7f7f	Starr et al. 2019
+MN032741.1_1	#7f7f7f	Starr et al. 2019
+MN032742.1_1	#7f7f7f	Starr et al. 2019
+MN032744.1_1	#7f7f7f	Starr et al. 2019
+MN032745.1_1	#7f7f7f	Starr et al. 2019
+MN032745.1_2	#7f7f7f	Starr et al. 2019
+MN032749.1_1	#7f7f7f	Starr et al. 2019
+MN032750.1_1	#7f7f7f	Starr et al. 2019
+MN032760.1_1	#7f7f7f	Starr et al. 2019
+MN032763.1_2	#7f7f7f	Starr et al. 2019
+MN032768.1_1	#7f7f7f	Starr et al. 2019
+MN032769.1_1	#7f7f7f	Starr et al. 2019
+MN032781.1_1	#7f7f7f	Starr et al. 2019
+MN032783.1_1	#7f7f7f	Starr et al. 2019
+MN032787.1_3	#7f7f7f	Starr et al. 2019
+MN032788.1_1	#7f7f7f	Starr et al. 2019
+MN032789.1_1	#7f7f7f	Starr et al. 2019
+MN032794.1_3	#7f7f7f	Starr et al. 2019
+MN032798.1_1	#7f7f7f	Starr et al. 2019
+MN032800.1_2	#7f7f7f	Starr et al. 2019
+MN032802.1_1	#7f7f7f	Starr et al. 2019
+MN032806.1_1	#7f7f7f	Starr et al. 2019
+MN032812.1_1	#7f7f7f	Starr et al. 2019
+MN032813.1_1	#7f7f7f	Starr et al. 2019
+MN032818.1_1	#7f7f7f	Starr et al. 2019
+MN032820.1_1	#7f7f7f	Starr et al. 2019
+MN032822.1_1	#7f7f7f	Starr et al. 2019
+MN032826.1_1	#7f7f7f	Starr et al. 2019
+MN032830.1_1	#7f7f7f	Starr et al. 2019
+MN032831.1_1	#7f7f7f	Starr et al. 2019
+MN032834.1_1	#7f7f7f	Starr et al. 2019
+MN032836.1_1	#7f7f7f	Starr et al. 2019
+MN032836.1_2	#7f7f7f	Starr et al. 2019
+MN032840.1_1	#7f7f7f	Starr et al. 2019
+MN032846.1_1	#7f7f7f	Starr et al. 2019
+MN032847.1_1	#7f7f7f	Starr et al. 2019
+MN032851.1_1	#7f7f7f	Starr et al. 2019
+MN032852.1_1	#7f7f7f	Starr et al. 2019
+MN032856.1_1	#7f7f7f	Starr et al. 2019
+MN032860.1_1	#7f7f7f	Starr et al. 2019
+MN032871.1_1	#7f7f7f	Starr et al. 2019
+MN032872.1_1	#7f7f7f	Starr et al. 2019
+MN032873.1_2	#7f7f7f	Starr et al. 2019
+MN032875.1_1	#7f7f7f	Starr et al. 2019
+MN032878.1_1	#7f7f7f	Starr et al. 2019
+MN032888.1_1	#7f7f7f	Starr et al. 2019
+MN032889.1_1	#7f7f7f	Starr et al. 2019
+MN032897.1_1	#7f7f7f	Starr et al. 2019
+MN032901.1_1	#7f7f7f	Starr et al. 2019
+MN032902.1_1	#7f7f7f	Starr et al. 2019
+MN032903.1_1	#7f7f7f	Starr et al. 2019
+MN032906.1_1	#7f7f7f	Starr et al. 2019
+MN032909.1_1	#7f7f7f	Starr et al. 2019
+MN032910.1_1	#7f7f7f	Starr et al. 2019
+MN032911.1_1	#7f7f7f	Starr et al. 2019
+MN032913.1_1	#7f7f7f	Starr et al. 2019
+MN032913.1_2	#7f7f7f	Starr et al. 2019
+MN032915.1_1	#7f7f7f	Starr et al. 2019
+MN032920.1_1	#7f7f7f	Starr et al. 2019
+MN032926.1_1	#7f7f7f	Starr et al. 2019
+MN032928.1_1	#7f7f7f	Starr et al. 2019
+MN032935.1_1	#7f7f7f	Starr et al. 2019
+MN032937.1_1	#7f7f7f	Starr et al. 2019
+MN032940.1_2	#7f7f7f	Starr et al. 2019
+MN032941.1_1	#7f7f7f	Starr et al. 2019
+MN032948.1_1	#7f7f7f	Starr et al. 2019
+MN032953.1_1	#7f7f7f	Starr et al. 2019
+MN032954.1_2	#7f7f7f	Starr et al. 2019
+MN032956.1_1	#7f7f7f	Starr et al. 2019
+MN032959.1_1	#7f7f7f	Starr et al. 2019
+MN032960.1_1	#7f7f7f	Starr et al. 2019
+MN032961.1_1	#7f7f7f	Starr et al. 2019
+MN032966.1_1	#7f7f7f	Starr et al. 2019
+MN032969.1_2	#7f7f7f	Starr et al. 2019
+MN032969.1_3	#7f7f7f	Starr et al. 2019
+MN032971.1_1	#7f7f7f	Starr et al. 2019
+MN032974.1_1	#7f7f7f	Starr et al. 2019
+MN032976.1_1	#7f7f7f	Starr et al. 2019
+MN032986.1_1	#7f7f7f	Starr et al. 2019
+MN032988.1_2	#7f7f7f	Starr et al. 2019
+MN032991.1_1	#7f7f7f	Starr et al. 2019
+MN032995.1_1	#7f7f7f	Starr et al. 2019
+MN033000.1_1	#7f7f7f	Starr et al. 2019
+MN033002.1_1	#7f7f7f	Starr et al. 2019
+MN033004.1_1	#7f7f7f	Starr et al. 2019
+MN033006.1_1	#7f7f7f	Starr et al. 2019
+MN033007.1_1	#7f7f7f	Starr et al. 2019
+MN033009.1_1	#7f7f7f	Starr et al. 2019
+MN033010.1_1	#7f7f7f	Starr et al. 2019
+MN033013.1_1	#7f7f7f	Starr et al. 2019
+MN033021.1_1	#7f7f7f	Starr et al. 2019
+MN033023.1_1	#7f7f7f	Starr et al. 2019
+MN033024.1_1	#7f7f7f	Starr et al. 2019
+MN033030.1_1	#7f7f7f	Starr et al. 2019
+MN033031.1_2	#7f7f7f	Starr et al. 2019
+MN033032.1_1	#7f7f7f	Starr et al. 2019
+MN033039.1_3	#7f7f7f	Starr et al. 2019
+MN033048.1_1	#7f7f7f	Starr et al. 2019
+MN033050.1_1	#7f7f7f	Starr et al. 2019
+MN033058.1_1	#7f7f7f	Starr et al. 2019
+MN033060.1_2	#7f7f7f	Starr et al. 2019
+MN033063.1_1	#7f7f7f	Starr et al. 2019
+MN033066.1_2	#7f7f7f	Starr et al. 2019
+MN033067.1_1	#7f7f7f	Starr et al. 2019
+MN033075.1_1	#7f7f7f	Starr et al. 2019
+MN033076.1_2	#7f7f7f	Starr et al. 2019
+MN033080.1_1	#7f7f7f	Starr et al. 2019
+MN033083.1_1	#7f7f7f	Starr et al. 2019
+MN033086.1_1	#7f7f7f	Starr et al. 2019
+MN033087.1_1	#7f7f7f	Starr et al. 2019
+MN033088.1_1	#7f7f7f	Starr et al. 2019
+MN033088.1_2	#7f7f7f	Starr et al. 2019
+MN033104.1_1	#7f7f7f	Starr et al. 2019
+MN033109.1_1	#7f7f7f	Starr et al. 2019
+MN033111.1_1	#7f7f7f	Starr et al. 2019
+MN033112.1_2	#7f7f7f	Starr et al. 2019
+MN033113.1_1	#7f7f7f	Starr et al. 2019
+MN033115.1_1	#7f7f7f	Starr et al. 2019
+MN033118.1_1	#7f7f7f	Starr et al. 2019
+MN033121.1_1	#7f7f7f	Starr et al. 2019
+MN033122.1_1	#7f7f7f	Starr et al. 2019
+MN033124.1_1	#7f7f7f	Starr et al. 2019
+MN033126.1_1	#7f7f7f	Starr et al. 2019
+MN033128.1_1	#7f7f7f	Starr et al. 2019
+MN033136.1_1	#7f7f7f	Starr et al. 2019
+MN033140.1_1	#7f7f7f	Starr et al. 2019
+MN033145.1_1	#7f7f7f	Starr et al. 2019
+MN033149.1_1	#7f7f7f	Starr et al. 2019
+MN033151.1_1	#7f7f7f	Starr et al. 2019
+MN033153.1_2	#7f7f7f	Starr et al. 2019
+MN033159.1_2	#7f7f7f	Starr et al. 2019
+MN033160.1_1	#7f7f7f	Starr et al. 2019
+MN033162.1_1	#7f7f7f	Starr et al. 2019
+MN033163.1_1	#7f7f7f	Starr et al. 2019
+MN033167.1_1	#7f7f7f	Starr et al. 2019
+MN033169.1_1	#7f7f7f	Starr et al. 2019
+MN033170.1_2	#7f7f7f	Starr et al. 2019
+MN033174.1_1	#7f7f7f	Starr et al. 2019
+MN033175.1_1	#7f7f7f	Starr et al. 2019
+MN033182.1_1	#7f7f7f	Starr et al. 2019
+MN033183.1_1	#7f7f7f	Starr et al. 2019
+MN033190.1_1	#7f7f7f	Starr et al. 2019
+MN033191.1_1	#7f7f7f	Starr et al. 2019
+MN033193.1_1	#7f7f7f	Starr et al. 2019
+MN033196.1_1	#7f7f7f	Starr et al. 2019
+MN033203.1_1	#7f7f7f	Starr et al. 2019
+MN033210.1_1	#7f7f7f	Starr et al. 2019
+MN033216.1_2	#7f7f7f	Starr et al. 2019
+MN033217.1_1	#7f7f7f	Starr et al. 2019
+MN033217.1_2	#7f7f7f	Starr et al. 2019
+MN033221.1_2	#7f7f7f	Starr et al. 2019
+MN033223.1_3	#7f7f7f	Starr et al. 2019
+MN033224.1_1	#7f7f7f	Starr et al. 2019
+MN033230.1_1	#7f7f7f	Starr et al. 2019
+MN033231.1_2	#7f7f7f	Starr et al. 2019
+MN033234.1_1	#7f7f7f	Starr et al. 2019
+MN033236.1_2	#7f7f7f	Starr et al. 2019
+MN033239.1_1	#7f7f7f	Starr et al. 2019
+MN033240.1_1	#7f7f7f	Starr et al. 2019
+MN033252.1_1	#7f7f7f	Starr et al. 2019
+MN033254.1_1	#7f7f7f	Starr et al. 2019
+MN033254.1_2	#7f7f7f	Starr et al. 2019
+MN033255.1_1	#7f7f7f	Starr et al. 2019
+MN033256.1_1	#7f7f7f	Starr et al. 2019
+MN033257.1_1	#7f7f7f	Starr et al. 2019
+MN033263.1_1	#7f7f7f	Starr et al. 2019
+MN033265.1_1	#7f7f7f	Starr et al. 2019
+MN033266.1_1	#7f7f7f	Starr et al. 2019
+MN033271.1_1	#7f7f7f	Starr et al. 2019
+MN033277.1_1	#7f7f7f	Starr et al. 2019
+MN033278.1_2	#7f7f7f	Starr et al. 2019
+MN033279.1_2	#7f7f7f	Starr et al. 2019
+MN033281.1_2	#7f7f7f	Starr et al. 2019
+MN033287.1_1	#7f7f7f	Starr et al. 2019
+MN033288.1_1	#7f7f7f	Starr et al. 2019
+MN033290.1_1	#7f7f7f	Starr et al. 2019
+MN033292.1_1	#7f7f7f	Starr et al. 2019
+MN033293.1_1	#7f7f7f	Starr et al. 2019
+MN033295.1_1	#7f7f7f	Starr et al. 2019
+MN033299.1_1	#7f7f7f	Starr et al. 2019
+MN033300.1_1	#7f7f7f	Starr et al. 2019
+MN033304.1_1	#7f7f7f	Starr et al. 2019
+MN033309.1_1	#7f7f7f	Starr et al. 2019
+MN033319.1_2	#7f7f7f	Starr et al. 2019
+MN033320.1_1	#7f7f7f	Starr et al. 2019
+MN033322.1_1	#7f7f7f	Starr et al. 2019
+MN033328.1_1	#7f7f7f	Starr et al. 2019
+MN033329.1_1	#7f7f7f	Starr et al. 2019
+MN033333.1_1	#7f7f7f	Starr et al. 2019
+MN033334.1_1	#7f7f7f	Starr et al. 2019
+MN033340.1_1	#7f7f7f	Starr et al. 2019
+MN033350.1_1	#7f7f7f	Starr et al. 2019
+MN033355.1_1	#7f7f7f	Starr et al. 2019
+MN033356.1_1	#7f7f7f	Starr et al. 2019
+MN033357.1_1	#7f7f7f	Starr et al. 2019
+MN033372.1_1	#7f7f7f	Starr et al. 2019
+MN033377.1_1	#7f7f7f	Starr et al. 2019
+MN033379.1_1	#7f7f7f	Starr et al. 2019
+MN033380.1_1	#7f7f7f	Starr et al. 2019
+MN033383.1_1	#7f7f7f	Starr et al. 2019
+MN033386.1_1	#7f7f7f	Starr et al. 2019
+MN033397.1_2	#7f7f7f	Starr et al. 2019
+MN033404.1_1	#7f7f7f	Starr et al. 2019
+MN033405.1_1	#7f7f7f	Starr et al. 2019
+MN033407.1_1	#7f7f7f	Starr et al. 2019
+MN033409.1_1	#7f7f7f	Starr et al. 2019
+MN033412.1_2	#7f7f7f	Starr et al. 2019
+MN033415.1_1	#7f7f7f	Starr et al. 2019
+MN033422.1_1	#7f7f7f	Starr et al. 2019
+MN033424.1_1	#7f7f7f	Starr et al. 2019
+MN033425.1_1	#7f7f7f	Starr et al. 2019
+MN033427.1_1	#7f7f7f	Starr et al. 2019
+MN033428.1_1	#7f7f7f	Starr et al. 2019
+MN033431.1_1	#7f7f7f	Starr et al. 2019
+MN033434.1_1	#7f7f7f	Starr et al. 2019
+MN033435.1_1	#7f7f7f	Starr et al. 2019
+MN033437.1_1	#7f7f7f	Starr et al. 2019
+MN033438.1_1	#7f7f7f	Starr et al. 2019
+MN033439.1_1	#7f7f7f	Starr et al. 2019
+MN033440.1_1	#7f7f7f	Starr et al. 2019
+MN033448.1_1	#7f7f7f	Starr et al. 2019
+MN033455.1_1	#7f7f7f	Starr et al. 2019
+MN033456.1_1	#7f7f7f	Starr et al. 2019
+MN033457.1_1	#7f7f7f	Starr et al. 2019
+MN033461.1_1	#7f7f7f	Starr et al. 2019
+MN033462.1_1	#7f7f7f	Starr et al. 2019
+MN033468.1_2	#7f7f7f	Starr et al. 2019
+MN033468.1_3	#7f7f7f	Starr et al. 2019
+MN033469.1_1	#7f7f7f	Starr et al. 2019
+MN033473.1_2	#7f7f7f	Starr et al. 2019
+MN033477.1_1	#7f7f7f	Starr et al. 2019
+MN033478.1_4	#7f7f7f	Starr et al. 2019
+MN033482.1_1	#7f7f7f	Starr et al. 2019
+MN033484.1_2	#7f7f7f	Starr et al. 2019
+MN033486.1_1	#7f7f7f	Starr et al. 2019
+MN033487.1_1	#7f7f7f	Starr et al. 2019
+MN033492.1_1	#7f7f7f	Starr et al. 2019
+MN033499.1_1	#7f7f7f	Starr et al. 2019
+MN033505.1_1	#7f7f7f	Starr et al. 2019
+MN033506.1_1	#7f7f7f	Starr et al. 2019
+MN033507.1_1	#7f7f7f	Starr et al. 2019
+MN033511.1_1	#7f7f7f	Starr et al. 2019
+MN033515.1_2	#7f7f7f	Starr et al. 2019
+MN033516.1_1	#7f7f7f	Starr et al. 2019
+MN033519.1_1	#7f7f7f	Starr et al. 2019
+MN033521.1_1	#7f7f7f	Starr et al. 2019
+MN033524.1_1	#7f7f7f	Starr et al. 2019
+MN033526.1_1	#7f7f7f	Starr et al. 2019
+MN033528.1_1	#7f7f7f	Starr et al. 2019
+MN033531.1_1	#7f7f7f	Starr et al. 2019
+MN033534.1_1	#7f7f7f	Starr et al. 2019
+MN033537.1_1	#7f7f7f	Starr et al. 2019
+MN033538.1_1	#7f7f7f	Starr et al. 2019
+MN033539.1_1	#7f7f7f	Starr et al. 2019
+MN033549.1_1	#7f7f7f	Starr et al. 2019
+MN033550.1_1	#7f7f7f	Starr et al. 2019
+MN033552.1_1	#7f7f7f	Starr et al. 2019
+MN033555.1_1	#7f7f7f	Starr et al. 2019
+MN033556.1_1	#7f7f7f	Starr et al. 2019
+MN033557.1_2	#7f7f7f	Starr et al. 2019
+MN033560.1_1	#7f7f7f	Starr et al. 2019
+MN033561.1_1	#7f7f7f	Starr et al. 2019
+MN033563.1_1	#7f7f7f	Starr et al. 2019
+MN033564.1_2	#7f7f7f	Starr et al. 2019
+MN033569.1_1	#7f7f7f	Starr et al. 2019
+MN033579.1_1	#7f7f7f	Starr et al. 2019
+MN033587.1_2	#7f7f7f	Starr et al. 2019
+MN033589.1_1	#7f7f7f	Starr et al. 2019
+MN033590.1_1	#7f7f7f	Starr et al. 2019
+MN033596.1_1	#7f7f7f	Starr et al. 2019
+MN033600.1_1	#7f7f7f	Starr et al. 2019
+MN033601.1_1	#7f7f7f	Starr et al. 2019
+MN033605.1_1	#7f7f7f	Starr et al. 2019
+MN033606.1_2	#7f7f7f	Starr et al. 2019
+MN033608.1_1	#7f7f7f	Starr et al. 2019
+MN033608.1_2	#7f7f7f	Starr et al. 2019
+MN033609.1_1	#7f7f7f	Starr et al. 2019
+MN033610.1_1	#7f7f7f	Starr et al. 2019
+MN033617.1_1	#7f7f7f	Starr et al. 2019
+MN033621.1_1	#7f7f7f	Starr et al. 2019
+MN033623.1_1	#7f7f7f	Starr et al. 2019
+MN033626.1_2	#7f7f7f	Starr et al. 2019
+MN033628.1_2	#7f7f7f	Starr et al. 2019
+MN033628.1_3	#7f7f7f	Starr et al. 2019
+MN033631.1_1	#7f7f7f	Starr et al. 2019
+MN033641.1_1	#7f7f7f	Starr et al. 2019
+MN033645.1_1	#7f7f7f	Starr et al. 2019
+MN033646.1_1	#7f7f7f	Starr et al. 2019
+MN033647.1_1	#7f7f7f	Starr et al. 2019
+MN033648.1_2	#7f7f7f	Starr et al. 2019
+MN033652.1_1	#7f7f7f	Starr et al. 2019
+MN033655.1_1	#7f7f7f	Starr et al. 2019
+MN033658.1_1	#7f7f7f	Starr et al. 2019
+MN033663.1_3	#7f7f7f	Starr et al. 2019
+MN033667.1_1	#7f7f7f	Starr et al. 2019
+MN033669.1_1	#7f7f7f	Starr et al. 2019
+MN033671.1_2	#7f7f7f	Starr et al. 2019
+MN033673.1_2	#7f7f7f	Starr et al. 2019
+MN033678.1_1	#7f7f7f	Starr et al. 2019
+MN033686.1_1	#7f7f7f	Starr et al. 2019
+MN033687.1_1	#7f7f7f	Starr et al. 2019
+MN033690.1_1	#7f7f7f	Starr et al. 2019
+MN033693.1_2	#7f7f7f	Starr et al. 2019
+MN033695.1_1	#7f7f7f	Starr et al. 2019
+MN033696.1_1	#7f7f7f	Starr et al. 2019
+MN033698.1_1	#7f7f7f	Starr et al. 2019
+MN033702.1_1	#7f7f7f	Starr et al. 2019
+MN033702.1_2	#7f7f7f	Starr et al. 2019
+MN033704.1_3	#7f7f7f	Starr et al. 2019
+MN033707.1_1	#7f7f7f	Starr et al. 2019
+MN033708.1_3	#7f7f7f	Starr et al. 2019
+MN033710.1_1	#7f7f7f	Starr et al. 2019
+MN033712.1_1	#7f7f7f	Starr et al. 2019
+MN033717.1_1	#7f7f7f	Starr et al. 2019
+MN033718.1_2	#7f7f7f	Starr et al. 2019
+MN033725.1_1	#7f7f7f	Starr et al. 2019
+MN033727.1_1	#7f7f7f	Starr et al. 2019
+MN033728.1_1	#7f7f7f	Starr et al. 2019
+MN033730.1_1	#7f7f7f	Starr et al. 2019
+MN033732.1_1	#7f7f7f	Starr et al. 2019
+MN033739.1_2	#7f7f7f	Starr et al. 2019
+MN033743.1_2	#7f7f7f	Starr et al. 2019
+MN033745.1_3	#7f7f7f	Starr et al. 2019
+MN033747.1_1	#7f7f7f	Starr et al. 2019
+MN033748.1_1	#7f7f7f	Starr et al. 2019
+MN033750.1_1	#7f7f7f	Starr et al. 2019
+MN033756.1_1	#7f7f7f	Starr et al. 2019
+MN033757.1_2	#7f7f7f	Starr et al. 2019
+MN033758.1_1	#7f7f7f	Starr et al. 2019
+MN033759.1_1	#7f7f7f	Starr et al. 2019
+MN033762.1_1	#7f7f7f	Starr et al. 2019
+MN033765.1_1	#7f7f7f	Starr et al. 2019
+MN033767.1_1	#7f7f7f	Starr et al. 2019
+MN033771.1_1	#7f7f7f	Starr et al. 2019
+MN033781.1_1	#7f7f7f	Starr et al. 2019
+MN033787.1_1	#7f7f7f	Starr et al. 2019
+MN033789.1_1	#7f7f7f	Starr et al. 2019
+MN033790.1_1	#7f7f7f	Starr et al. 2019
+MN033798.1_1	#7f7f7f	Starr et al. 2019
+MN033800.1_1	#7f7f7f	Starr et al. 2019
+MN033801.1_1	#7f7f7f	Starr et al. 2019
+MN033803.1_2	#7f7f7f	Starr et al. 2019
+MN033804.1_1	#7f7f7f	Starr et al. 2019
+MN033807.1_1	#7f7f7f	Starr et al. 2019
+MN033810.1_2	#7f7f7f	Starr et al. 2019
+MN033812.1_1	#7f7f7f	Starr et al. 2019
+MN033816.1_1	#7f7f7f	Starr et al. 2019
+MN033820.1_2	#7f7f7f	Starr et al. 2019
+MN033828.1_1	#7f7f7f	Starr et al. 2019
+MN033829.1_1	#7f7f7f	Starr et al. 2019
+MN033831.1_1	#7f7f7f	Starr et al. 2019
+MN033841.1_1	#7f7f7f	Starr et al. 2019
+MN033842.1_1	#7f7f7f	Starr et al. 2019
+MN033846.1_1	#7f7f7f	Starr et al. 2019
+MN033848.1_2	#7f7f7f	Starr et al. 2019
+MN033848.1_3	#7f7f7f	Starr et al. 2019
+MN033849.1_1	#7f7f7f	Starr et al. 2019
+MN033850.1_1	#7f7f7f	Starr et al. 2019
+MN033853.1_4	#7f7f7f	Starr et al. 2019
+MN033853.1_5	#7f7f7f	Starr et al. 2019
+MN033856.1_2	#7f7f7f	Starr et al. 2019
+MN033857.1_1	#7f7f7f	Starr et al. 2019
+MN033859.1_1	#7f7f7f	Starr et al. 2019
+MN033860.1_1	#7f7f7f	Starr et al. 2019
+MN033865.1_1	#7f7f7f	Starr et al. 2019
+MN033869.1_2	#7f7f7f	Starr et al. 2019
+MN033876.1_2	#7f7f7f	Starr et al. 2019
+MN033877.1_1	#7f7f7f	Starr et al. 2019
+MN033878.1_1	#7f7f7f	Starr et al. 2019
+MN033879.1_1	#7f7f7f	Starr et al. 2019
+MN033882.1_1	#7f7f7f	Starr et al. 2019
+MN033884.1_1	#7f7f7f	Starr et al. 2019
+MN033889.1_1	#7f7f7f	Starr et al. 2019
+MN033892.1_1	#7f7f7f	Starr et al. 2019
+MN033896.1_1	#7f7f7f	Starr et al. 2019
+MN033901.1_1	#7f7f7f	Starr et al. 2019
+MN033908.1_1	#7f7f7f	Starr et al. 2019
+MN033910.1_1	#7f7f7f	Starr et al. 2019
+MN033911.1_1	#7f7f7f	Starr et al. 2019
+MN033913.1_3	#7f7f7f	Starr et al. 2019
+MN033919.1_1	#7f7f7f	Starr et al. 2019
+MN033921.1_1	#7f7f7f	Starr et al. 2019
+MN033923.1_1	#7f7f7f	Starr et al. 2019
+MN033926.1_1	#7f7f7f	Starr et al. 2019
+MN033931.1_1	#7f7f7f	Starr et al. 2019
+MN033932.1_1	#7f7f7f	Starr et al. 2019
+MN033933.1_1	#7f7f7f	Starr et al. 2019
+MN033934.1_1	#7f7f7f	Starr et al. 2019
+MN033935.1_1	#7f7f7f	Starr et al. 2019
+MN033937.1_1	#7f7f7f	Starr et al. 2019
+MN033945.1_2	#7f7f7f	Starr et al. 2019
+MN033946.1_1	#7f7f7f	Starr et al. 2019
+MN033949.1_1	#7f7f7f	Starr et al. 2019
+MN033952.1_2	#7f7f7f	Starr et al. 2019
+MN033952.1_3	#7f7f7f	Starr et al. 2019
+MN033953.1_2	#7f7f7f	Starr et al. 2019
+MN033953.1_3	#7f7f7f	Starr et al. 2019
+MN033954.1_1	#7f7f7f	Starr et al. 2019
+MN033961.1_1	#7f7f7f	Starr et al. 2019
+MN033964.1_1	#7f7f7f	Starr et al. 2019
+MN033966.1_1	#7f7f7f	Starr et al. 2019
+MN033967.1_1	#7f7f7f	Starr et al. 2019
+MN033968.1_2	#7f7f7f	Starr et al. 2019
+MN033970.1_1	#7f7f7f	Starr et al. 2019
+MN033973.1_2	#7f7f7f	Starr et al. 2019
+MN033974.1_1	#7f7f7f	Starr et al. 2019
+MN033976.1_1	#7f7f7f	Starr et al. 2019
+MN033977.1_1	#7f7f7f	Starr et al. 2019
+MN033984.1_1	#7f7f7f	Starr et al. 2019
+MN033985.1_2	#7f7f7f	Starr et al. 2019
+MN033989.1_1	#7f7f7f	Starr et al. 2019
+MN033993.1_1	#7f7f7f	Starr et al. 2019
+MN033995.1_1	#7f7f7f	Starr et al. 2019
+MN034001.1_1	#7f7f7f	Starr et al. 2019
+MN034006.1_1	#7f7f7f	Starr et al. 2019
+MN034008.1_1	#7f7f7f	Starr et al. 2019
+MN034008.1_6	#7f7f7f	Starr et al. 2019
+MN034015.1_1	#7f7f7f	Starr et al. 2019
+MN034019.1_3	#7f7f7f	Starr et al. 2019
+MN034025.1_2	#7f7f7f	Starr et al. 2019
+MN034026.1_1	#7f7f7f	Starr et al. 2019
+MN034027.1_1	#7f7f7f	Starr et al. 2019
+MN034033.1_1	#7f7f7f	Starr et al. 2019
+MN034035.1_2	#7f7f7f	Starr et al. 2019
+MN034041.1_1	#7f7f7f	Starr et al. 2019
+MN034043.1_1	#7f7f7f	Starr et al. 2019
+MN034044.1_2	#7f7f7f	Starr et al. 2019
+MN034044.1_3	#7f7f7f	Starr et al. 2019
+MN034048.1_1	#7f7f7f	Starr et al. 2019
+MN034051.1_3	#7f7f7f	Starr et al. 2019
+MN034052.1_2	#7f7f7f	Starr et al. 2019
+MN034056.1_1	#7f7f7f	Starr et al. 2019
+MN034058.1_1	#7f7f7f	Starr et al. 2019
+MN034062.1_1	#7f7f7f	Starr et al. 2019
+MN034065.1_2	#7f7f7f	Starr et al. 2019
+MN034069.1_1	#7f7f7f	Starr et al. 2019
+MN034071.1_1	#7f7f7f	Starr et al. 2019
+MN034076.1_1	#7f7f7f	Starr et al. 2019
+MN034086.1_1	#7f7f7f	Starr et al. 2019
+MN034088.1_1	#7f7f7f	Starr et al. 2019
+MN034088.1_2	#7f7f7f	Starr et al. 2019
+MN034089.1_1	#7f7f7f	Starr et al. 2019
+MN034091.1_1	#7f7f7f	Starr et al. 2019
+MN034092.1_1	#7f7f7f	Starr et al. 2019
+MN034093.1_2	#7f7f7f	Starr et al. 2019
+MN034097.1_1	#7f7f7f	Starr et al. 2019
+MN034099.1_2	#7f7f7f	Starr et al. 2019
+MN034100.1_1	#7f7f7f	Starr et al. 2019
+MN034103.1_1	#7f7f7f	Starr et al. 2019
+MN034109.1_1	#7f7f7f	Starr et al. 2019
+MN034113.1_1	#7f7f7f	Starr et al. 2019
+MN034115.1_1	#7f7f7f	Starr et al. 2019
+MN034118.1_1	#7f7f7f	Starr et al. 2019
+MN034121.1_1	#7f7f7f	Starr et al. 2019
+MN034124.1_2	#7f7f7f	Starr et al. 2019
+MN034125.1_1	#7f7f7f	Starr et al. 2019
+MN034128.1_1	#7f7f7f	Starr et al. 2019
+MN034129.1_1	#7f7f7f	Starr et al. 2019
+MN034132.1_1	#7f7f7f	Starr et al. 2019
+MN034133.1_1	#7f7f7f	Starr et al. 2019
+MN034135.1_1	#7f7f7f	Starr et al. 2019
+MN034141.1_2	#7f7f7f	Starr et al. 2019
+MN034150.1_1	#7f7f7f	Starr et al. 2019
+MN034153.1_1	#7f7f7f	Starr et al. 2019
+MN034157.1_1	#7f7f7f	Starr et al. 2019
+MN034158.1_1	#7f7f7f	Starr et al. 2019
+MN034160.1_1	#7f7f7f	Starr et al. 2019
+MN034160.1_2	#7f7f7f	Starr et al. 2019
+MN034161.1_1	#7f7f7f	Starr et al. 2019
+MN034166.1_2	#7f7f7f	Starr et al. 2019
+MN034168.1_2	#7f7f7f	Starr et al. 2019
+MN034170.1_1	#7f7f7f	Starr et al. 2019
+MN034179.1_1	#7f7f7f	Starr et al. 2019
+MN034182.1_1	#7f7f7f	Starr et al. 2019
+MN034190.1_1	#7f7f7f	Starr et al. 2019
+MN034191.1_1	#7f7f7f	Starr et al. 2019
+MN034194.1_1	#7f7f7f	Starr et al. 2019
+MN034194.1_2	#7f7f7f	Starr et al. 2019
+MN034195.1_1	#7f7f7f	Starr et al. 2019
+MN034199.1_1	#7f7f7f	Starr et al. 2019
+MN034202.1_1	#7f7f7f	Starr et al. 2019
+MN034206.1_2	#7f7f7f	Starr et al. 2019
+MN034208.1_2	#7f7f7f	Starr et al. 2019
+MN034211.1_1	#7f7f7f	Starr et al. 2019
+MN034217.1_2	#7f7f7f	Starr et al. 2019
+MN034220.1_1	#7f7f7f	Starr et al. 2019
+MN034228.1_1	#7f7f7f	Starr et al. 2019
+MN034230.1_1	#7f7f7f	Starr et al. 2019
+MN034234.1_2	#7f7f7f	Starr et al. 2019
+MN034235.1_2	#7f7f7f	Starr et al. 2019
+MN034242.1_2	#7f7f7f	Starr et al. 2019
+MN034244.1_2	#7f7f7f	Starr et al. 2019
+MN034250.1_1	#7f7f7f	Starr et al. 2019
+MN034251.1_1	#7f7f7f	Starr et al. 2019
+MN034255.1_1	#7f7f7f	Starr et al. 2019
+MN034257.1_1	#7f7f7f	Starr et al. 2019
+MN034266.1_1	#7f7f7f	Starr et al. 2019
+MN034270.1_1	#7f7f7f	Starr et al. 2019
+MN034271.1_1	#7f7f7f	Starr et al. 2019
+MN034278.1_1	#7f7f7f	Starr et al. 2019
+MN034278.1_2	#7f7f7f	Starr et al. 2019
+MN034280.1_1	#7f7f7f	Starr et al. 2019
+MN034282.1_1	#7f7f7f	Starr et al. 2019
+MN034283.1_1	#7f7f7f	Starr et al. 2019
+MN034287.1_1	#7f7f7f	Starr et al. 2019
+MN034291.1_1	#7f7f7f	Starr et al. 2019
+MN034293.1_1	#7f7f7f	Starr et al. 2019
+MN034294.1_1	#7f7f7f	Starr et al. 2019
+MN034295.1_1	#7f7f7f	Starr et al. 2019
+MN034297.1_1	#7f7f7f	Starr et al. 2019
+MN034299.1_2	#7f7f7f	Starr et al. 2019
+MN034301.1_1	#7f7f7f	Starr et al. 2019
+MN034303.1_1	#7f7f7f	Starr et al. 2019
+MN034304.1_5	#7f7f7f	Starr et al. 2019
+MN034305.1_1	#7f7f7f	Starr et al. 2019
+MN034308.1_1	#7f7f7f	Starr et al. 2019
+MN034320.1_1	#7f7f7f	Starr et al. 2019
+MN034321.1_3	#7f7f7f	Starr et al. 2019
+MN034328.1_3	#7f7f7f	Starr et al. 2019
+MN034330.1_1	#7f7f7f	Starr et al. 2019
+MN034334.1_1	#7f7f7f	Starr et al. 2019
+MN034337.1_1	#7f7f7f	Starr et al. 2019
+MN034342.1_1	#7f7f7f	Starr et al. 2019
+MN034345.1_1	#7f7f7f	Starr et al. 2019
+MN034349.1_2	#7f7f7f	Starr et al. 2019
+MN034350.1_1	#7f7f7f	Starr et al. 2019
+MN034351.1_1	#7f7f7f	Starr et al. 2019
+MN034351.1_2	#7f7f7f	Starr et al. 2019
+MN034352.1_1	#7f7f7f	Starr et al. 2019
+MN034356.1_3	#7f7f7f	Starr et al. 2019
+MN034367.1_1	#7f7f7f	Starr et al. 2019
+MN034372.1_1	#7f7f7f	Starr et al. 2019
+MN034375.1_1	#7f7f7f	Starr et al. 2019
+MN034377.1_1	#7f7f7f	Starr et al. 2019
+MN034379.1_1	#7f7f7f	Starr et al. 2019
+MN034380.1_1	#7f7f7f	Starr et al. 2019
+MN034381.1_1	#7f7f7f	Starr et al. 2019
+MN034383.1_1	#7f7f7f	Starr et al. 2019
+MN034384.1_1	#7f7f7f	Starr et al. 2019
+MN034390.1_1	#7f7f7f	Starr et al. 2019
+MN034397.1_1	#7f7f7f	Starr et al. 2019
+MN034398.1_1	#7f7f7f	Starr et al. 2019
+MN034400.1_2	#7f7f7f	Starr et al. 2019
+MN034403.1_1	#7f7f7f	Starr et al. 2019
+MN034406.1_2	#7f7f7f	Starr et al. 2019
+MN034410.1_1	#7f7f7f	Starr et al. 2019
+MN034412.1_1	#7f7f7f	Starr et al. 2019
+MN034413.1_1	#7f7f7f	Starr et al. 2019
+MN034417.1_1	#7f7f7f	Starr et al. 2019
+MN034418.1_1	#7f7f7f	Starr et al. 2019
+MN034421.1_2	#7f7f7f	Starr et al. 2019
+MN034425.1_1	#7f7f7f	Starr et al. 2019
+MN034426.1_1	#7f7f7f	Starr et al. 2019
+MN034427.1_2	#7f7f7f	Starr et al. 2019
+MN034428.1_2	#7f7f7f	Starr et al. 2019
+MN034429.1_1	#7f7f7f	Starr et al. 2019
+MN034430.1_1	#7f7f7f	Starr et al. 2019
+MN034432.1_1	#7f7f7f	Starr et al. 2019
+MN034440.1_1	#7f7f7f	Starr et al. 2019
+MN034442.1_1	#7f7f7f	Starr et al. 2019
+MN034451.1_3	#7f7f7f	Starr et al. 2019
+MN034457.1_1	#7f7f7f	Starr et al. 2019
+MN034458.1_2	#7f7f7f	Starr et al. 2019
+MN034464.1_1	#7f7f7f	Starr et al. 2019
+MN034466.1_1	#7f7f7f	Starr et al. 2019
+MN034467.1_1	#7f7f7f	Starr et al. 2019
+MN034470.1_1	#7f7f7f	Starr et al. 2019
+MN034473.1_1	#7f7f7f	Starr et al. 2019
+MN034476.1_1	#7f7f7f	Starr et al. 2019
+MN034477.1_1	#7f7f7f	Starr et al. 2019
+MN034482.1_1	#7f7f7f	Starr et al. 2019
+MN034483.1_1	#7f7f7f	Starr et al. 2019
+MN034487.1_4	#7f7f7f	Starr et al. 2019
+MN034488.1_1	#7f7f7f	Starr et al. 2019
+MN034492.1_1	#7f7f7f	Starr et al. 2019
+MN034504.1_1	#7f7f7f	Starr et al. 2019
+MN034505.1_1	#7f7f7f	Starr et al. 2019
+MN034506.1_1	#7f7f7f	Starr et al. 2019
+MN034509.1_1	#7f7f7f	Starr et al. 2019
+MN034512.1_3	#7f7f7f	Starr et al. 2019
+MN034513.1_1	#7f7f7f	Starr et al. 2019
+MN034516.1_1	#7f7f7f	Starr et al. 2019
+MN034521.1_1	#7f7f7f	Starr et al. 2019
+MN034521.1_2	#7f7f7f	Starr et al. 2019
+MN034522.1_2	#7f7f7f	Starr et al. 2019
+MN034525.1_1	#7f7f7f	Starr et al. 2019
+MN034527.1_2	#7f7f7f	Starr et al. 2019
+MN034530.1_1	#7f7f7f	Starr et al. 2019
+MN034541.1_2	#7f7f7f	Starr et al. 2019
+MN034543.1_1	#7f7f7f	Starr et al. 2019
+MN034548.1_1	#7f7f7f	Starr et al. 2019
+MN034551.1_2	#7f7f7f	Starr et al. 2019
+MN034553.1_1	#7f7f7f	Starr et al. 2019
+MN034554.1_1	#7f7f7f	Starr et al. 2019
+MN034558.1_1	#7f7f7f	Starr et al. 2019
+MN034559.1_1	#7f7f7f	Starr et al. 2019
+MN034561.1_1	#7f7f7f	Starr et al. 2019
+MN034563.1_1	#7f7f7f	Starr et al. 2019
+MN034563.1_2	#7f7f7f	Starr et al. 2019
+MN034567.1_1	#7f7f7f	Starr et al. 2019
+MN034567.1_2	#7f7f7f	Starr et al. 2019
+MN034584.1_1	#7f7f7f	Starr et al. 2019
+MN034585.1_1	#7f7f7f	Starr et al. 2019
+MN034586.1_1	#7f7f7f	Starr et al. 2019
+MN034589.1_1	#7f7f7f	Starr et al. 2019
+MN034592.1_2	#7f7f7f	Starr et al. 2019
+MN034596.1_1	#7f7f7f	Starr et al. 2019
+MN034598.1_1	#7f7f7f	Starr et al. 2019
+MN034602.1_1	#7f7f7f	Starr et al. 2019
+MN034606.1_1	#7f7f7f	Starr et al. 2019
+MN034607.1_2	#7f7f7f	Starr et al. 2019
+MN034614.1_2	#7f7f7f	Starr et al. 2019
+MN034619.1_1	#7f7f7f	Starr et al. 2019
+MN034623.1_1	#7f7f7f	Starr et al. 2019
+MN034627.1_2	#7f7f7f	Starr et al. 2019
+MN034630.1_1	#7f7f7f	Starr et al. 2019
+MN034632.1_1	#7f7f7f	Starr et al. 2019
+MN034633.1_1	#7f7f7f	Starr et al. 2019
+MN034634.1_1	#7f7f7f	Starr et al. 2019
+MN034637.1_1	#7f7f7f	Starr et al. 2019
+MN034639.1_1	#7f7f7f	Starr et al. 2019
+MN034644.1_2	#7f7f7f	Starr et al. 2019
+MN034649.1_1	#7f7f7f	Starr et al. 2019
+MN034651.1_2	#7f7f7f	Starr et al. 2019
+MN034652.1_1	#7f7f7f	Starr et al. 2019
+MN034658.1_1	#7f7f7f	Starr et al. 2019
+MN034659.1_1	#7f7f7f	Starr et al. 2019
+MN034663.1_1	#7f7f7f	Starr et al. 2019
+MN034671.1_1	#7f7f7f	Starr et al. 2019
+MN034671.1_2	#7f7f7f	Starr et al. 2019
+MN034672.1_1	#7f7f7f	Starr et al. 2019
+MN034676.1_1	#7f7f7f	Starr et al. 2019
+MN034679.1_1	#7f7f7f	Starr et al. 2019
+MN034681.1_1	#7f7f7f	Starr et al. 2019
+MN034682.1_1	#7f7f7f	Starr et al. 2019
+MN034685.1_3	#7f7f7f	Starr et al. 2019
+MN034688.1_1	#7f7f7f	Starr et al. 2019
+MN034690.1_1	#7f7f7f	Starr et al. 2019
+MN034692.1_1	#7f7f7f	Starr et al. 2019
+MN034693.1_1	#7f7f7f	Starr et al. 2019
+MN034695.1_1	#7f7f7f	Starr et al. 2019
+MN034696.1_1	#7f7f7f	Starr et al. 2019
+MN034701.1_2	#7f7f7f	Starr et al. 2019
+MN034705.1_1	#7f7f7f	Starr et al. 2019
+MN034707.1_3	#7f7f7f	Starr et al. 2019
+MN034715.1_1	#7f7f7f	Starr et al. 2019
+MN034718.1_1	#7f7f7f	Starr et al. 2019
+MN034729.1_1	#7f7f7f	Starr et al. 2019
+MN034737.1_1	#7f7f7f	Starr et al. 2019
+MN034741.1_1	#7f7f7f	Starr et al. 2019
+MN034747.1_2	#7f7f7f	Starr et al. 2019
+MN034755.1_1	#7f7f7f	Starr et al. 2019
+MN034758.1_1	#7f7f7f	Starr et al. 2019
+MN034760.1_1	#7f7f7f	Starr et al. 2019
+MN034765.1_1	#7f7f7f	Starr et al. 2019
+MN034777.1_1	#7f7f7f	Starr et al. 2019
+MN034788.1_1	#7f7f7f	Starr et al. 2019
+MN034790.1_1	#7f7f7f	Starr et al. 2019
+MN034793.1_1	#7f7f7f	Starr et al. 2019
+MN034794.1_1	#7f7f7f	Starr et al. 2019
+MN034797.1_1	#7f7f7f	Starr et al. 2019
+MN034804.1_1	#7f7f7f	Starr et al. 2019
+MN034805.1_1	#7f7f7f	Starr et al. 2019
+MN034806.1_1	#7f7f7f	Starr et al. 2019
+MN034807.1_2	#7f7f7f	Starr et al. 2019
+MN034808.1_1	#7f7f7f	Starr et al. 2019
+MN034811.1_1	#7f7f7f	Starr et al. 2019
+MN034820.1_1	#7f7f7f	Starr et al. 2019
+MN034828.1_1	#7f7f7f	Starr et al. 2019
+MN034830.1_1	#7f7f7f	Starr et al. 2019
+MN034831.1_1	#7f7f7f	Starr et al. 2019
+MN034838.1_1	#7f7f7f	Starr et al. 2019
+MN034839.1_1	#7f7f7f	Starr et al. 2019
+MN034843.1_1	#7f7f7f	Starr et al. 2019
+MN034844.1_1	#7f7f7f	Starr et al. 2019
+MN034845.1_1	#7f7f7f	Starr et al. 2019
+MN034851.1_2	#7f7f7f	Starr et al. 2019
+MN034854.1_1	#7f7f7f	Starr et al. 2019
+MN034856.1_1	#7f7f7f	Starr et al. 2019
+MN034862.1_2	#7f7f7f	Starr et al. 2019
+MN034863.1_1	#7f7f7f	Starr et al. 2019
+MN034868.1_3	#7f7f7f	Starr et al. 2019
+MN034869.1_1	#7f7f7f	Starr et al. 2019
+MN034870.1_2	#7f7f7f	Starr et al. 2019
+MN034874.1_1	#7f7f7f	Starr et al. 2019
+MN034882.1_1	#7f7f7f	Starr et al. 2019
+MN034884.1_2	#7f7f7f	Starr et al. 2019
+MN034887.1_1	#7f7f7f	Starr et al. 2019
+MN034888.1_1	#7f7f7f	Starr et al. 2019
+MN034894.1_1	#7f7f7f	Starr et al. 2019
+MN034899.1_2	#7f7f7f	Starr et al. 2019
+MN034901.1_1	#7f7f7f	Starr et al. 2019
+MN034903.1_1	#7f7f7f	Starr et al. 2019
+MN034908.1_1	#7f7f7f	Starr et al. 2019
+MN034909.1_1	#7f7f7f	Starr et al. 2019
+MN034915.1_1	#7f7f7f	Starr et al. 2019
+MN034916.1_1	#7f7f7f	Starr et al. 2019
+MN034920.1_3	#7f7f7f	Starr et al. 2019
+MN034922.1_1	#7f7f7f	Starr et al. 2019
+MN034923.1_1	#7f7f7f	Starr et al. 2019
+MN034926.1_1	#7f7f7f	Starr et al. 2019
+MN034928.1_1	#7f7f7f	Starr et al. 2019
+MN034937.1_1	#7f7f7f	Starr et al. 2019
+MN034942.1_2	#7f7f7f	Starr et al. 2019
+MN034946.1_1	#7f7f7f	Starr et al. 2019
+MN034949.1_5	#7f7f7f	Starr et al. 2019
+MN034953.1_1	#7f7f7f	Starr et al. 2019
+MN034957.1_1	#7f7f7f	Starr et al. 2019
+MN034960.1_1	#7f7f7f	Starr et al. 2019
+MN034963.1_1	#7f7f7f	Starr et al. 2019
+MN034966.1_1	#7f7f7f	Starr et al. 2019
+MN034968.1_1	#7f7f7f	Starr et al. 2019
+MN034970.1_1	#7f7f7f	Starr et al. 2019
+MN034972.1_1	#7f7f7f	Starr et al. 2019
+MN034974.1_1	#7f7f7f	Starr et al. 2019
+MN034975.1_3	#7f7f7f	Starr et al. 2019
+MN034983.1_1	#7f7f7f	Starr et al. 2019
+MN034987.1_1	#7f7f7f	Starr et al. 2019
+MN034989.1_1	#7f7f7f	Starr et al. 2019
+MN034992.1_2	#7f7f7f	Starr et al. 2019
+MN034993.1_1	#7f7f7f	Starr et al. 2019
+MN034995.1_1	#7f7f7f	Starr et al. 2019
+MN034998.1_2	#7f7f7f	Starr et al. 2019
+MN034999.1_2	#7f7f7f	Starr et al. 2019
+MN035001.1_1	#7f7f7f	Starr et al. 2019
+MN035006.1_1	#7f7f7f	Starr et al. 2019
+MN035011.1_2	#7f7f7f	Starr et al. 2019
+MN035012.1_1	#7f7f7f	Starr et al. 2019
+MN035012.1_2	#7f7f7f	Starr et al. 2019
+MN035016.1_2	#7f7f7f	Starr et al. 2019
+MN035017.1_1	#7f7f7f	Starr et al. 2019
+MN035022.1_1	#7f7f7f	Starr et al. 2019
+MN035022.1_2	#7f7f7f	Starr et al. 2019
+MN035031.1_1	#7f7f7f	Starr et al. 2019
+MN035033.1_1	#7f7f7f	Starr et al. 2019
+MN035038.1_2	#7f7f7f	Starr et al. 2019
+MN035038.1_3	#7f7f7f	Starr et al. 2019
+MN035047.1_1	#7f7f7f	Starr et al. 2019
+MN035050.1_2	#7f7f7f	Starr et al. 2019
+MN035052.1_1	#7f7f7f	Starr et al. 2019
+MN035055.1_3	#7f7f7f	Starr et al. 2019
+MN035056.1_2	#7f7f7f	Starr et al. 2019
+MN035057.1_2	#7f7f7f	Starr et al. 2019
+MN035058.1_1	#7f7f7f	Starr et al. 2019
+MN035061.1_2	#7f7f7f	Starr et al. 2019
+MN035063.1_2	#7f7f7f	Starr et al. 2019
+MN035064.1_1	#7f7f7f	Starr et al. 2019
+MN035068.1_1	#7f7f7f	Starr et al. 2019
+MN035074.1_1	#7f7f7f	Starr et al. 2019
+MN035080.1_2	#7f7f7f	Starr et al. 2019
+MN035084.1_1	#7f7f7f	Starr et al. 2019
+MN035086.1_1	#7f7f7f	Starr et al. 2019
+MN035087.1_1	#7f7f7f	Starr et al. 2019
+MN035088.1_1	#7f7f7f	Starr et al. 2019
+MN035089.1_1	#7f7f7f	Starr et al. 2019
+MN035096.1_1	#7f7f7f	Starr et al. 2019
+MN035098.1_2	#7f7f7f	Starr et al. 2019
+MN035099.1_1	#7f7f7f	Starr et al. 2019
+MN035100.1_1	#7f7f7f	Starr et al. 2019
+MN035101.1_2	#7f7f7f	Starr et al. 2019
+MN035102.1_1	#7f7f7f	Starr et al. 2019
+MN035105.1_2	#7f7f7f	Starr et al. 2019
+MN035106.1_1	#7f7f7f	Starr et al. 2019
+MN035111.1_1	#7f7f7f	Starr et al. 2019
+MN035120.1_2	#7f7f7f	Starr et al. 2019
+MN035120.1_3	#7f7f7f	Starr et al. 2019
+MN035129.1_3	#7f7f7f	Starr et al. 2019
+MN035129.1_4	#7f7f7f	Starr et al. 2019
+MN035136.1_1	#7f7f7f	Starr et al. 2019
+MN035140.1_1	#7f7f7f	Starr et al. 2019
+MN035142.1_1	#7f7f7f	Starr et al. 2019
+MN035147.1_1	#7f7f7f	Starr et al. 2019
+MN035148.1_1	#7f7f7f	Starr et al. 2019
+MN035155.1_2	#7f7f7f	Starr et al. 2019
+MN035157.1_2	#7f7f7f	Starr et al. 2019
+MN035157.1_3	#7f7f7f	Starr et al. 2019
+MN035162.1_1	#7f7f7f	Starr et al. 2019
+MN035162.1_2	#7f7f7f	Starr et al. 2019
+MN035163.1_1	#7f7f7f	Starr et al. 2019
+MN035165.1_1	#7f7f7f	Starr et al. 2019
+MN035169.1_3	#7f7f7f	Starr et al. 2019
+MN035171.1_1	#7f7f7f	Starr et al. 2019
+MN035172.1_1	#7f7f7f	Starr et al. 2019
+MN035174.1_1	#7f7f7f	Starr et al. 2019
+MN035175.1_1	#7f7f7f	Starr et al. 2019
+MN035176.1_1	#7f7f7f	Starr et al. 2019
+MN035177.1_1	#7f7f7f	Starr et al. 2019
+MN035178.1_1	#7f7f7f	Starr et al. 2019
+MN035180.1_1	#7f7f7f	Starr et al. 2019
+MN035185.1_1	#7f7f7f	Starr et al. 2019
+MN035186.1_1	#7f7f7f	Starr et al. 2019
+MN035187.1_1	#7f7f7f	Starr et al. 2019
+MN035188.1_1	#7f7f7f	Starr et al. 2019
+MN035193.1_1	#7f7f7f	Starr et al. 2019
+MN035194.1_1	#7f7f7f	Starr et al. 2019
+MN035195.1_1	#7f7f7f	Starr et al. 2019
+MN035199.1_1	#7f7f7f	Starr et al. 2019
+MN035201.1_3	#7f7f7f	Starr et al. 2019
+MN035203.1_1	#7f7f7f	Starr et al. 2019
+MN035205.1_2	#7f7f7f	Starr et al. 2019
+MN035208.1_2	#7f7f7f	Starr et al. 2019
+MN035213.1_1	#7f7f7f	Starr et al. 2019
+MN035216.1_1	#7f7f7f	Starr et al. 2019
+MN035218.1_1	#7f7f7f	Starr et al. 2019
+MN035218.1_2	#7f7f7f	Starr et al. 2019
+MN035219.1_1	#7f7f7f	Starr et al. 2019
+MN035221.1_1	#7f7f7f	Starr et al. 2019
+MN035222.1_1	#7f7f7f	Starr et al. 2019
+MN035223.1_1	#7f7f7f	Starr et al. 2019
+MN035224.1_1	#7f7f7f	Starr et al. 2019
+MN035226.1_1	#7f7f7f	Starr et al. 2019
+MN035227.1_1	#7f7f7f	Starr et al. 2019
+MN035230.1_1	#7f7f7f	Starr et al. 2019
+MN035244.1_1	#7f7f7f	Starr et al. 2019
+MN035244.1_2	#7f7f7f	Starr et al. 2019
+MN035248.1_1	#7f7f7f	Starr et al. 2019
+MN035251.1_1	#7f7f7f	Starr et al. 2019
+MN035253.1_1	#7f7f7f	Starr et al. 2019
+MN035255.1_1	#7f7f7f	Starr et al. 2019
+MN035259.1_1	#7f7f7f	Starr et al. 2019
+MN035261.1_1	#7f7f7f	Starr et al. 2019
+MN035263.1_1	#7f7f7f	Starr et al. 2019
+MN035264.1_2	#7f7f7f	Starr et al. 2019
+MN035266.1_1	#7f7f7f	Starr et al. 2019
+MN035270.1_1	#7f7f7f	Starr et al. 2019
+MN035278.1_2	#7f7f7f	Starr et al. 2019
+MN035281.1_1	#7f7f7f	Starr et al. 2019
+MN035283.1_1	#7f7f7f	Starr et al. 2019
+MN035290.1_1	#7f7f7f	Starr et al. 2019
+MN035291.1_1	#7f7f7f	Starr et al. 2019
+MN035293.1_1	#7f7f7f	Starr et al. 2019
+MN035295.1_1	#7f7f7f	Starr et al. 2019
+MN035297.1_1	#7f7f7f	Starr et al. 2019
+MN035298.1_1	#7f7f7f	Starr et al. 2019
+MN035300.1_2	#7f7f7f	Starr et al. 2019
+MN035303.1_1	#7f7f7f	Starr et al. 2019
+MN035304.1_1	#7f7f7f	Starr et al. 2019
+MN035305.1_2	#7f7f7f	Starr et al. 2019
+MN035307.1_1	#7f7f7f	Starr et al. 2019
+MN035314.1_1	#7f7f7f	Starr et al. 2019
+MN035322.1_1	#7f7f7f	Starr et al. 2019
+MN035323.1_1	#7f7f7f	Starr et al. 2019
+MN035341.1_1	#7f7f7f	Starr et al. 2019
+MN035345.1_1	#7f7f7f	Starr et al. 2019
+MN035348.1_1	#7f7f7f	Starr et al. 2019
+MN035351.1_1	#7f7f7f	Starr et al. 2019
+MN035359.1_1	#7f7f7f	Starr et al. 2019
+MN035363.1_1	#7f7f7f	Starr et al. 2019
+MN035368.1_1	#7f7f7f	Starr et al. 2019
+MN035371.1_1	#7f7f7f	Starr et al. 2019
+MN035372.1_1	#7f7f7f	Starr et al. 2019
+MN035372.1_2	#7f7f7f	Starr et al. 2019
+MN035376.1_2	#7f7f7f	Starr et al. 2019
+MN035378.1_1	#7f7f7f	Starr et al. 2019
+MN035383.1_2	#7f7f7f	Starr et al. 2019
+MN035386.1_1	#7f7f7f	Starr et al. 2019
+MN035389.1_1	#7f7f7f	Starr et al. 2019
+MN035390.1_1	#7f7f7f	Starr et al. 2019
+MN035392.1_1	#7f7f7f	Starr et al. 2019
+MN035394.1_1	#7f7f7f	Starr et al. 2019
+MN035410.1_1	#7f7f7f	Starr et al. 2019
+MN035412.1_1	#7f7f7f	Starr et al. 2019
+MN035415.1_2	#7f7f7f	Starr et al. 2019
+MN035416.1_2	#7f7f7f	Starr et al. 2019
+MN035417.1_1	#7f7f7f	Starr et al. 2019
+MN035420.1_1	#7f7f7f	Starr et al. 2019
+MN035422.1_1	#7f7f7f	Starr et al. 2019
+MN035427.1_1	#7f7f7f	Starr et al. 2019
+MN035428.1_4	#7f7f7f	Starr et al. 2019
+MN035435.1_1	#7f7f7f	Starr et al. 2019
+MN035437.1_1	#7f7f7f	Starr et al. 2019
+MN035439.1_2	#7f7f7f	Starr et al. 2019
+MN035440.1_1	#7f7f7f	Starr et al. 2019
+MN035441.1_1	#7f7f7f	Starr et al. 2019
+MN035443.1_1	#7f7f7f	Starr et al. 2019
+MN035443.1_2	#7f7f7f	Starr et al. 2019
+MN035448.1_1	#7f7f7f	Starr et al. 2019
+MN035450.1_1	#7f7f7f	Starr et al. 2019
+MN035453.1_1	#7f7f7f	Starr et al. 2019
+MN035459.1_1	#7f7f7f	Starr et al. 2019
+MN035460.1_1	#7f7f7f	Starr et al. 2019
+MN035461.1_1	#7f7f7f	Starr et al. 2019
+MN035462.1_2	#7f7f7f	Starr et al. 2019
+MN035464.1_1	#7f7f7f	Starr et al. 2019
+MN035468.1_1	#7f7f7f	Starr et al. 2019
+MN035470.1_1	#7f7f7f	Starr et al. 2019
+MN035479.1_1	#7f7f7f	Starr et al. 2019
+MN035481.1_2	#7f7f7f	Starr et al. 2019
+MN035483.1_1	#7f7f7f	Starr et al. 2019
+MN035484.1_1	#7f7f7f	Starr et al. 2019
+MN035486.1_1	#7f7f7f	Starr et al. 2019
+MN035486.1_2	#7f7f7f	Starr et al. 2019
+MN035488.1_1	#7f7f7f	Starr et al. 2019
+MN035490.1_1	#7f7f7f	Starr et al. 2019
+MN035491.1_1	#7f7f7f	Starr et al. 2019
+MN035494.1_1	#7f7f7f	Starr et al. 2019
+MN035495.1_2	#7f7f7f	Starr et al. 2019
+MN035504.1_2	#7f7f7f	Starr et al. 2019
+MN035506.1_1	#7f7f7f	Starr et al. 2019
+MN035509.1_1	#7f7f7f	Starr et al. 2019
+MN035517.1_1	#7f7f7f	Starr et al. 2019
+MN035521.1_1	#7f7f7f	Starr et al. 2019
+MN035522.1_1	#7f7f7f	Starr et al. 2019
+MN035524.1_1	#7f7f7f	Starr et al. 2019
+MN035525.1_2	#7f7f7f	Starr et al. 2019
+MN035526.1_2	#7f7f7f	Starr et al. 2019
+MN035532.1_1	#7f7f7f	Starr et al. 2019
+MN035538.1_1	#7f7f7f	Starr et al. 2019
+MN035549.1_1	#7f7f7f	Starr et al. 2019
+MN035552.1_1	#7f7f7f	Starr et al. 2019
+MN035553.1_1	#7f7f7f	Starr et al. 2019
+MN035554.1_1	#7f7f7f	Starr et al. 2019
+MN035555.1_1	#7f7f7f	Starr et al. 2019
+MN035560.1_1	#7f7f7f	Starr et al. 2019
+MN035562.1_1	#7f7f7f	Starr et al. 2019
+MN035564.1_1	#7f7f7f	Starr et al. 2019
+MN035573.1_1	#7f7f7f	Starr et al. 2019
+MN035577.1_2	#7f7f7f	Starr et al. 2019
+MN035578.1_1	#7f7f7f	Starr et al. 2019
+MN035580.1_1	#7f7f7f	Starr et al. 2019
+MN035583.1_1	#7f7f7f	Starr et al. 2019
+MN035584.1_2	#7f7f7f	Starr et al. 2019
+MN035587.1_1	#7f7f7f	Starr et al. 2019
+MN035591.1_1	#7f7f7f	Starr et al. 2019
+MN035593.1_1	#7f7f7f	Starr et al. 2019
+MN035596.1_1	#7f7f7f	Starr et al. 2019
+MN035600.1_2	#7f7f7f	Starr et al. 2019
+MN035611.1_1	#7f7f7f	Starr et al. 2019
+MN035620.1_1	#7f7f7f	Starr et al. 2019
+MN035623.1_1	#7f7f7f	Starr et al. 2019
+MN035625.1_2	#7f7f7f	Starr et al. 2019
+MN035626.1_1	#7f7f7f	Starr et al. 2019
+MN035627.1_1	#7f7f7f	Starr et al. 2019
+MN035634.1_1	#7f7f7f	Starr et al. 2019
+MN035635.1_2	#7f7f7f	Starr et al. 2019
+MN035636.1_1	#7f7f7f	Starr et al. 2019
+MN035638.1_1	#7f7f7f	Starr et al. 2019
+MN035639.1_1	#7f7f7f	Starr et al. 2019
+MN035644.1_1	#7f7f7f	Starr et al. 2019
+MN035648.1_1	#7f7f7f	Starr et al. 2019
+MN035650.1_1	#7f7f7f	Starr et al. 2019
+MN035651.1_1	#7f7f7f	Starr et al. 2019
+MN035652.1_2	#7f7f7f	Starr et al. 2019
+MN035657.1_2	#7f7f7f	Starr et al. 2019
+MN035659.1_2	#7f7f7f	Starr et al. 2019
+MN035662.1_1	#7f7f7f	Starr et al. 2019
+MN035663.1_1	#7f7f7f	Starr et al. 2019
+MN035664.1_1	#7f7f7f	Starr et al. 2019
+MN035666.1_1	#7f7f7f	Starr et al. 2019
+MN035668.1_1	#7f7f7f	Starr et al. 2019
+MN035671.1_2	#7f7f7f	Starr et al. 2019
+MN035671.1_3	#7f7f7f	Starr et al. 2019
+MN035672.1_1	#7f7f7f	Starr et al. 2019
+MN035672.1_2	#7f7f7f	Starr et al. 2019
+MN035673.1_1	#7f7f7f	Starr et al. 2019
+MN035676.1_1	#7f7f7f	Starr et al. 2019
+MN035686.1_1	#7f7f7f	Starr et al. 2019
+MN035692.1_1	#7f7f7f	Starr et al. 2019
+MN035696.1_2	#7f7f7f	Starr et al. 2019
+MN035701.1_1	#7f7f7f	Starr et al. 2019
+MN035703.1_1	#7f7f7f	Starr et al. 2019
+MN035704.1_1	#7f7f7f	Starr et al. 2019
+MN035705.1_1	#7f7f7f	Starr et al. 2019
+MN035709.1_1	#7f7f7f	Starr et al. 2019
+MN035710.1_1	#7f7f7f	Starr et al. 2019
+MN035715.1_2	#7f7f7f	Starr et al. 2019
+MN035716.1_1	#7f7f7f	Starr et al. 2019
+MN035717.1_3	#7f7f7f	Starr et al. 2019
+MN035720.1_1	#7f7f7f	Starr et al. 2019
+MN035723.1_1	#7f7f7f	Starr et al. 2019
+MN035729.1_1	#7f7f7f	Starr et al. 2019
+MN035733.1_1	#7f7f7f	Starr et al. 2019
+MN035734.1_1	#7f7f7f	Starr et al. 2019
+MN035737.1_1	#7f7f7f	Starr et al. 2019
+MN035737.1_2	#7f7f7f	Starr et al. 2019
+MN035749.1_1	#7f7f7f	Starr et al. 2019
+MN035751.1_1	#7f7f7f	Starr et al. 2019
+MN035752.1_1	#7f7f7f	Starr et al. 2019
+MN035753.1_4	#7f7f7f	Starr et al. 2019
+MN035754.1_2	#7f7f7f	Starr et al. 2019
+MN035754.1_3	#7f7f7f	Starr et al. 2019
+MN035756.1_2	#7f7f7f	Starr et al. 2019
+MN035757.1_1	#7f7f7f	Starr et al. 2019
+MN035759.1_3	#7f7f7f	Starr et al. 2019
+MN035760.1_1	#7f7f7f	Starr et al. 2019
+MN035762.1_2	#7f7f7f	Starr et al. 2019
+MN035768.1_1	#7f7f7f	Starr et al. 2019
+MN035772.1_1	#7f7f7f	Starr et al. 2019
+MN035779.1_2	#7f7f7f	Starr et al. 2019
+MN035779.1_3	#7f7f7f	Starr et al. 2019
+MN035780.1_1	#7f7f7f	Starr et al. 2019
+MN035783.1_1	#7f7f7f	Starr et al. 2019
+MN035785.1_1	#7f7f7f	Starr et al. 2019
+MN035788.1_1	#7f7f7f	Starr et al. 2019
+MN035790.1_1	#7f7f7f	Starr et al. 2019
+MN035796.1_1	#7f7f7f	Starr et al. 2019
+MN035798.1_1	#7f7f7f	Starr et al. 2019
+MN035799.1_1	#7f7f7f	Starr et al. 2019
+MN035801.1_1	#7f7f7f	Starr et al. 2019
+MN035807.1_1	#7f7f7f	Starr et al. 2019
+MN035808.1_1	#7f7f7f	Starr et al. 2019
+MN035809.1_1	#7f7f7f	Starr et al. 2019
+MN035812.1_1	#7f7f7f	Starr et al. 2019
+MN035815.1_1	#7f7f7f	Starr et al. 2019
+MN035819.1_1	#7f7f7f	Starr et al. 2019
+MN035821.1_1	#7f7f7f	Starr et al. 2019
+MN035822.1_2	#7f7f7f	Starr et al. 2019
+MN035831.1_1	#7f7f7f	Starr et al. 2019
+MN035835.1_3	#7f7f7f	Starr et al. 2019
+MN035842.1_1	#7f7f7f	Starr et al. 2019
+MN035844.1_1	#7f7f7f	Starr et al. 2019
+MN035858.1_1	#7f7f7f	Starr et al. 2019
+MN035858.1_2	#7f7f7f	Starr et al. 2019
+MN035860.1_1	#7f7f7f	Starr et al. 2019
+MN035861.1_1	#7f7f7f	Starr et al. 2019
+MN035862.1_2	#7f7f7f	Starr et al. 2019
+MN035863.1_1	#7f7f7f	Starr et al. 2019
+MN035864.1_1	#7f7f7f	Starr et al. 2019
+MN035866.1_1	#7f7f7f	Starr et al. 2019
+MN035870.1_1	#7f7f7f	Starr et al. 2019
+MN035872.1_1	#7f7f7f	Starr et al. 2019
+MN035888.1_1	#7f7f7f	Starr et al. 2019
+MN035889.1_1	#7f7f7f	Starr et al. 2019
+MN035892.1_4	#7f7f7f	Starr et al. 2019
+MN035892.1_6	#7f7f7f	Starr et al. 2019
+MN035894.1_2	#7f7f7f	Starr et al. 2019
+MN035896.1_1	#7f7f7f	Starr et al. 2019
+MN035899.1_1	#7f7f7f	Starr et al. 2019
+MN035900.1_1	#7f7f7f	Starr et al. 2019
+MN035900.1_2	#7f7f7f	Starr et al. 2019
+MN035902.1_1	#7f7f7f	Starr et al. 2019
+MN035903.1_1	#7f7f7f	Starr et al. 2019
+MN035906.1_3	#7f7f7f	Starr et al. 2019
+MN035906.1_4	#7f7f7f	Starr et al. 2019
+MN035907.1_1	#7f7f7f	Starr et al. 2019
+MN035916.1_1	#7f7f7f	Starr et al. 2019
+MN035917.1_1	#7f7f7f	Starr et al. 2019
+MN035919.1_2	#7f7f7f	Starr et al. 2019
+MN035924.1_1	#7f7f7f	Starr et al. 2019
+MN035927.1_1	#7f7f7f	Starr et al. 2019
+MN035930.1_1	#7f7f7f	Starr et al. 2019
+MN035931.1_1	#7f7f7f	Starr et al. 2019
+MN035933.1_1	#7f7f7f	Starr et al. 2019
+MN035935.1_1	#7f7f7f	Starr et al. 2019
+MN035936.1_1	#7f7f7f	Starr et al. 2019
+MN035941.1_1	#7f7f7f	Starr et al. 2019
+MN035943.1_1	#7f7f7f	Starr et al. 2019
+MN035951.1_1	#7f7f7f	Starr et al. 2019
+MN035958.1_1	#7f7f7f	Starr et al. 2019
+MN035961.1_1	#7f7f7f	Starr et al. 2019
+MN035963.1_1	#7f7f7f	Starr et al. 2019
+MN035964.1_1	#7f7f7f	Starr et al. 2019
+MN035965.1_1	#7f7f7f	Starr et al. 2019
+MN035967.1_1	#7f7f7f	Starr et al. 2019
+MN035968.1_1	#7f7f7f	Starr et al. 2019
+MN035969.1_1	#7f7f7f	Starr et al. 2019
+MN035973.1_1	#7f7f7f	Starr et al. 2019
+MN035974.1_1	#7f7f7f	Starr et al. 2019
+MN035976.1_1	#7f7f7f	Starr et al. 2019
+MN035977.1_1	#7f7f7f	Starr et al. 2019
+MN035978.1_1	#7f7f7f	Starr et al. 2019
+MN035978.1_2	#7f7f7f	Starr et al. 2019
+MN035980.1_1	#7f7f7f	Starr et al. 2019
+MN035982.1_1	#7f7f7f	Starr et al. 2019
+MN035983.1_1	#7f7f7f	Starr et al. 2019
+MN035985.1_1	#7f7f7f	Starr et al. 2019
+MN035990.1_1	#7f7f7f	Starr et al. 2019
+MN035992.1_1	#7f7f7f	Starr et al. 2019
+MN035993.1_1	#7f7f7f	Starr et al. 2019
+MN035997.1_1	#7f7f7f	Starr et al. 2019
+MN035999.1_1	#7f7f7f	Starr et al. 2019
+MN035999.1_6	#7f7f7f	Starr et al. 2019
+MN036002.1_1	#7f7f7f	Starr et al. 2019
+MN036005.1_1	#7f7f7f	Starr et al. 2019
+MN036006.1_1	#7f7f7f	Starr et al. 2019
+MN036011.1_1	#7f7f7f	Starr et al. 2019
+MN036014.1_1	#7f7f7f	Starr et al. 2019
+MN036020.1_2	#7f7f7f	Starr et al. 2019
+MN036021.1_1	#7f7f7f	Starr et al. 2019
+MN036022.1_1	#7f7f7f	Starr et al. 2019
+MN036034.1_1	#7f7f7f	Starr et al. 2019
+MN036038.1_1	#7f7f7f	Starr et al. 2019
+MN036045.1_1	#7f7f7f	Starr et al. 2019
+MN036045.1_2	#7f7f7f	Starr et al. 2019
+MN036054.1_1	#7f7f7f	Starr et al. 2019
+MN036057.1_1	#7f7f7f	Starr et al. 2019
+MN036059.1_1	#7f7f7f	Starr et al. 2019
+MN036060.1_2	#7f7f7f	Starr et al. 2019
+MN036064.1_1	#7f7f7f	Starr et al. 2019
+MN036071.1_1	#7f7f7f	Starr et al. 2019
+MN036074.1_2	#7f7f7f	Starr et al. 2019
+MN036082.1_1	#7f7f7f	Starr et al. 2019
+MN036091.1_1	#7f7f7f	Starr et al. 2019
+MN036092.1_2	#7f7f7f	Starr et al. 2019
+MN036101.1_1	#7f7f7f	Starr et al. 2019
+MN036102.1_1	#7f7f7f	Starr et al. 2019
+MN036104.1_1	#7f7f7f	Starr et al. 2019
+MN036106.1_1	#7f7f7f	Starr et al. 2019
+MN036111.1_2	#7f7f7f	Starr et al. 2019
+MN036115.1_1	#7f7f7f	Starr et al. 2019
+MN036116.1_1	#7f7f7f	Starr et al. 2019
+MN036117.1_1	#7f7f7f	Starr et al. 2019
+MN036118.1_1	#7f7f7f	Starr et al. 2019
+MN036124.1_1	#7f7f7f	Starr et al. 2019
+MN036136.1_2	#7f7f7f	Starr et al. 2019
+MN036136.1_3	#7f7f7f	Starr et al. 2019
+MN036137.1_1	#7f7f7f	Starr et al. 2019
+MN036138.1_1	#7f7f7f	Starr et al. 2019
+MN036139.1_3	#7f7f7f	Starr et al. 2019
+MN036139.1_4	#7f7f7f	Starr et al. 2019
+MN036141.1_1	#7f7f7f	Starr et al. 2019
+MN036143.1_1	#7f7f7f	Starr et al. 2019
+MN036145.1_1	#7f7f7f	Starr et al. 2019
+MN036146.1_1	#7f7f7f	Starr et al. 2019
+MN036147.1_2	#7f7f7f	Starr et al. 2019
+MN036149.1_1	#7f7f7f	Starr et al. 2019
+MN036154.1_1	#7f7f7f	Starr et al. 2019
+MN036157.1_1	#7f7f7f	Starr et al. 2019
+MN036169.1_1	#7f7f7f	Starr et al. 2019
+MN036181.1_1	#7f7f7f	Starr et al. 2019
+MN036195.1_1	#7f7f7f	Starr et al. 2019
+MN036196.1_1	#7f7f7f	Starr et al. 2019
+MN036196.1_2	#7f7f7f	Starr et al. 2019
+MN036197.1_1	#7f7f7f	Starr et al. 2019
+MN036198.1_1	#7f7f7f	Starr et al. 2019
+MN036208.1_1	#7f7f7f	Starr et al. 2019
+MN036212.1_2	#7f7f7f	Starr et al. 2019
+MN036222.1_2	#7f7f7f	Starr et al. 2019
+MN036224.1_1	#7f7f7f	Starr et al. 2019
+MN036229.1_1	#7f7f7f	Starr et al. 2019
+MN036234.1_1	#7f7f7f	Starr et al. 2019
+MN036235.1_2	#7f7f7f	Starr et al. 2019
+MN036241.1_1	#7f7f7f	Starr et al. 2019
+MN036242.1_1	#7f7f7f	Starr et al. 2019
+MN036245.1_1	#7f7f7f	Starr et al. 2019
+MN036249.1_1	#7f7f7f	Starr et al. 2019
+MN036250.1_1	#7f7f7f	Starr et al. 2019
+MN036255.1_2	#7f7f7f	Starr et al. 2019
+MN036256.1_1	#7f7f7f	Starr et al. 2019
+MN036260.1_1	#7f7f7f	Starr et al. 2019
+MN036264.1_1	#7f7f7f	Starr et al. 2019
+MN036266.1_1	#7f7f7f	Starr et al. 2019
+MN036268.1_1	#7f7f7f	Starr et al. 2019
+MN036272.1_1	#7f7f7f	Starr et al. 2019
+MN036285.1_1	#7f7f7f	Starr et al. 2019
+MN036286.1_1	#7f7f7f	Starr et al. 2019
+MN036287.1_1	#7f7f7f	Starr et al. 2019
+MN036287.1_2	#7f7f7f	Starr et al. 2019
+MN036293.1_1	#7f7f7f	Starr et al. 2019
+MN036297.1_1	#7f7f7f	Starr et al. 2019
+MN036298.1_1	#7f7f7f	Starr et al. 2019
+MN036300.1_2	#7f7f7f	Starr et al. 2019
+MN036312.1_1	#7f7f7f	Starr et al. 2019
+MN036316.1_1	#7f7f7f	Starr et al. 2019
+MN036325.1_1	#7f7f7f	Starr et al. 2019
+MN036325.1_2	#7f7f7f	Starr et al. 2019
+MN036329.1_1	#7f7f7f	Starr et al. 2019
+YP_009329842.1	#000000	Wolf et al. 2018
+YP_009333139.1	#000000	Wolf et al. 2018
+YP_009333146.1	#000000	Wolf et al. 2018
+YP_009333179.1	#000000	Wolf et al. 2018
+YP_009333245.1	#000000	Wolf et al. 2018
+YP_009333261.1	#000000	Wolf et al. 2018
+YP_009333331.1	#000000	Wolf et al. 2018
+YP_009336494.1	#000000	Wolf et al. 2018
+YP_009336548.1	#000000	Wolf et al. 2018
+YP_009336622.1	#000000	Wolf et al. 2018
+YP_009336688.1	#000000	Wolf et al. 2018
+YP_009336749.1	#000000	Wolf et al. 2018
+YP_009336767.1	#000000	Wolf et al. 2018
+YP_009337166.1	#000000	Wolf et al. 2018
+YP_009337200.1	#000000	Wolf et al. 2018
+YP_009337744.1	#000000	Wolf et al. 2018
+YP_009337775.1	#000000	Wolf et al. 2018
+YP_009342440.1	#000000	Wolf et al. 2018
+YP_009342444.1	#000000	Wolf et al. 2018
+YP_077184.1	#000000	Wolf et al. 2018

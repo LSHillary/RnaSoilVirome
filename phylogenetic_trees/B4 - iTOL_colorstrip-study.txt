@@ -1,0 +1,569 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+BORDER_WIDTH	1
+COLOR	#bebada
+DATASET_LABEL	study
+LEGEND_COLORS	#ffffff	#7f7f7f	#000000
+LEGEND_LABELS	This study	Starr et al. 2018	Wolf et al. 2019
+LEGEND_SHAPES	1	1	1
+LEGEND_TITLE	study
+MARGIN	5
+STRIP_WIDTH	150
+DATA
+AMB17466.1	#000000	Wolf et al. 2019
+AMB17467.1	#000000	Wolf et al. 2019
+AMB17468.1	#000000	Wolf et al. 2019
+AMB17469.1	#000000	Wolf et al. 2019
+AMB17470.1	#000000	Wolf et al. 2019
+AMB17471.1	#000000	Wolf et al. 2019
+AMB17474.1	#000000	Wolf et al. 2019
+AMB17475.1	#000000	Wolf et al. 2019
+ABK35363.1	#000000	Wolf et al. 2019
+NP_690823.1	#000000	Wolf et al. 2019
+NP_690817.1	#000000	Wolf et al. 2019
+YP_002600763.2	#000000	Wolf et al. 2019
+NP_524561.1	#000000	Wolf et al. 2019
+ANM47305.1	#000000	Wolf et al. 2019
+ALM62244.1	#000000	Wolf et al. 2019
+CAJ29958.1	#000000	Wolf et al. 2019
+CAJ29959.1	#000000	Wolf et al. 2019
+ADW08802.1	#000000	Wolf et al. 2019
+YP_001531163.1	#000000	Wolf et al. 2019
+CAX48749.1	#000000	Wolf et al. 2019
+AJD14830.1	#000000	Wolf et al. 2019
+ACT79255.1	#000000	Wolf et al. 2019
+ABQ53134.1	#000000	Wolf et al. 2019
+YP_052858.1	#000000	Wolf et al. 2019
+YP_392482.1	#000000	Wolf et al. 2019
+AJA37498.1	#000000	Wolf et al. 2019
+ACU11563.1	#000000	Wolf et al. 2019
+AKU48197.1	#000000	Wolf et al. 2019
+ALW95408.1	#000000	Wolf et al. 2019
+YP_009158913.1	#000000	Wolf et al. 2019
+ADO60926.1	#000000	Wolf et al. 2019
+YP_009337840.1	#000000	Wolf et al. 2019
+ALD89090.1	#000000	Wolf et al. 2019
+YP_003858286.1	#000000	Wolf et al. 2019
+YP_009182332.1	#000000	Wolf et al. 2019
+ALO50149.1	#000000	Wolf et al. 2019
+AFE83590.1	#000000	Wolf et al. 2019
+ADG21213.1	#000000	Wolf et al. 2019
+BAM93353.1	#000000	Wolf et al. 2019
+YP_005097975.1	#000000	Wolf et al. 2019
+YP_003288763.1	#000000	Wolf et al. 2019
+ALO50147.1	#000000	Wolf et al. 2019
+ANR02705.1	#000000	Wolf et al. 2019
+YP_009227124.1	#000000	Wolf et al. 2019
+YP_009143529.1	#000000	Wolf et al. 2019
+BAJ23141.1	#000000	Wolf et al. 2019
+BAT50987.1	#000000	Wolf et al. 2019
+YP_001976142.1	#000000	Wolf et al. 2019
+ABX79997.1	#000000	Wolf et al. 2019
+YP_009115498.1	#000000	Wolf et al. 2019
+YP_003359178.1	#000000	Wolf et al. 2019
+YP_003288789.1	#000000	Wolf et al. 2019
+YP_009253995.1	#000000	Wolf et al. 2019
+YP_009253997.1	#000000	Wolf et al. 2019
+AEZ54148.1	#000000	Wolf et al. 2019
+AEZ54146.1	#000000	Wolf et al. 2019
+BAG71788.2	#000000	Wolf et al. 2019
+ALD89097.1	#000000	Wolf et al. 2019
+YP_009141011.1	#000000	Wolf et al. 2019
+AMT92139.1	#000000	Wolf et al. 2019
+AND83002.1	#000000	Wolf et al. 2019
+YP_006331065.1	#000000	Wolf et al. 2019
+AOX49922.1	#000000	Wolf et al. 2019
+YP_009342055.1	#000000	Wolf et al. 2019
+APG76028.1	#000000	Wolf et al. 2019
+APG76016.1	#000000	Wolf et al. 2019
+YP_009272952.1	#000000	Wolf et al. 2019
+ALO81040.1	#000000	Wolf et al. 2019
+AJE29745.1	#000000	Wolf et al. 2019
+ANR02704.1	#000000	Wolf et al. 2019
+YP_009158860.1	#000000	Wolf et al. 2019
+ALO50138.1	#000000	Wolf et al. 2019
+YP_006390636.1	#000000	Wolf et al. 2019
+AGG68772.1	#000000	Wolf et al. 2019
+ADQ54106.1	#000000	Wolf et al. 2019
+ABX79995.1	#000000	Wolf et al. 2019
+ABX79996.1	#000000	Wolf et al. 2019
+YP_001109580.1	#000000	Wolf et al. 2019
+ALD89108.1	#000000	Wolf et al. 2019
+NP_620728.1	#000000	Wolf et al. 2019
+AFH09416.2	#000000	Wolf et al. 2019
+AFH09414.1	#000000	Wolf et al. 2019
+YP_009212848.1	#000000	Wolf et al. 2019
+AMZ84250.1	#000000	Wolf et al. 2019
+BAT62478.1	#000000	Wolf et al. 2019
+YP_009182176.1	#000000	Wolf et al. 2019
+YP_009182181.1	#000000	Wolf et al. 2019
+BAT62484.1	#000000	Wolf et al. 2019
+YP_009182188.1	#000000	Wolf et al. 2019
+YP_009182190.1	#000000	Wolf et al. 2019
+YP_009182195.1	#000000	Wolf et al. 2019
+BAT62492.1	#000000	Wolf et al. 2019
+YP_009182198.1	#000000	Wolf et al. 2019
+YP_009328931.1	#000000	Wolf et al. 2019
+YP_009209482.1	#000000	Wolf et al. 2019
+CCD33024.1	#000000	Wolf et al. 2019
+AMQ11131.1	#000000	Wolf et al. 2019
+CCC42235.1	#000000	Wolf et al. 2019
+YP_392467.1	#000000	Wolf et al. 2019
+CAK02788.1	#000000	Wolf et al. 2019
+NP_624332.2	#000000	Wolf et al. 2019
+NP_898833.1	#000000	Wolf et al. 2019
+NP_619670.2	#000000	Wolf et al. 2019
+YP_122352.1	#000000	Wolf et al. 2019
+YP_001649206.1	#000000	Wolf et al. 2019
+YP_008130308.1	#000000	Wolf et al. 2019
+NP_047558.1	#000000	Wolf et al. 2019
+NP_047560.1	#000000	Wolf et al. 2019
+YP_004089630.1	#000000	Wolf et al. 2019
+BAU71114.1	#000000	Wolf et al. 2019
+YP_009032633.1	#000000	Wolf et al. 2019
+YP_009072433.1	#000000	Wolf et al. 2019
+YP_009272905.1	#000000	Wolf et al. 2019
+YP_009143307.1	#000000	Wolf et al. 2019
+YP_009254736.1	#000000	Wolf et al. 2019
+YP_009115492.1	#000000	Wolf et al. 2019
+YP_009259368.1	#000000	Wolf et al. 2019
+CBY84993.1	#000000	Wolf et al. 2019
+AHH25153.1	#000000	Wolf et al. 2019
+YP_007761589.1	#000000	Wolf et al. 2019
+YP_009004156.1	#000000	Wolf et al. 2019
+YP_009182167.1	#000000	Wolf et al. 2019
+YP_009094185.1	#000000	Wolf et al. 2019
+YP_003541123.1	#000000	Wolf et al. 2019
+CAJ34335.2	#000000	Wolf et al. 2019
+AOR51364.1	#000000	Wolf et al. 2019
+YP_003934934.1	#000000	Wolf et al. 2019
+APS85760.1	#000000	Wolf et al. 2019
+YP_009230208.1	#000000	Wolf et al. 2019
+YP_009143313.1	#000000	Wolf et al. 2019
+ANZ93873.1	#000000	Wolf et al. 2019
+YP_009072448.1	#000000	Wolf et al. 2019
+AIC34744.2	#000000	Wolf et al. 2019
+ADN64814.1	#000000	Wolf et al. 2019
+YP_009246466.1	#000000	Wolf et al. 2019
+BAJ21511.1	#000000	Wolf et al. 2019
+BAJ21513.1	#000000	Wolf et al. 2019
+YP_003800001.1	#000000	Wolf et al. 2019
+YP_003800003.1	#000000	Wolf et al. 2019
+AEX87902.1	#000000	Wolf et al. 2019
+YP_001497151.1	#000000	Wolf et al. 2019
+ACA61232.1	#000000	Wolf et al. 2019
+AMU19320.1	#000000	Wolf et al. 2019
+YP_009179230.1	#000000	Wolf et al. 2019
+YP_009025166.1	#000000	Wolf et al. 2019
+ALM62239.1	#000000	Wolf et al. 2019
+APU54692.1	#000000	Wolf et al. 2019
+NP_619653.1	#000000	Wolf et al. 2019
+AHK06414.1	#000000	Wolf et al. 2019
+AHK06416.1	#000000	Wolf et al. 2019
+NP_043465.1	#000000	Wolf et al. 2019
+ABC86751.1	#000000	Wolf et al. 2019
+AED99816.1	#000000	Wolf et al. 2019
+YP_009162330.1	#000000	Wolf et al. 2019
+AED99808.1	#000000	Wolf et al. 2019
+AET81014.1	#000000	Wolf et al. 2019
+AET81016.1	#000000	Wolf et al. 2019
+AED99802.1	#000000	Wolf et al. 2019
+NP_108651.1	#000000	Wolf et al. 2019
+AOM63180.1	#000000	Wolf et al. 2019
+NP_620730.2	#000000	Wolf et al. 2019
+AED99798.1	#000000	Wolf et al. 2019
+YP_009115500.1	#000000	Wolf et al. 2019
+AED99918.1	#000000	Wolf et al. 2019
+AKH03088.1	#000000	Wolf et al. 2019
+AGG38806.1	#000000	Wolf et al. 2019
+ANE37523.1	#000000	Wolf et al. 2019
+YP_001837095.1	#000000	Wolf et al. 2019
+YP_009259508.1	#000000	Wolf et al. 2019
+YP_009351850.1	#000000	Wolf et al. 2019
+AIY69147.1	#000000	Wolf et al. 2019
+ANY92092.1	#000000	Wolf et al. 2019
+AGR44279.1	#000000	Wolf et al. 2019
+ALL54833.1	#000000	Wolf et al. 2019
+AER60533.1	#000000	Wolf et al. 2019
+APC23688.2	#000000	Wolf et al. 2019
+CEK41871.1	#000000	Wolf et al. 2019
+ANK78265.1	#000000	Wolf et al. 2019
+AHZ32852.1	#000000	Wolf et al. 2019
+AKK52481.1	#000000	Wolf et al. 2019
+ANS59539.1	#000000	Wolf et al. 2019
+AFX61456.1	#000000	Wolf et al. 2019
+AGA19160.1	#000000	Wolf et al. 2019
+AKE33179.1	#000000	Wolf et al. 2019
+ANN82201.1	#000000	Wolf et al. 2019
+ANN82202.1	#000000	Wolf et al. 2019
+ADC53109.1	#000000	Wolf et al. 2019
+ADF57894.1	#000000	Wolf et al. 2019
+BAU80848.1	#000000	Wolf et al. 2019
+AGO57775.1	#000000	Wolf et al. 2019
+YP_003896046.1	#000000	Wolf et al. 2019
+YP_008145313.1	#000000	Wolf et al. 2019
+AGW95854.1	#000000	Wolf et al. 2019
+ANN82327.1	#000000	Wolf et al. 2019
+YP_392490.1	#000000	Wolf et al. 2019
+AKA63285.1	#000000	Wolf et al. 2019
+AQX34659.1	#000000	Wolf et al. 2019
+APQ41753.1	#000000	Wolf et al. 2019
+YP_004769548.1	#000000	Wolf et al. 2019
+AOE46771.1	#000000	Wolf et al. 2019
+YP_003717773.1	#000000	Wolf et al. 2019
+AIU99579.1	#000000	Wolf et al. 2019
+BAW99715.1	#000000	Wolf et al. 2019
+AOM63686.1	#000000	Wolf et al. 2019
+YP_009020578.1	#000000	Wolf et al. 2019
+AOW41972.1	#000000	Wolf et al. 2019
+AFX73365.1	#000000	Wolf et al. 2019
+AGZ92010.1	#000000	Wolf et al. 2019
+AGZ92012.1	#000000	Wolf et al. 2019
+AGZ92017.1	#000000	Wolf et al. 2019
+AIV43186.1	#000000	Wolf et al. 2019
+AIV43189.1	#000000	Wolf et al. 2019
+AKC89306.1	#000000	Wolf et al. 2019
+YP_009158878.1	#000000	Wolf et al. 2019
+YP_009158901.1	#000000	Wolf et al. 2019
+AHC53348.1	#000000	Wolf et al. 2019
+BAD89093.1	#000000	Wolf et al. 2019
+ADU57375.1	#000000	Wolf et al. 2019
+AFH41509.1	#000000	Wolf et al. 2019
+AFH41499.1	#000000	Wolf et al. 2019
+YP_003896058.1	#000000	Wolf et al. 2019
+AGG68141.1	#000000	Wolf et al. 2019
+ADM88606.1	#000000	Wolf et al. 2019
+AFX73376.1	#000000	Wolf et al. 2019
+AFX73387.1	#000000	Wolf et al. 2019
+ALW83178.1	#000000	Wolf et al. 2019
+YP_460038.1	#000000	Wolf et al. 2019
+YP_052942.1	#000000	Wolf et al. 2019
+AGZ62525.1	#000000	Wolf et al. 2019
+YP_008719912.1	#000000	Wolf et al. 2019
+AQU42768.1	#000000	Wolf et al. 2019
+AIU36219.1	#000000	Wolf et al. 2019
+YP_009345879.1	#000000	Wolf et al. 2019
+ANH10670.1	#000000	Wolf et al. 2019
+AFH41519.1	#000000	Wolf et al. 2019
+AGE32260.1	#000000	Wolf et al. 2019
+YP_002925132.1	#000000	Wolf et al. 2019
+YP_009158877.1	#000000	Wolf et al. 2019
+AIT55702.1	#000000	Wolf et al. 2019
+AIT55713.1	#000000	Wolf et al. 2019
+YP_443925.1	#000000	Wolf et al. 2019
+YP_460026.1	#000000	Wolf et al. 2019
+BAU79504.1	#000000	Wolf et al. 2019
+BAU79506.1	#000000	Wolf et al. 2019
+BAU79508.1	#000000	Wolf et al. 2019
+BAU79510.1	#000000	Wolf et al. 2019
+BAU79486.1	#000000	Wolf et al. 2019
+BAU79490.1	#000000	Wolf et al. 2019
+BAU79492.1	#000000	Wolf et al. 2019
+BAU79494.1	#000000	Wolf et al. 2019
+BAU79496.1	#000000	Wolf et al. 2019
+BAU79498.1	#000000	Wolf et al. 2019
+BAU79502.1	#000000	Wolf et al. 2019
+BAU79524.1	#000000	Wolf et al. 2019
+BAU79526.1	#000000	Wolf et al. 2019
+YP_003289293.1	#000000	Wolf et al. 2019
+YP_009256209.1	#000000	Wolf et al. 2019
+ANN85847.2	#000000	Wolf et al. 2019
+YP_009225665.1	#000000	Wolf et al. 2019
+YP_004581250.1	#000000	Wolf et al. 2019
+YP_009229915.1	#000000	Wolf et al. 2019
+APG75991.1	#000000	Wolf et al. 2019
+APG75984.1	#000000	Wolf et al. 2019
+APG75995.1	#000000	Wolf et al. 2019
+YP_009336713.1	#000000	Wolf et al. 2019
+APG75982.1	#000000	Wolf et al. 2019
+APG76077.1	#000000	Wolf et al. 2019
+YP_009336493.1	#000000	Wolf et al. 2019
+APG76021.1	#000000	Wolf et al. 2019
+YP_009336693.1	#000000	Wolf et al. 2019
+YP_009336780.1	#000000	Wolf et al. 2019
+APG76023.1	#000000	Wolf et al. 2019
+YP_009336859.1	#000000	Wolf et al. 2019
+YP_009336872.1	#000000	Wolf et al. 2019
+YP_009336917.1	#000000	Wolf et al. 2019
+YP_009336932.1	#000000	Wolf et al. 2019
+YP_009333170.1	#000000	Wolf et al. 2019
+YP_009336496.1	#000000	Wolf et al. 2019
+YP_009336642.1	#000000	Wolf et al. 2019
+APG76000.1	#000000	Wolf et al. 2019
+YP_009336908.1	#000000	Wolf et al. 2019
+APG76078.1	#000000	Wolf et al. 2019
+APG76044.1	#000000	Wolf et al. 2019
+YP_009336942.1	#000000	Wolf et al. 2019
+APG75978.1	#000000	Wolf et al. 2019
+APG76025.1	#000000	Wolf et al. 2019
+APG76017.1	#000000	Wolf et al. 2019
+YP_009336788.1	#000000	Wolf et al. 2019
+APG76012.1	#000000	Wolf et al. 2019
+YP_009336732.1	#000000	Wolf et al. 2019
+APG76060.1	#000000	Wolf et al. 2019
+YP_009337086.1	#000000	Wolf et al. 2019
+APG76064.1	#000000	Wolf et al. 2019
+APG75979.1	#000000	Wolf et al. 2019
+CAA63099.2	#000000	Wolf et al. 2019
+NP_620544.1	#000000	Wolf et al. 2019
+ABF67520.1	#000000	Wolf et al. 2019
+AFG73673.1	#000000	Wolf et al. 2019
+APG79084.1	#000000	Wolf et al. 2019
+APG79088.1	#000000	Wolf et al. 2019
+APG79108.1	#000000	Wolf et al. 2019
+APG79103.1	#000000	Wolf et al. 2019
+APG79144.1	#000000	Wolf et al. 2019
+APG79149.1	#000000	Wolf et al. 2019
+APG79114.1	#000000	Wolf et al. 2019
+APG79087.1	#000000	Wolf et al. 2019
+APG79155.1	#000000	Wolf et al. 2019
+APG79215.1	#000000	Wolf et al. 2019
+YP_009333150.1	#000000	Wolf et al. 2019
+YP_009333276.1	#000000	Wolf et al. 2019
+APG75996.1	#000000	Wolf et al. 2019
+YP_009333409.1	#000000	Wolf et al. 2019
+YP_009333402.1	#000000	Wolf et al. 2019
+YP_009333465.1	#000000	Wolf et al. 2019
+YP_009336523.1	#000000	Wolf et al. 2019
+YP_009336604.1	#000000	Wolf et al. 2019
+YP_009336825.1	#000000	Wolf et al. 2019
+YP_009336893.1	#000000	Wolf et al. 2019
+YP_009337111.1	#000000	Wolf et al. 2019
+YP_009342428.1	#000000	Wolf et al. 2019
+YP_009342434.1	#000000	Wolf et al. 2019
+YP_009342430.1	#000000	Wolf et al. 2019
+APG76052.1	#000000	Wolf et al. 2019
+APG76049.1	#000000	Wolf et al. 2019
+YP_009342432.1	#000000	Wolf et al. 2019
+YP_009345028.1	#000000	Wolf et al. 2019
+MN032678.1_3	#7f7f7f	Starr et al. 2018
+MN032728.1_1	#7f7f7f	Starr et al. 2018
+MN032890.1_1	#7f7f7f	Starr et al. 2018
+MN032927.1_1	#7f7f7f	Starr et al. 2018
+MN032930.1_1	#7f7f7f	Starr et al. 2018
+MN032968.1_1	#7f7f7f	Starr et al. 2018
+MN033057.1_1	#7f7f7f	Starr et al. 2018
+MN033095.1_1	#7f7f7f	Starr et al. 2018
+MN033165.1_1	#7f7f7f	Starr et al. 2018
+MN033206.1_1	#7f7f7f	Starr et al. 2018
+MN033302.1_1	#7f7f7f	Starr et al. 2018
+MN033307.1_1	#7f7f7f	Starr et al. 2018
+MN033316.1_1	#7f7f7f	Starr et al. 2018
+MN033359.1_1	#7f7f7f	Starr et al. 2018
+MN033371.1_1	#7f7f7f	Starr et al. 2018
+MN033374.1_1	#7f7f7f	Starr et al. 2018
+MN033419.1_1	#7f7f7f	Starr et al. 2018
+MN033436.1_1	#7f7f7f	Starr et al. 2018
+MN033463.1_1	#7f7f7f	Starr et al. 2018
+MN033512.1_1	#7f7f7f	Starr et al. 2018
+MN033604.1_1	#7f7f7f	Starr et al. 2018
+MN033948.1_2	#7f7f7f	Starr et al. 2018
+MN033998.1_1	#7f7f7f	Starr et al. 2018
+MN034214.1_1	#7f7f7f	Starr et al. 2018
+MN034236.1_1	#7f7f7f	Starr et al. 2018
+MN034241.1_1	#7f7f7f	Starr et al. 2018
+MN034263.1_1	#7f7f7f	Starr et al. 2018
+MN034276.1_1	#7f7f7f	Starr et al. 2018
+MN034333.1_2	#7f7f7f	Starr et al. 2018
+MN034364.1_1	#7f7f7f	Starr et al. 2018
+MN034395.1_1	#7f7f7f	Starr et al. 2018
+MN034396.1_1	#7f7f7f	Starr et al. 2018
+MN034515.1_1	#7f7f7f	Starr et al. 2018
+MN034556.1_1	#7f7f7f	Starr et al. 2018
+MN034661.1_1	#7f7f7f	Starr et al. 2018
+MN034709.1_1	#7f7f7f	Starr et al. 2018
+MN034841.1_1	#7f7f7f	Starr et al. 2018
+MN035025.1_1	#7f7f7f	Starr et al. 2018
+MN035035.1_1	#7f7f7f	Starr et al. 2018
+MN035045.1_1	#7f7f7f	Starr et al. 2018
+MN035045.1_2	#7f7f7f	Starr et al. 2018
+MN035070.1_1	#7f7f7f	Starr et al. 2018
+MN035108.1_2	#7f7f7f	Starr et al. 2018
+MN035132.1_1	#7f7f7f	Starr et al. 2018
+MN035161.1_1	#7f7f7f	Starr et al. 2018
+MN035262.1_1	#7f7f7f	Starr et al. 2018
+MN035319.1_1	#7f7f7f	Starr et al. 2018
+MN035374.1_2	#7f7f7f	Starr et al. 2018
+MN035388.1_1	#7f7f7f	Starr et al. 2018
+MN035411.1_1	#7f7f7f	Starr et al. 2018
+MN035456.1_1	#7f7f7f	Starr et al. 2018
+MN035544.1_1	#7f7f7f	Starr et al. 2018
+MN035557.1_1	#7f7f7f	Starr et al. 2018
+MN035631.1_2	#7f7f7f	Starr et al. 2018
+MN035646.1_1	#7f7f7f	Starr et al. 2018
+MN035661.1_2	#7f7f7f	Starr et al. 2018
+MN035665.1_1	#7f7f7f	Starr et al. 2018
+MN035725.1_1	#7f7f7f	Starr et al. 2018
+MN035793.1_1	#7f7f7f	Starr et al. 2018
+MN035797.1_1	#7f7f7f	Starr et al. 2018
+MN035806.1_1	#7f7f7f	Starr et al. 2018
+MN035856.1_1	#7f7f7f	Starr et al. 2018
+MN035895.1_1	#7f7f7f	Starr et al. 2018
+MN036009.1_1	#7f7f7f	Starr et al. 2018
+MN036040.1_1	#7f7f7f	Starr et al. 2018
+MN036052.1_2	#7f7f7f	Starr et al. 2018
+MN036107.1_2	#7f7f7f	Starr et al. 2018
+MN036110.1_1	#7f7f7f	Starr et al. 2018
+MN036142.1_3	#7f7f7f	Starr et al. 2018
+MN036163.1_1	#7f7f7f	Starr et al. 2018
+MN036204.1_1	#7f7f7f	Starr et al. 2018
+MN036220.1_1	#7f7f7f	Starr et al. 2018
+MN036302.1_1	#7f7f7f	Starr et al. 2018
+MN036307.1_1	#7f7f7f	Starr et al. 2018
+k127_1012488_1	#ffffff	This study
+k127_1018441_1	#ffffff	This study
+k127_1110204_1	#ffffff	This study
+k127_1128866_1	#ffffff	This study
+k127_1177121_1	#ffffff	This study
+k127_1179839_1	#ffffff	This study
+k127_1217629_1	#ffffff	This study
+k127_1268480_1	#ffffff	This study
+k127_1315406_1	#ffffff	This study
+k127_1375292_1	#ffffff	This study
+k127_1408332_1	#ffffff	This study
+k127_1460681_1	#ffffff	This study
+k127_1463261_1	#ffffff	This study
+k127_1475551_1	#ffffff	This study
+k127_1496735_1	#ffffff	This study
+k127_1509101_1	#ffffff	This study
+k127_1514454_1	#ffffff	This study
+k127_1519245_1	#ffffff	This study
+k127_1586698_1	#ffffff	This study
+k127_1624148_2	#ffffff	This study
+k127_1667810_1	#ffffff	This study
+k127_1669914_1	#ffffff	This study
+k127_1716379_1	#ffffff	This study
+k127_1727211_1	#ffffff	This study
+k127_1755684_1	#ffffff	This study
+k127_177632_1	#ffffff	This study
+k127_1833469_1	#ffffff	This study
+k127_1867787_1	#ffffff	This study
+k127_1881158_1	#ffffff	This study
+k127_1910171_1	#ffffff	This study
+k127_1945625_1	#ffffff	This study
+k127_1947912_1	#ffffff	This study
+k127_1948278_1	#ffffff	This study
+k127_1976470_1	#ffffff	This study
+k127_1981436_1	#ffffff	This study
+k127_2032276_1	#ffffff	This study
+k127_2047053_1	#ffffff	This study
+k127_2089974_1	#ffffff	This study
+k127_2094896_1	#ffffff	This study
+k127_2123323_1	#ffffff	This study
+k127_2141829_1	#ffffff	This study
+k127_2213435_1	#ffffff	This study
+k127_2214144_1	#ffffff	This study
+k127_2216845_1	#ffffff	This study
+k127_2245452_1	#ffffff	This study
+k127_2261002_1	#ffffff	This study
+k127_2300817_1	#ffffff	This study
+k127_2350277_1	#ffffff	This study
+k127_2360694_1	#ffffff	This study
+k127_2393771_1	#ffffff	This study
+k127_2417089_1	#ffffff	This study
+k127_2432318_3	#ffffff	This study
+k127_2466949_1	#ffffff	This study
+k127_2490028_1	#ffffff	This study
+k127_2492081_1	#ffffff	This study
+k127_2511552_1	#ffffff	This study
+k127_2512471_1	#ffffff	This study
+k127_2513408_1	#ffffff	This study
+k127_2532412_1	#ffffff	This study
+k127_254537_1	#ffffff	This study
+k127_2556658_1	#ffffff	This study
+k127_2564530_1	#ffffff	This study
+k127_2570232_1	#ffffff	This study
+k127_2582532_1	#ffffff	This study
+k127_2611380_1	#ffffff	This study
+k127_2632096_1	#ffffff	This study
+k127_263691_1	#ffffff	This study
+k127_2656923_1	#ffffff	This study
+k127_2669794_1	#ffffff	This study
+k127_269607_1	#ffffff	This study
+k127_2710240_1	#ffffff	This study
+k127_2731616_1	#ffffff	This study
+k127_2789378_1	#ffffff	This study
+k127_2793155_1	#ffffff	This study
+k127_2808660_1	#ffffff	This study
+k127_281064_1	#ffffff	This study
+k127_2812670_1	#ffffff	This study
+k127_2838510_1	#ffffff	This study
+k127_2867139_1	#ffffff	This study
+k127_2877375_1	#ffffff	This study
+k127_288803_1	#ffffff	This study
+k127_2938605_1	#ffffff	This study
+k127_294139_1	#ffffff	This study
+k127_3024153_1	#ffffff	This study
+k127_3026155_1	#ffffff	This study
+k127_3093611_1	#ffffff	This study
+k127_3097271_2	#ffffff	This study
+k127_3103591_1	#ffffff	This study
+k127_3140686_1	#ffffff	This study
+k127_3200633_1	#ffffff	This study
+k127_3235600_1	#ffffff	This study
+k127_3240337_1	#ffffff	This study
+k127_3250783_1	#ffffff	This study
+k127_3291969_1	#ffffff	This study
+k127_3301056_1	#ffffff	This study
+k127_3308763_1	#ffffff	This study
+k127_3320230_1	#ffffff	This study
+k127_3350203_1	#ffffff	This study
+k127_3404194_1	#ffffff	This study
+k127_3429061_1	#ffffff	This study
+k127_352688_1	#ffffff	This study
+k127_362695_1	#ffffff	This study
+k127_366881_1	#ffffff	This study
+k127_377814_1	#ffffff	This study
+k127_416378_1	#ffffff	This study
+k127_421157_1	#ffffff	This study
+k127_451474_1	#ffffff	This study
+k127_464937_1	#ffffff	This study
+k127_488925_1	#ffffff	This study
+k127_490966_1	#ffffff	This study
+k127_497014_1	#ffffff	This study
+k127_514686_1	#ffffff	This study
+k127_523049_1	#ffffff	This study
+k127_532245_1	#ffffff	This study
+k127_533937_1	#ffffff	This study
+k127_564873_1	#ffffff	This study
+k127_569180_1	#ffffff	This study
+k127_573630_1	#ffffff	This study
+k127_632385_1	#ffffff	This study
+k127_648930_1	#ffffff	This study
+k127_659950_1	#ffffff	This study
+k127_676626_1	#ffffff	This study
+k127_676986_1	#ffffff	This study
+k127_682780_1	#ffffff	This study
+k127_690145_1	#ffffff	This study
+k127_696628_1	#ffffff	This study
+k127_706022_1	#ffffff	This study
+k127_761418_1	#ffffff	This study
+k127_77492_1	#ffffff	This study
+k127_792026_1	#ffffff	This study
+k127_800619_1	#ffffff	This study
+k127_82353_1	#ffffff	This study
+k127_847288_1	#ffffff	This study
+k127_862964_1	#ffffff	This study
+k127_866121_1	#ffffff	This study
+k127_869318_1	#ffffff	This study
+k127_886483_1	#ffffff	This study
+k127_91142_1	#ffffff	This study
+k127_912214_1	#ffffff	This study
+k127_91234_1	#ffffff	This study
+k127_938693_1	#ffffff	This study
+k127_943502_1	#ffffff	This study
+k127_951100_1	#ffffff	This study
+k127_962648_1	#ffffff	This study
+k127_985010_1	#ffffff	This study
+pdb|2R7Q|A	#000000	Wolf et al. 2019
+pir||T00494	#000000	Wolf et al. 2019
+sp|P23172.2|RDRP_SCVLB	#000000	Wolf et al. 2019
+sp|P35942.1|RDRP_ROTGI	#000000	Wolf et al. 2019
+sp|Q02119.1|RDRP_RDVA	#000000	Wolf et al. 2019
+sp|Q67653.2|RDRP_GLVWB	#000000	Wolf et al. 2019
+AJT39581.1	#000000	Wolf et al. 2019
+AJT39583.1	#000000	Wolf et al. 2019
+AJT39585.1	#000000	Wolf et al. 2019
+AJT39589.1	#000000	Wolf et al. 2019
+BAU79519.1	#000000	Wolf et al. 2019
+BAU79515.1	#000000	Wolf et al. 2019
